@@ -10,7 +10,7 @@ permalink: /download/
 
 Download the latest release of **Pokémon Scientist**:
 
-**[Pokémon Scientist v1.0 patch.bps]({{ "/assets/patch/Pokemon_Scientist_v1_0_patch.bps" | relative_url }})**
+[Download Pokémon Scientist v1.0 Patch (.bps)](https://github.com/corruptedoutlook/pokemon-scientist/releases/download/v1.0/Pokemon_Scientist_v1_0_patch.bps)
 
 Pokémon Scientist is distributed as a **BPS patch**, not as a ROM. You must supply your own legally obtained copy of **Pokémon Blue (USA, Europe) (SGB Enhanced).rom**.
 
