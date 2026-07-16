@@ -1,0 +1,70 @@
+{
+  "id": "magikarp",
+  "name": "Magikarp",
+  "sprite": "/assets/img/pokemon/magikarp.png",
+  "hack": {
+    "hp": 25,
+    "attack": 20,
+    "defense": 60,
+    "speed": 85,
+    "special": 20,
+    "bst": 210,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 255,
+    "base_exp": 20,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "SPLASH",
+      "TACKLE"
+    ],
+    "learnset": [],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "TACKLE"
+      },
+      {
+        "level": 20,
+        "move": "BITE"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 20,
+    "attack": 10,
+    "defense": 55,
+    "speed": 80,
+    "special": 20,
+    "bst": 185,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 255,
+    "base_exp": 20,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "SPLASH"
+    ],
+    "learnset": [],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "TACKLE"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 10,
+      "defense": 5,
+      "speed": 5,
+      "bst": 25
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

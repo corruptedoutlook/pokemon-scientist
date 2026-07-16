@@ -1,0 +1,185 @@
+{
+  "id": "slowbro",
+  "name": "Slowbro",
+  "sprite": "/assets/img/pokemon/slowbro.png",
+  "hack": {
+    "hp": 100,
+    "attack": 90,
+    "defense": 120,
+    "speed": 40,
+    "special": 100,
+    "bst": 450,
+    "type1": "WATER",
+    "type2": "PSYCHIC_TYPE",
+    "catch_rate": 120,
+    "base_exp": 164,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "CONFUSION",
+      "DISABLE",
+      "HEADBUTT"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "FLASH",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "PAY_DAY",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 18,
+        "move": "WATER_GUN"
+      },
+      {
+        "level": 22,
+        "move": "WITHDRAW"
+      },
+      {
+        "level": 27,
+        "move": "AMNESIA"
+      },
+      {
+        "level": 33,
+        "move": "PSYCHIC_M"
+      },
+      {
+        "level": 39,
+        "move": "REST"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 95,
+    "attack": 75,
+    "defense": 110,
+    "speed": 30,
+    "special": 80,
+    "bst": 390,
+    "type1": "WATER",
+    "type2": "PSYCHIC_TYPE",
+    "catch_rate": 75,
+    "base_exp": 164,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "CONFUSION",
+      "DISABLE",
+      "HEADBUTT"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "FLASH",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "PAY_DAY",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 18,
+        "move": "DISABLE"
+      },
+      {
+        "level": 22,
+        "move": "HEADBUTT"
+      },
+      {
+        "level": 27,
+        "move": "GROWL"
+      },
+      {
+        "level": 33,
+        "move": "WATER_GUN"
+      },
+      {
+        "level": 37,
+        "move": "WITHDRAW"
+      },
+      {
+        "level": 44,
+        "move": "AMNESIA"
+      },
+      {
+        "level": 55,
+        "move": "PSYCHIC_M"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 15,
+      "defense": 10,
+      "speed": 10,
+      "special": 20,
+      "bst": 60,
+      "catch_rate": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

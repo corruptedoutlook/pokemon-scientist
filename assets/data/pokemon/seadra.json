@@ -1,0 +1,135 @@
+{
+  "id": "seadra",
+  "name": "Seadra",
+  "sprite": "/assets/img/pokemon/seadra.png",
+  "hack": {
+    "hp": 70,
+    "attack": 75,
+    "defense": 100,
+    "speed": 100,
+    "special": 110,
+    "bst": 455,
+    "type1": "WATER",
+    "type2": "DRAGON",
+    "catch_rate": 120,
+    "base_exp": 155,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "BUBBLE",
+      "SMOKESCREEN",
+      "LEER",
+      "WATER_GUN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 19,
+        "move": "AGILITY"
+      },
+      {
+        "level": 30,
+        "move": "HYDRO_PUMP"
+      },
+      {
+        "level": 38,
+        "move": "SHARP_SCALE"
+      },
+      {
+        "level": 56,
+        "move": "DRACOMETEOR"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 55,
+    "attack": 65,
+    "defense": 95,
+    "speed": 85,
+    "special": 95,
+    "bst": 395,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 75,
+    "base_exp": 155,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "BUBBLE",
+      "SMOKESCREEN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 19,
+        "move": "SMOKESCREEN"
+      },
+      {
+        "level": 24,
+        "move": "LEER"
+      },
+      {
+        "level": 30,
+        "move": "WATER_GUN"
+      },
+      {
+        "level": 41,
+        "move": "AGILITY"
+      },
+      {
+        "level": 52,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 15,
+      "attack": 10,
+      "defense": 5,
+      "speed": 15,
+      "special": 15,
+      "bst": 60,
+      "catch_rate": 45
+    },
+    "typing": true,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

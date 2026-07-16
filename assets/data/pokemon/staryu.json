@@ -1,0 +1,157 @@
+{
+  "id": "staryu",
+  "name": "Staryu",
+  "sprite": "/assets/img/pokemon/staryu.png",
+  "hack": {
+    "hp": 45,
+    "attack": 55,
+    "defense": 70,
+    "speed": 95,
+    "special": 80,
+    "bst": 345,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 225,
+    "base_exp": 106,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "WATER_GUN",
+      "HARDEN",
+      "RECOVER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "ICE_BEAM",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 17,
+        "move": "SWIFT"
+      },
+      {
+        "level": 22,
+        "move": "MINIMIZE"
+      },
+      {
+        "level": 27,
+        "move": "LIGHT_SCREEN"
+      },
+      {
+        "level": 35,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 30,
+    "attack": 45,
+    "defense": 55,
+    "speed": 85,
+    "special": 70,
+    "bst": 285,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 225,
+    "base_exp": 106,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "TACKLE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "ICE_BEAM",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 17,
+        "move": "WATER_GUN"
+      },
+      {
+        "level": 22,
+        "move": "HARDEN"
+      },
+      {
+        "level": 27,
+        "move": "RECOVER"
+      },
+      {
+        "level": 32,
+        "move": "SWIFT"
+      },
+      {
+        "level": 37,
+        "move": "MINIMIZE"
+      },
+      {
+        "level": 42,
+        "move": "LIGHT_SCREEN"
+      },
+      {
+        "level": 47,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 15,
+      "attack": 10,
+      "defense": 15,
+      "speed": 10,
+      "special": 10,
+      "bst": 60
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

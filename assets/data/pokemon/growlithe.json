@@ -1,0 +1,132 @@
+{
+  "id": "growlithe",
+  "name": "Growlithe",
+  "sprite": "/assets/img/pokemon/growlithe.png",
+  "hack": {
+    "hp": 60,
+    "attack": 75,
+    "defense": 50,
+    "speed": 70,
+    "special": 55,
+    "bst": 310,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 190,
+    "base_exp": 91,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "BITE",
+      "ROAR",
+      "EMBER",
+      "LEER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "FIRE_BLAST",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 18,
+        "move": "TAKE_DOWN"
+      },
+      {
+        "level": 23,
+        "move": "AGILITY"
+      },
+      {
+        "level": 30,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 39,
+        "move": "FIRE_BLAST"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 55,
+    "attack": 70,
+    "defense": 45,
+    "speed": 60,
+    "special": 50,
+    "bst": 280,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 190,
+    "base_exp": 91,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "BITE",
+      "ROAR"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "FIRE_BLAST",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 18,
+        "move": "EMBER"
+      },
+      {
+        "level": 23,
+        "move": "LEER"
+      },
+      {
+        "level": 30,
+        "move": "TAKE_DOWN"
+      },
+      {
+        "level": 39,
+        "move": "AGILITY"
+      },
+      {
+        "level": 50,
+        "move": "FLAMETHROWER"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 5,
+      "speed": 10,
+      "special": 5,
+      "bst": 30
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

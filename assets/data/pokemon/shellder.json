@@ -1,0 +1,136 @@
+{
+  "id": "shellder",
+  "name": "Shellder",
+  "sprite": "/assets/img/pokemon/shellder.png",
+  "hack": {
+    "hp": 35,
+    "attack": 70,
+    "defense": 105,
+    "speed": 45,
+    "special": 50,
+    "bst": 305,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 190,
+    "base_exp": 97,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "WITHDRAW",
+      "SUPERSONIC",
+      "CLAMP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EXPLOSION",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SELFDESTRUCT",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 18,
+        "move": "LEER"
+      },
+      {
+        "level": 23,
+        "move": "AURORA_BEAM"
+      },
+      {
+        "level": 32,
+        "move": "ICE_BEAM"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 30,
+    "attack": 65,
+    "defense": 100,
+    "speed": 40,
+    "special": 45,
+    "bst": 280,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 190,
+    "base_exp": 97,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "WITHDRAW"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EXPLOSION",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SELFDESTRUCT",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 18,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 23,
+        "move": "CLAMP"
+      },
+      {
+        "level": 30,
+        "move": "AURORA_BEAM"
+      },
+      {
+        "level": 39,
+        "move": "LEER"
+      },
+      {
+        "level": 50,
+        "move": "ICE_BEAM"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 5,
+      "speed": 5,
+      "special": 5,
+      "bst": 25
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

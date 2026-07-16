@@ -1,0 +1,154 @@
+{
+  "id": "charmeleon",
+  "name": "Charmeleon",
+  "sprite": "/assets/img/pokemon/charmeleon.png",
+  "hack": {
+    "hp": 62,
+    "attack": 72,
+    "defense": 64,
+    "speed": 88,
+    "special": 74,
+    "bst": 360,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 75,
+    "base_exp": 142,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "SCRATCH",
+      "GROWL",
+      "EMBER",
+      "LEER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "CUT",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "FIRE_BLAST",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 9,
+        "move": "RAGE"
+      },
+      {
+        "level": 15,
+        "move": "SLASH"
+      },
+      {
+        "level": 26,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 33,
+        "move": "FIRE_SPIN"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 58,
+    "attack": 64,
+    "defense": 58,
+    "speed": 80,
+    "special": 65,
+    "bst": 325,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 45,
+    "base_exp": 142,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "SCRATCH",
+      "GROWL",
+      "EMBER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "CUT",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "FIRE_BLAST",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 9,
+        "move": "EMBER"
+      },
+      {
+        "level": 15,
+        "move": "LEER"
+      },
+      {
+        "level": 24,
+        "move": "RAGE"
+      },
+      {
+        "level": 33,
+        "move": "SLASH"
+      },
+      {
+        "level": 42,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 56,
+        "move": "FIRE_SPIN"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 4,
+      "attack": 8,
+      "defense": 6,
+      "speed": 8,
+      "special": 9,
+      "bst": 35,
+      "catch_rate": 30
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

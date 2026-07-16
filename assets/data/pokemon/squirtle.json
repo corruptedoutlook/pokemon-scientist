@@ -1,0 +1,153 @@
+{
+  "id": "squirtle",
+  "name": "Squirtle",
+  "sprite": "/assets/img/pokemon/squirtle.png",
+  "hack": {
+    "hp": 46,
+    "attack": 52,
+    "defense": 68,
+    "speed": 45,
+    "special": 54,
+    "bst": 265,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 90,
+    "base_exp": 66,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "TAIL_WHIP",
+      "BUBBLE",
+      "WATER_GUN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "BITE"
+      },
+      {
+        "level": 15,
+        "move": "WITHDRAW"
+      },
+      {
+        "level": 22,
+        "move": "SKULL_BASH"
+      },
+      {
+        "level": 30,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 44,
+    "attack": 48,
+    "defense": 65,
+    "speed": 43,
+    "special": 50,
+    "bst": 250,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 45,
+    "base_exp": 66,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "TAIL_WHIP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "BUBBLE"
+      },
+      {
+        "level": 15,
+        "move": "WATER_GUN"
+      },
+      {
+        "level": 22,
+        "move": "BITE"
+      },
+      {
+        "level": 28,
+        "move": "WITHDRAW"
+      },
+      {
+        "level": 35,
+        "move": "SKULL_BASH"
+      },
+      {
+        "level": 42,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 2,
+      "attack": 4,
+      "defense": 3,
+      "speed": 2,
+      "special": 4,
+      "bst": 15,
+      "catch_rate": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

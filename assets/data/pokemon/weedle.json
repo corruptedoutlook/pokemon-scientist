@@ -1,0 +1,63 @@
+{
+  "id": "weedle",
+  "name": "Weedle",
+  "sprite": "/assets/img/pokemon/weedle.png",
+  "hack": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 35,
+    "speed": 55,
+    "special": 25,
+    "bst": 190,
+    "type1": "BUG",
+    "type2": "POISON",
+    "catch_rate": 255,
+    "base_exp": 52,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "POISON_STING",
+      "STRING_SHOT"
+    ],
+    "learnset": [
+      "FLASH"
+    ],
+    "levelup_moves": [
+      {
+        "level": 7,
+        "move": "HARDEN"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "speed": 50,
+    "special": 20,
+    "bst": 175,
+    "type1": "BUG",
+    "type2": "POISON",
+    "catch_rate": 255,
+    "base_exp": 52,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "POISON_STING",
+      "STRING_SHOT"
+    ],
+    "learnset": [],
+    "levelup_moves": []
+  },
+  "changes": {
+    "numeric": {
+      "defense": 5,
+      "speed": 5,
+      "special": 5,
+      "bst": 15
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": "articuno",
+  "name": "Articuno",
+  "sprite": "/assets/img/pokemon/articuno.png",
+  "hack": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 100,
+    "speed": 90,
+    "special": 125,
+    "bst": 490,
+    "type1": "ICE",
+    "type2": "FLYING",
+    "catch_rate": 3,
+    "base_exp": 215,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "PECK",
+      "ICE_BEAM",
+      "BLIZZARD",
+      "AGILITY"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLY",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "RAZOR_WIND",
+      "REFLECT",
+      "REST",
+      "SKY_ATTACK",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN",
+      "WHIRLWIND"
+    ],
+    "levelup_moves": [
+      {
+        "level": 81,
+        "move": "MIST"
+      },
+      {
+        "level": 85,
+        "move": "REFLECT"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 100,
+    "speed": 85,
+    "special": 125,
+    "bst": 485,
+    "type1": "ICE",
+    "type2": "FLYING",
+    "catch_rate": 3,
+    "base_exp": 215,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "PECK",
+      "ICE_BEAM"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLY",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "RAZOR_WIND",
+      "REFLECT",
+      "REST",
+      "SKY_ATTACK",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN",
+      "WHIRLWIND"
+    ],
+    "levelup_moves": [
+      {
+        "level": 51,
+        "move": "BLIZZARD"
+      },
+      {
+        "level": 55,
+        "move": "AGILITY"
+      },
+      {
+        "level": 60,
+        "move": "MIST"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "speed": 5,
+      "bst": 5
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

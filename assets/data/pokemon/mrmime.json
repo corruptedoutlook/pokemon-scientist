@@ -1,0 +1,151 @@
+{
+  "id": "mrmime",
+  "name": "Mrmime",
+  "sprite": "/assets/img/pokemon/mrmime.png",
+  "hack": {
+    "hp": 60,
+    "attack": 55,
+    "defense": 75,
+    "speed": 100,
+    "special": 110,
+    "bst": 400,
+    "type1": "PSYCHIC_TYPE",
+    "type2": "PSYCHIC_TYPE",
+    "catch_rate": 120,
+    "base_exp": 136,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "CONFUSION",
+      "BARRIER",
+      "LIGHT_SCREEN",
+      "DOUBLESLAP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "SOLARBEAM",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "MEDITATE"
+      },
+      {
+        "level": 23,
+        "move": "SUBSTITUTE"
+      },
+      {
+        "level": 31,
+        "move": "PSYCHIC_M"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 65,
+    "speed": 90,
+    "special": 100,
+    "bst": 340,
+    "type1": "PSYCHIC_TYPE",
+    "type2": "PSYCHIC_TYPE",
+    "catch_rate": 45,
+    "base_exp": 136,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "CONFUSION",
+      "BARRIER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "SOLARBEAM",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "CONFUSION"
+      },
+      {
+        "level": 23,
+        "move": "LIGHT_SCREEN"
+      },
+      {
+        "level": 31,
+        "move": "DOUBLESLAP"
+      },
+      {
+        "level": 39,
+        "move": "MEDITATE"
+      },
+      {
+        "level": 47,
+        "move": "SUBSTITUTE"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 20,
+      "attack": 10,
+      "defense": 10,
+      "speed": 10,
+      "special": 10,
+      "bst": 60,
+      "catch_rate": 75
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

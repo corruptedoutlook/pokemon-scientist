@@ -1,0 +1,159 @@
+{
+  "id": "graveler",
+  "name": "Graveler",
+  "sprite": "/assets/img/pokemon/graveler.png",
+  "hack": {
+    "hp": 60,
+    "attack": 100,
+    "defense": 120,
+    "speed": 40,
+    "special": 50,
+    "bst": 370,
+    "type1": "ROCK",
+    "type2": "GROUND",
+    "catch_rate": 160,
+    "base_exp": 134,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "DEFENSE_CURL",
+      "ROCK_THROW",
+      "HARDEN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "EXPLOSION",
+      "FIRE_BLAST",
+      "FISSURE",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SELFDESTRUCT",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 11,
+        "move": "SELFDESTRUCT"
+      },
+      {
+        "level": 18,
+        "move": "HARDEN"
+      },
+      {
+        "level": 25,
+        "move": "ROCK_THROW"
+      },
+      {
+        "level": 31,
+        "move": "EARTHQUAKE"
+      },
+      {
+        "level": 39,
+        "move": "ROCK_SLIDE"
+      },
+      {
+        "level": 46,
+        "move": "TOMBSTONER"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 55,
+    "attack": 95,
+    "defense": 115,
+    "speed": 35,
+    "special": 45,
+    "bst": 345,
+    "type1": "ROCK",
+    "type2": "GROUND",
+    "catch_rate": 120,
+    "base_exp": 134,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "DEFENSE_CURL"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "EXPLOSION",
+      "FIRE_BLAST",
+      "FISSURE",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SELFDESTRUCT",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 11,
+        "move": "DEFENSE_CURL"
+      },
+      {
+        "level": 16,
+        "move": "ROCK_THROW"
+      },
+      {
+        "level": 21,
+        "move": "SELFDESTRUCT"
+      },
+      {
+        "level": 29,
+        "move": "HARDEN"
+      },
+      {
+        "level": 36,
+        "move": "EARTHQUAKE"
+      },
+      {
+        "level": 43,
+        "move": "EXPLOSION"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 5,
+      "speed": 5,
+      "special": 5,
+      "bst": 25,
+      "catch_rate": 40
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

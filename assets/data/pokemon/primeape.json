@@ -1,0 +1,149 @@
+{
+  "id": "primeape",
+  "name": "Primeape",
+  "sprite": "/assets/img/pokemon/primeape.png",
+  "hack": {
+    "hp": 75,
+    "attack": 115,
+    "defense": 75,
+    "speed": 105,
+    "special": 70,
+    "bst": 440,
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "catch_rate": 75,
+    "base_exp": 149,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "LEER",
+      "KARATE_CHOP",
+      "FURY_SWIPES"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 21,
+        "move": "SEISMIC_TOSS"
+      },
+      {
+        "level": 27,
+        "move": "THRASH"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 65,
+    "attack": 105,
+    "defense": 60,
+    "speed": 95,
+    "special": 60,
+    "bst": 385,
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "catch_rate": 75,
+    "base_exp": 149,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "LEER",
+      "KARATE_CHOP",
+      "FURY_SWIPES"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "KARATE_CHOP"
+      },
+      {
+        "level": 21,
+        "move": "FURY_SWIPES"
+      },
+      {
+        "level": 27,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 37,
+        "move": "SEISMIC_TOSS"
+      },
+      {
+        "level": 46,
+        "move": "THRASH"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 10,
+      "defense": 15,
+      "speed": 10,
+      "special": 10,
+      "bst": 55
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

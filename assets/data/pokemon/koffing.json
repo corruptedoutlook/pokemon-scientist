@@ -1,0 +1,129 @@
+{
+  "id": "koffing",
+  "name": "Koffing",
+  "sprite": "/assets/img/pokemon/koffing.png",
+  "hack": {
+    "hp": 55,
+    "attack": 75,
+    "defense": 105,
+    "speed": 45,
+    "special": 65,
+    "bst": 345,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 190,
+    "base_exp": 114,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SMOG",
+      "POISON_GAS",
+      "SMOKESCREEN"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_TEAM",
+      "EXPLOSION",
+      "FIRE_BLAST",
+      "FLASH",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SELFDESTRUCT",
+      "SUBSTITUTE",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "SELFDESTRUCT"
+      },
+      {
+        "level": 12,
+        "move": "SLUDGE"
+      },
+      {
+        "level": 16,
+        "move": "HAZE"
+      },
+      {
+        "level": 18,
+        "move": "EXPLOSION"
+      },
+      {
+        "level": 28,
+        "move": "FIRE_BLAST"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 40,
+    "attack": 65,
+    "defense": 95,
+    "speed": 35,
+    "special": 60,
+    "bst": 295,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 190,
+    "base_exp": 114,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SMOG"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_TEAM",
+      "EXPLOSION",
+      "FIRE_BLAST",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SELFDESTRUCT",
+      "SUBSTITUTE",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 32,
+        "move": "SLUDGE"
+      },
+      {
+        "level": 37,
+        "move": "SMOKESCREEN"
+      },
+      {
+        "level": 40,
+        "move": "SELFDESTRUCT"
+      },
+      {
+        "level": 45,
+        "move": "HAZE"
+      },
+      {
+        "level": 48,
+        "move": "EXPLOSION"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 15,
+      "attack": 10,
+      "defense": 10,
+      "speed": 10,
+      "special": 5,
+      "bst": 50
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

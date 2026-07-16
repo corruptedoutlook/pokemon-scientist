@@ -1,0 +1,156 @@
+{
+  "id": "marowak",
+  "name": "Marowak",
+  "sprite": "/assets/img/pokemon/marowak.png",
+  "hack": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 120,
+    "speed": 60,
+    "special": 60,
+    "bst": 410,
+    "type1": "GROUND",
+    "type2": "GROUND",
+    "catch_rate": 120,
+    "base_exp": 124,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "BONE_CLUB",
+      "GROWL",
+      "LEER",
+      "FOCUS_ENERGY"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN",
+      "XSCISSOR"
+    ],
+    "levelup_moves": [
+      {
+        "level": 25,
+        "move": "RAGE"
+      },
+      {
+        "level": 33,
+        "move": "THRASH"
+      },
+      {
+        "level": 41,
+        "move": "BONEMERANG"
+      },
+      {
+        "level": 48,
+        "move": "ROCK_SLIDE"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 60,
+    "attack": 80,
+    "defense": 110,
+    "speed": 45,
+    "special": 50,
+    "bst": 345,
+    "type1": "GROUND",
+    "type2": "GROUND",
+    "catch_rate": 75,
+    "base_exp": 124,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "BONE_CLUB",
+      "GROWL",
+      "LEER",
+      "FOCUS_ENERGY"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 25,
+        "move": "LEER"
+      },
+      {
+        "level": 33,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 41,
+        "move": "THRASH"
+      },
+      {
+        "level": 48,
+        "move": "BONEMERANG"
+      },
+      {
+        "level": 55,
+        "move": "RAGE"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 20,
+      "defense": 10,
+      "speed": 15,
+      "special": 10,
+      "bst": 65,
+      "catch_rate": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

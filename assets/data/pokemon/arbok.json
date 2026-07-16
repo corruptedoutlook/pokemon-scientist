@@ -1,0 +1,138 @@
+{
+  "id": "arbok",
+  "name": "Arbok",
+  "sprite": "/assets/img/pokemon/arbok.png",
+  "hack": {
+    "hp": 70,
+    "attack": 100,
+    "defense": 80,
+    "speed": 95,
+    "special": 60,
+    "bst": 405,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 140,
+    "base_exp": 147,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "WRAP",
+      "LEER",
+      "POISON_STING"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "FLASH",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "GLARE"
+      },
+      {
+        "level": 17,
+        "move": "ACID"
+      },
+      {
+        "level": 24,
+        "move": "SCREECH"
+      },
+      {
+        "level": 31,
+        "move": "SLUDGE"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 69,
+    "speed": 80,
+    "special": 65,
+    "bst": 359,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 90,
+    "base_exp": 147,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "WRAP",
+      "LEER",
+      "POISON_STING"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "POISON_STING"
+      },
+      {
+        "level": 17,
+        "move": "BITE"
+      },
+      {
+        "level": 27,
+        "move": "GLARE"
+      },
+      {
+        "level": 36,
+        "move": "SCREECH"
+      },
+      {
+        "level": 47,
+        "move": "ACID"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 15,
+      "defense": 11,
+      "speed": 15,
+      "special": -5,
+      "bst": 46,
+      "catch_rate": 50
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

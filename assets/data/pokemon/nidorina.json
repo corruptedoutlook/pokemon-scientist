@@ -1,0 +1,153 @@
+{
+  "id": "nidorina",
+  "name": "Nidorina",
+  "sprite": "/assets/img/pokemon/nidorina.png",
+  "hack": {
+    "hp": 80,
+    "attack": 75,
+    "defense": 80,
+    "speed": 65,
+    "special": 65,
+    "bst": 365,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 160,
+    "base_exp": 117,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "GROWL",
+      "TACKLE",
+      "SCRATCH",
+      "POISON_STING"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HORN_DRILL",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "TAIL_WHIP"
+      },
+      {
+        "level": 14,
+        "move": "BITE"
+      },
+      {
+        "level": 21,
+        "move": "BODY_SLAM"
+      },
+      {
+        "level": 29,
+        "move": "FURY_SWIPES"
+      },
+      {
+        "level": 34,
+        "move": "EARTHQUAKE"
+      },
+      {
+        "level": 36,
+        "move": "DOUBLE_KICK"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 70,
+    "attack": 62,
+    "defense": 67,
+    "speed": 56,
+    "special": 55,
+    "bst": 310,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 120,
+    "base_exp": 117,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "GROWL",
+      "TACKLE",
+      "SCRATCH"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HORN_DRILL",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "SCRATCH"
+      },
+      {
+        "level": 14,
+        "move": "POISON_STING"
+      },
+      {
+        "level": 23,
+        "move": "TAIL_WHIP"
+      },
+      {
+        "level": 32,
+        "move": "BITE"
+      },
+      {
+        "level": 41,
+        "move": "FURY_SWIPES"
+      },
+      {
+        "level": 50,
+        "move": "DOUBLE_KICK"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 13,
+      "defense": 13,
+      "speed": 9,
+      "special": 10,
+      "bst": 55,
+      "catch_rate": 40
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

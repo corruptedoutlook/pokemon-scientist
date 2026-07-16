@@ -1,0 +1,125 @@
+{
+  "id": "zubat",
+  "name": "Zubat",
+  "sprite": "/assets/img/pokemon/zubat.png",
+  "hack": {
+    "hp": 45,
+    "attack": 55,
+    "defense": 40,
+    "speed": 65,
+    "special": 45,
+    "bst": 250,
+    "type1": "POISON",
+    "type2": "FLYING",
+    "catch_rate": 255,
+    "base_exp": 54,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "LEECH_LIFE",
+      "SUPERSONIC",
+      "BITE",
+      "CONFUSE_RAY"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "RAZOR_WIND",
+      "REST",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WHIRLWIND"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "SCREECH"
+      },
+      {
+        "level": 15,
+        "move": "HAZE"
+      },
+      {
+        "level": 21,
+        "move": "SLUDGE"
+      },
+      {
+        "level": 32,
+        "move": "WING_ATTACK"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "speed": 55,
+    "special": 40,
+    "bst": 215,
+    "type1": "POISON",
+    "type2": "FLYING",
+    "catch_rate": 255,
+    "base_exp": 54,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "LEECH_LIFE"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "RAZOR_WIND",
+      "REST",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WHIRLWIND"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 15,
+        "move": "BITE"
+      },
+      {
+        "level": 21,
+        "move": "CONFUSE_RAY"
+      },
+      {
+        "level": 28,
+        "move": "WING_ATTACK"
+      },
+      {
+        "level": 36,
+        "move": "HAZE"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 10,
+      "defense": 5,
+      "speed": 10,
+      "special": 5,
+      "bst": 35
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

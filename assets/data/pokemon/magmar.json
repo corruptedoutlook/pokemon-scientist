@@ -1,0 +1,154 @@
+{
+  "id": "magmar",
+  "name": "Magmar",
+  "sprite": "/assets/img/pokemon/magmar.png",
+  "hack": {
+    "hp": 75,
+    "attack": 105,
+    "defense": 70,
+    "speed": 100,
+    "special": 95,
+    "bst": 445,
+    "type1": "FIRE",
+    "type2": "FIGHTING",
+    "catch_rate": 120,
+    "base_exp": 167,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "EMBER",
+      "LEER",
+      "CONFUSE_RAY",
+      "SMOKESCREEN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "HYPER_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 20,
+        "move": "FIRE_PUNCH"
+      },
+      {
+        "level": 28,
+        "move": "SMOG"
+      },
+      {
+        "level": 34,
+        "move": "MEGA_PUNCH"
+      },
+      {
+        "level": 40,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 48,
+        "move": "FIRE_BLAST"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 65,
+    "attack": 95,
+    "defense": 57,
+    "speed": 93,
+    "special": 85,
+    "bst": 395,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 45,
+    "base_exp": 167,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "EMBER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "HYPER_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 36,
+        "move": "LEER"
+      },
+      {
+        "level": 39,
+        "move": "CONFUSE_RAY"
+      },
+      {
+        "level": 43,
+        "move": "FIRE_PUNCH"
+      },
+      {
+        "level": 48,
+        "move": "SMOKESCREEN"
+      },
+      {
+        "level": 52,
+        "move": "SMOG"
+      },
+      {
+        "level": 55,
+        "move": "FLAMETHROWER"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 10,
+      "defense": 13,
+      "speed": 7,
+      "special": 10,
+      "bst": 50,
+      "catch_rate": 75
+    },
+    "typing": true,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "geodude",
+  "name": "Geodude",
+  "sprite": "/assets/img/pokemon/geodude.png",
+  "hack": {
+    "hp": 45,
+    "attack": 85,
+    "defense": 105,
+    "speed": 25,
+    "special": 35,
+    "bst": 295,
+    "type1": "ROCK",
+    "type2": "GROUND",
+    "catch_rate": 255,
+    "base_exp": 86,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "DEFENSE_CURL",
+      "ROCK_THROW",
+      "HARDEN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "EXPLOSION",
+      "FIRE_BLAST",
+      "FISSURE",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SELFDESTRUCT",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 11,
+        "move": "SELFDESTRUCT"
+      },
+      {
+        "level": 20,
+        "move": "EARTHQUAKE"
+      },
+      {
+        "level": 21,
+        "move": "EXPLOSION"
+      },
+      {
+        "level": 26,
+        "move": "ROCK_SLIDE"
+      },
+      {
+        "level": 42,
+        "move": "TOMBSTONER"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 40,
+    "attack": 80,
+    "defense": 100,
+    "speed": 20,
+    "special": 30,
+    "bst": 270,
+    "type1": "ROCK",
+    "type2": "GROUND",
+    "catch_rate": 255,
+    "base_exp": 86,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TACKLE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "EXPLOSION",
+      "FIRE_BLAST",
+      "FISSURE",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SELFDESTRUCT",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 11,
+        "move": "DEFENSE_CURL"
+      },
+      {
+        "level": 16,
+        "move": "ROCK_THROW"
+      },
+      {
+        "level": 21,
+        "move": "SELFDESTRUCT"
+      },
+      {
+        "level": 26,
+        "move": "HARDEN"
+      },
+      {
+        "level": 31,
+        "move": "EARTHQUAKE"
+      },
+      {
+        "level": 36,
+        "move": "EXPLOSION"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 5,
+      "speed": 5,
+      "special": 5,
+      "bst": 25
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

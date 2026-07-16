@@ -1,0 +1,141 @@
+{
+  "id": "seaking",
+  "name": "Seaking",
+  "sprite": "/assets/img/pokemon/seaking.png",
+  "hack": {
+    "hp": 90,
+    "attack": 110,
+    "defense": 75,
+    "speed": 85,
+    "special": 85,
+    "bst": 445,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 120,
+    "base_exp": 170,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "PECK",
+      "TAIL_WHIP",
+      "SUPERSONIC"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HORN_DRILL",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 19,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 24,
+        "move": "WATERFALL"
+      },
+      {
+        "level": 30,
+        "move": "HORN_DRILL"
+      },
+      {
+        "level": 39,
+        "move": "AGILITY"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 80,
+    "attack": 92,
+    "defense": 65,
+    "speed": 68,
+    "special": 80,
+    "bst": 385,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 60,
+    "base_exp": 170,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "PECK",
+      "TAIL_WHIP",
+      "SUPERSONIC"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HORN_DRILL",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 19,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 24,
+        "move": "HORN_ATTACK"
+      },
+      {
+        "level": 30,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 39,
+        "move": "WATERFALL"
+      },
+      {
+        "level": 48,
+        "move": "HORN_DRILL"
+      },
+      {
+        "level": 54,
+        "move": "AGILITY"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 18,
+      "defense": 10,
+      "speed": 17,
+      "special": 5,
+      "bst": 60,
+      "catch_rate": 60
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

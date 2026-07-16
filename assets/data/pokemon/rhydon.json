@@ -1,0 +1,179 @@
+{
+  "id": "rhydon",
+  "name": "Rhydon",
+  "sprite": "/assets/img/pokemon/rhydon.png",
+  "hack": {
+    "hp": 120,
+    "attack": 140,
+    "defense": 130,
+    "speed": 60,
+    "special": 60,
+    "bst": 510,
+    "type1": "GROUND",
+    "type2": "ROCK",
+    "catch_rate": 100,
+    "base_exp": 204,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "HORN_ATTACK",
+      "STOMP",
+      "TAIL_WHIP",
+      "ROCK_THROW"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "HORN_DRILL",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 30,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 35,
+        "move": "HORN_DRILL"
+      },
+      {
+        "level": 40,
+        "move": "LEER"
+      },
+      {
+        "level": 45,
+        "move": "TAKE_DOWN"
+      },
+      {
+        "level": 50,
+        "move": "ROCK_SLIDE"
+      },
+      {
+        "level": 56,
+        "move": "TOMBSTONER"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 105,
+    "attack": 130,
+    "defense": 120,
+    "speed": 40,
+    "special": 45,
+    "bst": 440,
+    "type1": "GROUND",
+    "type2": "ROCK",
+    "catch_rate": 60,
+    "base_exp": 204,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "HORN_ATTACK",
+      "STOMP",
+      "TAIL_WHIP",
+      "FURY_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "HORN_DRILL",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 30,
+        "move": "STOMP"
+      },
+      {
+        "level": 35,
+        "move": "TAIL_WHIP"
+      },
+      {
+        "level": 40,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 48,
+        "move": "HORN_DRILL"
+      },
+      {
+        "level": 55,
+        "move": "LEER"
+      },
+      {
+        "level": 64,
+        "move": "TAKE_DOWN"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 15,
+      "attack": 10,
+      "defense": 10,
+      "speed": 20,
+      "special": 15,
+      "bst": 70,
+      "catch_rate": 40
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "cloyster",
+  "name": "Cloyster",
+  "sprite": "/assets/img/pokemon/cloyster.png",
+  "hack": {
+    "hp": 55,
+    "attack": 95,
+    "defense": 180,
+    "speed": 75,
+    "special": 90,
+    "bst": 495,
+    "type1": "WATER",
+    "type2": "ICE",
+    "catch_rate": 90,
+    "base_exp": 203,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "WITHDRAW",
+      "SUPERSONIC",
+      "CLAMP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EXPLOSION",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SELFDESTRUCT",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 18,
+        "move": "LEER"
+      },
+      {
+        "level": 23,
+        "move": "AURORA_BEAM"
+      },
+      {
+        "level": 32,
+        "move": "ICE_BEAM"
+      },
+      {
+        "level": 39,
+        "move": "SPIKE_CANNON"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 50,
+    "attack": 95,
+    "defense": 180,
+    "speed": 70,
+    "special": 85,
+    "bst": 480,
+    "type1": "WATER",
+    "type2": "ICE",
+    "catch_rate": 60,
+    "base_exp": 203,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "WITHDRAW",
+      "SUPERSONIC",
+      "CLAMP",
+      "AURORA_BEAM"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EXPLOSION",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SELFDESTRUCT",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 50,
+        "move": "SPIKE_CANNON"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "speed": 5,
+      "special": 5,
+      "bst": 15,
+      "catch_rate": 30
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

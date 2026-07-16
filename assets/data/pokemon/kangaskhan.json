@@ -1,0 +1,159 @@
+{
+  "id": "kangaskhan",
+  "name": "Kangaskhan",
+  "sprite": "/assets/img/pokemon/kangaskhan.png",
+  "hack": {
+    "hp": 110,
+    "attack": 105,
+    "defense": 90,
+    "speed": 95,
+    "special": 55,
+    "bst": 455,
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "catch_rate": 120,
+    "base_exp": 175,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "COMET_PUNCH",
+      "RAGE",
+      "BITE",
+      "TAIL_WHIP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 26,
+        "move": "MEGA_PUNCH"
+      },
+      {
+        "level": 31,
+        "move": "LEER"
+      },
+      {
+        "level": 36,
+        "move": "DIZZY_PUNCH"
+      },
+      {
+        "level": 41,
+        "move": "DOUBLE_EDGE"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 105,
+    "attack": 95,
+    "defense": 80,
+    "speed": 90,
+    "special": 40,
+    "bst": 410,
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "catch_rate": 45,
+    "base_exp": 175,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "COMET_PUNCH",
+      "RAGE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 26,
+        "move": "BITE"
+      },
+      {
+        "level": 31,
+        "move": "TAIL_WHIP"
+      },
+      {
+        "level": 36,
+        "move": "MEGA_PUNCH"
+      },
+      {
+        "level": 41,
+        "move": "LEER"
+      },
+      {
+        "level": 46,
+        "move": "DIZZY_PUNCH"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 10,
+      "defense": 10,
+      "speed": 5,
+      "special": 15,
+      "bst": 45,
+      "catch_rate": 75
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

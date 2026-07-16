@@ -1,0 +1,146 @@
+{
+  "id": "sandslash",
+  "name": "Sandslash",
+  "sprite": "/assets/img/pokemon/sandslash.png",
+  "hack": {
+    "hp": 90,
+    "attack": 120,
+    "defense": 125,
+    "speed": 80,
+    "special": 70,
+    "bst": 485,
+    "type1": "GROUND",
+    "type2": "FIGHTING",
+    "catch_rate": 140,
+    "base_exp": 163,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "SAND_ATTACK",
+      "SLASH",
+      "POISON_STING"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "XSCISSOR"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "DIG"
+      },
+      {
+        "level": 17,
+        "move": "SWIFT"
+      },
+      {
+        "level": 26,
+        "move": "EARTHQUAKE"
+      },
+      {
+        "level": 31,
+        "move": "ROCK_SLIDE"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 75,
+    "attack": 100,
+    "defense": 110,
+    "speed": 65,
+    "special": 55,
+    "bst": 405,
+    "type1": "GROUND",
+    "type2": "GROUND",
+    "catch_rate": 90,
+    "base_exp": 163,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "SAND_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "SAND_ATTACK"
+      },
+      {
+        "level": 17,
+        "move": "SLASH"
+      },
+      {
+        "level": 27,
+        "move": "POISON_STING"
+      },
+      {
+        "level": 36,
+        "move": "SWIFT"
+      },
+      {
+        "level": 47,
+        "move": "FURY_SWIPES"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 15,
+      "attack": 20,
+      "defense": 15,
+      "speed": 15,
+      "special": 15,
+      "bst": 80,
+      "catch_rate": 50
+    },
+    "typing": true,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

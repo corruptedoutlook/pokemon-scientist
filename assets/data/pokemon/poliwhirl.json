@@ -1,0 +1,156 @@
+{
+  "id": "poliwhirl",
+  "name": "Poliwhirl",
+  "sprite": "/assets/img/pokemon/poliwhirl.png",
+  "hack": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 80,
+    "speed": 95,
+    "special": 65,
+    "bst": 395,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 160,
+    "base_exp": 131,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "BUBBLE",
+      "HYPNOSIS",
+      "WATER_GUN",
+      "DOUBLESLAP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 16,
+        "move": "BODY_SLAM"
+      },
+      {
+        "level": 19,
+        "move": "AMNESIA"
+      },
+      {
+        "level": 30,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 65,
+    "speed": 90,
+    "special": 50,
+    "bst": 335,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 120,
+    "base_exp": 131,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "BUBBLE",
+      "HYPNOSIS",
+      "WATER_GUN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 16,
+        "move": "HYPNOSIS"
+      },
+      {
+        "level": 19,
+        "move": "WATER_GUN"
+      },
+      {
+        "level": 26,
+        "move": "DOUBLESLAP"
+      },
+      {
+        "level": 33,
+        "move": "BODY_SLAM"
+      },
+      {
+        "level": 41,
+        "move": "AMNESIA"
+      },
+      {
+        "level": 49,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 15,
+      "defense": 15,
+      "speed": 5,
+      "special": 15,
+      "bst": 60,
+      "catch_rate": 40
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

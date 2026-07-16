@@ -1,0 +1,178 @@
+{
+  "id": "chansey",
+  "name": "Chansey",
+  "sprite": "/assets/img/pokemon/chansey.png",
+  "hack": {
+    "hp": 250,
+    "attack": 10,
+    "defense": 15,
+    "speed": 50,
+    "special": 105,
+    "bst": 430,
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "catch_rate": 90,
+    "base_exp": 255,
+    "growth_rate": "GROWTH_FAST",
+    "starting_moves": [
+      "POUND",
+      "DOUBLESLAP",
+      "SING",
+      "GROWL"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EGG_BOMB",
+      "FIRE_BLAST",
+      "FLASH",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "SOFTBOILED",
+      "SOLARBEAM",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 24,
+        "move": "MINIMIZE"
+      },
+      {
+        "level": 30,
+        "move": "ICE_BEAM"
+      },
+      {
+        "level": 38,
+        "move": "THUNDERBOLT"
+      },
+      {
+        "level": 44,
+        "move": "LIGHT_SCREEN"
+      },
+      {
+        "level": 48,
+        "move": "SOFTBOILED"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 250,
+    "attack": 5,
+    "defense": 5,
+    "speed": 50,
+    "special": 105,
+    "bst": 415,
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "catch_rate": 30,
+    "base_exp": 255,
+    "growth_rate": "GROWTH_FAST",
+    "starting_moves": [
+      "POUND",
+      "DOUBLESLAP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EGG_BOMB",
+      "FIRE_BLAST",
+      "FLASH",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "SOFTBOILED",
+      "SOLARBEAM",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 24,
+        "move": "SING"
+      },
+      {
+        "level": 30,
+        "move": "GROWL"
+      },
+      {
+        "level": 38,
+        "move": "MINIMIZE"
+      },
+      {
+        "level": 44,
+        "move": "DEFENSE_CURL"
+      },
+      {
+        "level": 48,
+        "move": "LIGHT_SCREEN"
+      },
+      {
+        "level": 54,
+        "move": "DOUBLE_EDGE"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "attack": 5,
+      "defense": 10,
+      "bst": 15,
+      "catch_rate": 60
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "charizard",
+  "name": "Charizard",
+  "sprite": "/assets/img/pokemon/charizard.png",
+  "hack": {
+    "hp": 84,
+    "attack": 96,
+    "defense": 84,
+    "speed": 108,
+    "special": 98,
+    "bst": 470,
+    "type1": "FIRE",
+    "type2": "DRAGON",
+    "catch_rate": 60,
+    "base_exp": 209,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "SCRATCH",
+      "GROWL",
+      "EMBER",
+      "LEER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "CUT",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "FLY",
+      "HYPER_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 9,
+        "move": "RAGE"
+      },
+      {
+        "level": 15,
+        "move": "SLASH"
+      },
+      {
+        "level": 26,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 36,
+        "move": "FIRE_SPIN"
+      },
+      {
+        "level": 40,
+        "move": "WING_ATTACK"
+      },
+      {
+        "level": 44,
+        "move": "SHARP_SCALE"
+      },
+      {
+        "level": 58,
+        "move": "DRACOMETEOR"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "speed": 100,
+    "special": 85,
+    "bst": 425,
+    "type1": "FIRE",
+    "type2": "FLYING",
+    "catch_rate": 45,
+    "base_exp": 209,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "SCRATCH",
+      "GROWL",
+      "EMBER",
+      "LEER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "CUT",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "HYPER_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 9,
+        "move": "EMBER"
+      },
+      {
+        "level": 15,
+        "move": "LEER"
+      },
+      {
+        "level": 24,
+        "move": "RAGE"
+      },
+      {
+        "level": 36,
+        "move": "SLASH"
+      },
+      {
+        "level": 46,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 55,
+        "move": "FIRE_SPIN"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 6,
+      "attack": 12,
+      "defense": 6,
+      "speed": 8,
+      "special": 13,
+      "bst": 45,
+      "catch_rate": 15
+    },
+    "typing": true,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": "venomoth",
+  "name": "Venomoth",
+  "sprite": "/assets/img/pokemon/venomoth.png",
+  "hack": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 80,
+    "speed": 105,
+    "special": 115,
+    "bst": 475,
+    "type1": "BUG",
+    "type2": "POISON",
+    "catch_rate": 120,
+    "base_exp": 138,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "DISABLE",
+      "POISONPOWDER",
+      "LEECH_LIFE"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "RAZOR_WIND",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "TOXIC",
+      "WHIRLWIND",
+      "XSCISSOR"
+    ],
+    "levelup_moves": [
+      {
+        "level": 24,
+        "move": "STUN_SPORE"
+      },
+      {
+        "level": 27,
+        "move": "PSYBEAM"
+      },
+      {
+        "level": 30,
+        "move": "SLEEP_POWDER"
+      },
+      {
+        "level": 37,
+        "move": "PSYCHIC_M"
+      },
+      {
+        "level": 40,
+        "move": "SOLARBEAM"
+      },
+      {
+        "level": 44,
+        "move": "XSCISSOR"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 70,
+    "attack": 65,
+    "defense": 60,
+    "speed": 90,
+    "special": 90,
+    "bst": 375,
+    "type1": "BUG",
+    "type2": "POISON",
+    "catch_rate": 75,
+    "base_exp": 138,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "DISABLE",
+      "POISONPOWDER",
+      "LEECH_LIFE"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "RAZOR_WIND",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "TOXIC",
+      "WHIRLWIND"
+    ],
+    "levelup_moves": [
+      {
+        "level": 24,
+        "move": "POISONPOWDER"
+      },
+      {
+        "level": 27,
+        "move": "LEECH_LIFE"
+      },
+      {
+        "level": 30,
+        "move": "STUN_SPORE"
+      },
+      {
+        "level": 38,
+        "move": "PSYBEAM"
+      },
+      {
+        "level": 43,
+        "move": "SLEEP_POWDER"
+      },
+      {
+        "level": 50,
+        "move": "PSYCHIC_M"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 20,
+      "attack": 20,
+      "defense": 20,
+      "speed": 15,
+      "special": 25,
+      "bst": 100,
+      "catch_rate": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

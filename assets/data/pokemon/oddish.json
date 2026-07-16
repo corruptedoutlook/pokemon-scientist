@@ -1,0 +1,128 @@
+{
+  "id": "oddish",
+  "name": "Oddish",
+  "sprite": "/assets/img/pokemon/oddish.png",
+  "hack": {
+    "hp": 50,
+    "attack": 55,
+    "defense": 60,
+    "speed": 35,
+    "special": 80,
+    "bst": 280,
+    "type1": "GRASS",
+    "type2": "POISON",
+    "catch_rate": 255,
+    "base_exp": 78,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "ABSORB",
+      "POISONPOWDER",
+      "STUN_SPORE",
+      "SLEEP_POWDER"
+    ],
+    "learnset": [
+      "BIDE",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "ACID"
+      },
+      {
+        "level": 17,
+        "move": "PETAL_DANCE"
+      },
+      {
+        "level": 27,
+        "move": "SOLARBEAM"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 55,
+    "speed": 30,
+    "special": 75,
+    "bst": 255,
+    "type1": "GRASS",
+    "type2": "POISON",
+    "catch_rate": 255,
+    "base_exp": 78,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "ABSORB"
+    ],
+    "learnset": [
+      "BIDE",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "POISONPOWDER"
+      },
+      {
+        "level": 17,
+        "move": "STUN_SPORE"
+      },
+      {
+        "level": 19,
+        "move": "SLEEP_POWDER"
+      },
+      {
+        "level": 24,
+        "move": "ACID"
+      },
+      {
+        "level": 33,
+        "move": "PETAL_DANCE"
+      },
+      {
+        "level": 46,
+        "move": "SOLARBEAM"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 5,
+      "speed": 5,
+      "special": 5,
+      "bst": 25
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

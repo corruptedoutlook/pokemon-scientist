@@ -1,0 +1,156 @@
+{
+  "id": "butterfree",
+  "name": "Butterfree",
+  "sprite": "/assets/img/pokemon/butterfree.png",
+  "hack": {
+    "hp": 70,
+    "attack": 50,
+    "defense": 60,
+    "speed": 90,
+    "special": 95,
+    "bst": 365,
+    "type1": "BUG",
+    "type2": "FLYING",
+    "catch_rate": 120,
+    "base_exp": 160,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "STRING_SHOT",
+      "HARDEN",
+      "CONFUSION"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "RAZOR_WIND",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "TOXIC",
+      "WHIRLWIND",
+      "XSCISSOR"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "STUN_SPORE"
+      },
+      {
+        "level": 16,
+        "move": "SLEEP_POWDER"
+      },
+      {
+        "level": 17,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 21,
+        "move": "WHIRLWIND"
+      },
+      {
+        "level": 26,
+        "move": "PSYBEAM"
+      },
+      {
+        "level": 32,
+        "move": "PSYCHIC_M"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 60,
+    "attack": 45,
+    "defense": 50,
+    "speed": 70,
+    "special": 80,
+    "bst": 305,
+    "type1": "BUG",
+    "type2": "FLYING",
+    "catch_rate": 45,
+    "base_exp": 160,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "CONFUSION"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "RAZOR_WIND",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "TOXIC",
+      "WHIRLWIND"
+    ],
+    "levelup_moves": [
+      {
+        "level": 12,
+        "move": "CONFUSION"
+      },
+      {
+        "level": 15,
+        "move": "POISONPOWDER"
+      },
+      {
+        "level": 16,
+        "move": "STUN_SPORE"
+      },
+      {
+        "level": 17,
+        "move": "SLEEP_POWDER"
+      },
+      {
+        "level": 21,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 26,
+        "move": "WHIRLWIND"
+      },
+      {
+        "level": 32,
+        "move": "PSYBEAM"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 5,
+      "defense": 10,
+      "speed": 20,
+      "special": 15,
+      "bst": 60,
+      "catch_rate": 75
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

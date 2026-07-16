@@ -1,0 +1,126 @@
+{
+  "id": "diglett",
+  "name": "Diglett",
+  "sprite": "/assets/img/pokemon/diglett.png",
+  "hack": {
+    "hp": 20,
+    "attack": 60,
+    "defense": 35,
+    "speed": 100,
+    "special": 45,
+    "bst": 260,
+    "type1": "GROUND",
+    "type2": "GROUND",
+    "catch_rate": 255,
+    "base_exp": 81,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "GROWL",
+      "DIG",
+      "SAND_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 14,
+        "move": "SLASH"
+      },
+      {
+        "level": 22,
+        "move": "DIG"
+      },
+      {
+        "level": 30,
+        "move": "EARTHQUAKE"
+      },
+      {
+        "level": 40,
+        "move": "ROCK_SLIDE"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 10,
+    "attack": 55,
+    "defense": 25,
+    "speed": 95,
+    "special": 45,
+    "bst": 230,
+    "type1": "GROUND",
+    "type2": "GROUND",
+    "catch_rate": 255,
+    "base_exp": 81,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "GROWL"
+      },
+      {
+        "level": 19,
+        "move": "DIG"
+      },
+      {
+        "level": 24,
+        "move": "SAND_ATTACK"
+      },
+      {
+        "level": 31,
+        "move": "SLASH"
+      },
+      {
+        "level": 40,
+        "move": "EARTHQUAKE"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 5,
+      "defense": 10,
+      "speed": 5,
+      "bst": 30
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

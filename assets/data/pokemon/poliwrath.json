@@ -1,0 +1,147 @@
+{
+  "id": "poliwrath",
+  "name": "Poliwrath",
+  "sprite": "/assets/img/pokemon/poliwrath.png",
+  "hack": {
+    "hp": 100,
+    "attack": 120,
+    "defense": 105,
+    "speed": 85,
+    "special": 90,
+    "bst": 500,
+    "type1": "WATER",
+    "type2": "FIGHTING",
+    "catch_rate": 75,
+    "base_exp": 185,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "BUBBLE",
+      "HYPNOSIS",
+      "WATER_GUN",
+      "DOUBLESLAP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 16,
+        "move": "BODY_SLAM"
+      },
+      {
+        "level": 19,
+        "move": "AMNESIA"
+      },
+      {
+        "level": 30,
+        "move": "HYDRO_PUMP"
+      },
+      {
+        "level": 33,
+        "move": "SUBMISSION"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 90,
+    "attack": 85,
+    "defense": 95,
+    "speed": 70,
+    "special": 70,
+    "bst": 410,
+    "type1": "WATER",
+    "type2": "FIGHTING",
+    "catch_rate": 45,
+    "base_exp": 185,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "HYPNOSIS",
+      "WATER_GUN",
+      "DOUBLESLAP",
+      "BODY_SLAM"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 16,
+        "move": "HYPNOSIS"
+      },
+      {
+        "level": 19,
+        "move": "WATER_GUN"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 35,
+      "defense": 10,
+      "speed": 15,
+      "special": 20,
+      "bst": 90,
+      "catch_rate": 30
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

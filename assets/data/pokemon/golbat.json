@@ -1,0 +1,129 @@
+{
+  "id": "golbat",
+  "name": "Golbat",
+  "sprite": "/assets/img/pokemon/golbat.png",
+  "hack": {
+    "hp": 85,
+    "attack": 100,
+    "defense": 80,
+    "speed": 105,
+    "special": 85,
+    "bst": 455,
+    "type1": "POISON",
+    "type2": "FLYING",
+    "catch_rate": 140,
+    "base_exp": 171,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "LEECH_LIFE",
+      "SCREECH",
+      "BITE"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "RAZOR_WIND",
+      "REST",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WHIRLWIND"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "SCREECH"
+      },
+      {
+        "level": 15,
+        "move": "HAZE"
+      },
+      {
+        "level": 21,
+        "move": "SLUDGE"
+      },
+      {
+        "level": 32,
+        "move": "WING_ATTACK"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 70,
+    "speed": 90,
+    "special": 75,
+    "bst": 390,
+    "type1": "POISON",
+    "type2": "FLYING",
+    "catch_rate": 90,
+    "base_exp": 171,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "LEECH_LIFE",
+      "SCREECH",
+      "BITE"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "RAZOR_WIND",
+      "REST",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WHIRLWIND"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 15,
+        "move": "BITE"
+      },
+      {
+        "level": 21,
+        "move": "CONFUSE_RAY"
+      },
+      {
+        "level": 32,
+        "move": "WING_ATTACK"
+      },
+      {
+        "level": 43,
+        "move": "HAZE"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 20,
+      "defense": 10,
+      "speed": 15,
+      "special": 10,
+      "bst": 65,
+      "catch_rate": 50
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "omanyte",
+  "name": "Omanyte",
+  "sprite": "/assets/img/pokemon/omanyte.png",
+  "hack": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 110,
+    "speed": 45,
+    "special": 100,
+    "bst": 350,
+    "type1": "ROCK",
+    "type2": "WATER",
+    "catch_rate": 120,
+    "base_exp": 120,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "WATER_GUN",
+      "WITHDRAW",
+      "HORN_ATTACK",
+      "LEER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 34,
+        "move": "ROCK_THROW"
+      },
+      {
+        "level": 39,
+        "move": "SPIKE_CANNON"
+      },
+      {
+        "level": 46,
+        "move": "HYDRO_PUMP"
+      },
+      {
+        "level": 46,
+        "move": "ROCK_SLIDE"
+      },
+      {
+        "level": 52,
+        "move": "TOMBSTONER"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 35,
+    "attack": 40,
+    "defense": 100,
+    "speed": 35,
+    "special": 90,
+    "bst": 300,
+    "type1": "ROCK",
+    "type2": "WATER",
+    "catch_rate": 45,
+    "base_exp": 120,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "WATER_GUN",
+      "WITHDRAW"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 34,
+        "move": "HORN_ATTACK"
+      },
+      {
+        "level": 39,
+        "move": "LEER"
+      },
+      {
+        "level": 46,
+        "move": "SPIKE_CANNON"
+      },
+      {
+        "level": 53,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 10,
+      "defense": 10,
+      "speed": 10,
+      "special": 10,
+      "bst": 50,
+      "catch_rate": 75
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

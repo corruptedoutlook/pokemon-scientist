@@ -1,0 +1,135 @@
+{
+  "id": "ekans",
+  "name": "Ekans",
+  "sprite": "/assets/img/pokemon/ekans.png",
+  "hack": {
+    "hp": 40,
+    "attack": 70,
+    "defense": 50,
+    "speed": 65,
+    "special": 45,
+    "bst": 270,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 255,
+    "base_exp": 62,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "WRAP",
+      "LEER",
+      "POISON_STING",
+      "BITE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "FLASH",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "GLARE"
+      },
+      {
+        "level": 17,
+        "move": "ACID"
+      },
+      {
+        "level": 24,
+        "move": "SCREECH"
+      },
+      {
+        "level": 31,
+        "move": "SLUDGE"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 35,
+    "attack": 60,
+    "defense": 44,
+    "speed": 55,
+    "special": 40,
+    "bst": 234,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 255,
+    "base_exp": 62,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "WRAP",
+      "LEER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "POISON_STING"
+      },
+      {
+        "level": 17,
+        "move": "BITE"
+      },
+      {
+        "level": 24,
+        "move": "GLARE"
+      },
+      {
+        "level": 31,
+        "move": "SCREECH"
+      },
+      {
+        "level": 38,
+        "move": "ACID"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 10,
+      "defense": 6,
+      "speed": 10,
+      "special": 5,
+      "bst": 36
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

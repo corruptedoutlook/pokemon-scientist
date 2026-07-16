@@ -1,0 +1,147 @@
+{
+  "id": "dratini",
+  "name": "Dratini",
+  "sprite": "/assets/img/pokemon/dratini.png",
+  "hack": {
+    "hp": 45,
+    "attack": 70,
+    "defense": 50,
+    "speed": 60,
+    "special": 55,
+    "bst": 280,
+    "type1": "DRAGON",
+    "type2": "DRAGON",
+    "catch_rate": 90,
+    "base_exp": 67,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "WRAP",
+      "LEER",
+      "THUNDER_WAVE",
+      "AGILITY"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "FIRE_BLAST",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "SLAM"
+      },
+      {
+        "level": 20,
+        "move": "DRAGON_RAGE"
+      },
+      {
+        "level": 38,
+        "move": "SHARP_SCALE"
+      },
+      {
+        "level": 43,
+        "move": "HYPER_BEAM"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 41,
+    "attack": 64,
+    "defense": 45,
+    "speed": 50,
+    "special": 50,
+    "bst": 250,
+    "type1": "DRAGON",
+    "type2": "DRAGON",
+    "catch_rate": 45,
+    "base_exp": 67,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "WRAP",
+      "LEER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "FIRE_BLAST",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "THUNDER_WAVE"
+      },
+      {
+        "level": 20,
+        "move": "AGILITY"
+      },
+      {
+        "level": 30,
+        "move": "SLAM"
+      },
+      {
+        "level": 40,
+        "move": "DRAGON_RAGE"
+      },
+      {
+        "level": 50,
+        "move": "HYPER_BEAM"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 4,
+      "attack": 6,
+      "defense": 5,
+      "speed": 10,
+      "special": 5,
+      "bst": 30,
+      "catch_rate": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

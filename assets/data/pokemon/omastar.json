@@ -1,0 +1,144 @@
+{
+  "id": "omastar",
+  "name": "Omastar",
+  "sprite": "/assets/img/pokemon/omastar.png",
+  "hack": {
+    "hp": 90,
+    "attack": 75,
+    "defense": 130,
+    "speed": 70,
+    "special": 125,
+    "bst": 490,
+    "type1": "ROCK",
+    "type2": "WATER",
+    "catch_rate": 75,
+    "base_exp": 199,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "WATER_GUN",
+      "WITHDRAW",
+      "HORN_ATTACK",
+      "LEER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HORN_DRILL",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 34,
+        "move": "ROCK_THROW"
+      },
+      {
+        "level": 39,
+        "move": "SPIKE_CANNON"
+      },
+      {
+        "level": 46,
+        "move": "HYDRO_PUMP"
+      },
+      {
+        "level": 49,
+        "move": "ROCK_SLIDE"
+      },
+      {
+        "level": 56,
+        "move": "TOMBSTONER"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 70,
+    "attack": 60,
+    "defense": 125,
+    "speed": 55,
+    "special": 115,
+    "bst": 425,
+    "type1": "ROCK",
+    "type2": "WATER",
+    "catch_rate": 45,
+    "base_exp": 199,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "WATER_GUN",
+      "WITHDRAW",
+      "HORN_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HORN_DRILL",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 34,
+        "move": "HORN_ATTACK"
+      },
+      {
+        "level": 39,
+        "move": "LEER"
+      },
+      {
+        "level": 44,
+        "move": "SPIKE_CANNON"
+      },
+      {
+        "level": 49,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 20,
+      "attack": 15,
+      "defense": 5,
+      "speed": 15,
+      "special": 10,
+      "bst": 65,
+      "catch_rate": 30
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

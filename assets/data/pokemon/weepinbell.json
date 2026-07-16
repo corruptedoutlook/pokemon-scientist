@@ -1,0 +1,143 @@
+{
+  "id": "weepinbell",
+  "name": "Weepinbell",
+  "sprite": "/assets/img/pokemon/weepinbell.png",
+  "hack": {
+    "hp": 70,
+    "attack": 95,
+    "defense": 60,
+    "speed": 65,
+    "special": 90,
+    "bst": 380,
+    "type1": "GRASS",
+    "type2": "POISON",
+    "catch_rate": 160,
+    "base_exp": 151,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "VINE_WHIP",
+      "GROWTH",
+      "WRAP",
+      "POISONPOWDER"
+    ],
+    "learnset": [
+      "BIDE",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 13,
+        "move": "SLEEP_POWDER"
+      },
+      {
+        "level": 15,
+        "move": "STUN_SPORE"
+      },
+      {
+        "level": 18,
+        "move": "ACID"
+      },
+      {
+        "level": 23,
+        "move": "RAZOR_LEAF"
+      },
+      {
+        "level": 29,
+        "move": "SLAM"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 50,
+    "speed": 55,
+    "special": 85,
+    "bst": 345,
+    "type1": "GRASS",
+    "type2": "POISON",
+    "catch_rate": 120,
+    "base_exp": 151,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "VINE_WHIP",
+      "GROWTH",
+      "WRAP"
+    ],
+    "learnset": [
+      "BIDE",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 13,
+        "move": "WRAP"
+      },
+      {
+        "level": 15,
+        "move": "POISONPOWDER"
+      },
+      {
+        "level": 18,
+        "move": "SLEEP_POWDER"
+      },
+      {
+        "level": 23,
+        "move": "STUN_SPORE"
+      },
+      {
+        "level": 29,
+        "move": "ACID"
+      },
+      {
+        "level": 38,
+        "move": "RAZOR_LEAF"
+      },
+      {
+        "level": 49,
+        "move": "SLAM"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 10,
+      "speed": 10,
+      "special": 5,
+      "bst": 35,
+      "catch_rate": 40
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

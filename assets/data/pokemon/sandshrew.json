@@ -1,0 +1,142 @@
+{
+  "id": "sandshrew",
+  "name": "Sandshrew",
+  "sprite": "/assets/img/pokemon/sandshrew.png",
+  "hack": {
+    "hp": 60,
+    "attack": 85,
+    "defense": 95,
+    "speed": 50,
+    "special": 40,
+    "bst": 330,
+    "type1": "GROUND",
+    "type2": "FIGHTING",
+    "catch_rate": 255,
+    "base_exp": 93,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "SAND_ATTACK",
+      "SLASH",
+      "POISON_STING"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "XSCISSOR"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "DIG"
+      },
+      {
+        "level": 17,
+        "move": "SWIFT"
+      },
+      {
+        "level": 26,
+        "move": "EARTHQUAKE"
+      },
+      {
+        "level": 31,
+        "move": "ROCK_SLIDE"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 85,
+    "speed": 40,
+    "special": 30,
+    "bst": 280,
+    "type1": "GROUND",
+    "type2": "GROUND",
+    "catch_rate": 255,
+    "base_exp": 93,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "SAND_ATTACK"
+      },
+      {
+        "level": 17,
+        "move": "SLASH"
+      },
+      {
+        "level": 24,
+        "move": "POISON_STING"
+      },
+      {
+        "level": 31,
+        "move": "SWIFT"
+      },
+      {
+        "level": 38,
+        "move": "FURY_SWIPES"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 10,
+      "defense": 10,
+      "speed": 10,
+      "special": 10,
+      "bst": 50
+    },
+    "typing": true,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

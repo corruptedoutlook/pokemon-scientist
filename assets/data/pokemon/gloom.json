@@ -1,0 +1,131 @@
+{
+  "id": "gloom",
+  "name": "Gloom",
+  "sprite": "/assets/img/pokemon/gloom.png",
+  "hack": {
+    "hp": 65,
+    "attack": 70,
+    "defense": 80,
+    "speed": 45,
+    "special": 95,
+    "bst": 355,
+    "type1": "GRASS",
+    "type2": "POISON",
+    "catch_rate": 160,
+    "base_exp": 132,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "ABSORB",
+      "POISONPOWDER",
+      "STUN_SPORE",
+      "SLEEP_POWDER"
+    ],
+    "learnset": [
+      "BIDE",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "ACID"
+      },
+      {
+        "level": 17,
+        "move": "PETAL_DANCE"
+      },
+      {
+        "level": 30,
+        "move": "SOLARBEAM"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 60,
+    "attack": 65,
+    "defense": 70,
+    "speed": 40,
+    "special": 85,
+    "bst": 320,
+    "type1": "GRASS",
+    "type2": "POISON",
+    "catch_rate": 120,
+    "base_exp": 132,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "ABSORB",
+      "POISONPOWDER",
+      "STUN_SPORE"
+    ],
+    "learnset": [
+      "BIDE",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "POISONPOWDER"
+      },
+      {
+        "level": 17,
+        "move": "STUN_SPORE"
+      },
+      {
+        "level": 19,
+        "move": "SLEEP_POWDER"
+      },
+      {
+        "level": 28,
+        "move": "ACID"
+      },
+      {
+        "level": 38,
+        "move": "PETAL_DANCE"
+      },
+      {
+        "level": 52,
+        "move": "SOLARBEAM"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 10,
+      "speed": 5,
+      "special": 10,
+      "bst": 35,
+      "catch_rate": 40
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

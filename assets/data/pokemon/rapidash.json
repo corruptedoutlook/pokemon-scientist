@@ -1,0 +1,139 @@
+{
+  "id": "rapidash",
+  "name": "Rapidash",
+  "sprite": "/assets/img/pokemon/rapidash.png",
+  "hack": {
+    "hp": 80,
+    "attack": 120,
+    "defense": 80,
+    "speed": 120,
+    "special": 90,
+    "bst": 490,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 120,
+    "base_exp": 192,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "EMBER",
+      "TAIL_WHIP",
+      "STOMP",
+      "GROWL"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "HORN_DRILL",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 30,
+        "move": "FIRE_SPIN"
+      },
+      {
+        "level": 32,
+        "move": "TAKE_DOWN"
+      },
+      {
+        "level": 35,
+        "move": "AGILITY"
+      },
+      {
+        "level": 40,
+        "move": "FLAMETHROWER"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 65,
+    "attack": 100,
+    "defense": 70,
+    "speed": 105,
+    "special": 80,
+    "bst": 420,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 60,
+    "base_exp": 192,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "EMBER",
+      "TAIL_WHIP",
+      "STOMP",
+      "GROWL"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "HORN_DRILL",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 30,
+        "move": "TAIL_WHIP"
+      },
+      {
+        "level": 32,
+        "move": "STOMP"
+      },
+      {
+        "level": 35,
+        "move": "GROWL"
+      },
+      {
+        "level": 39,
+        "move": "FIRE_SPIN"
+      },
+      {
+        "level": 47,
+        "move": "TAKE_DOWN"
+      },
+      {
+        "level": 55,
+        "move": "AGILITY"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 15,
+      "attack": 20,
+      "defense": 10,
+      "speed": 15,
+      "special": 10,
+      "bst": 70,
+      "catch_rate": 60
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

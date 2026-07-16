@@ -1,0 +1,161 @@
+{
+  "id": "vaporeon",
+  "name": "Vaporeon",
+  "sprite": "/assets/img/pokemon/vaporeon.png",
+  "hack": {
+    "hp": 135,
+    "attack": 70,
+    "defense": 70,
+    "speed": 70,
+    "special": 115,
+    "bst": 460,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 90,
+    "base_exp": 196,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SAND_ATTACK",
+      "QUICK_ATTACK",
+      "TAIL_WHIP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 27,
+        "move": "WATER_GUN"
+      },
+      {
+        "level": 31,
+        "move": "BITE"
+      },
+      {
+        "level": 37,
+        "move": "ACID_ARMOR"
+      },
+      {
+        "level": 40,
+        "move": "HAZE"
+      },
+      {
+        "level": 42,
+        "move": "MIST"
+      },
+      {
+        "level": 50,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 130,
+    "attack": 65,
+    "defense": 60,
+    "speed": 65,
+    "special": 110,
+    "bst": 430,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 45,
+    "base_exp": 196,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SAND_ATTACK",
+      "QUICK_ATTACK",
+      "WATER_GUN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 27,
+        "move": "QUICK_ATTACK"
+      },
+      {
+        "level": 31,
+        "move": "WATER_GUN"
+      },
+      {
+        "level": 37,
+        "move": "TAIL_WHIP"
+      },
+      {
+        "level": 40,
+        "move": "BITE"
+      },
+      {
+        "level": 42,
+        "move": "ACID_ARMOR"
+      },
+      {
+        "level": 44,
+        "move": "HAZE"
+      },
+      {
+        "level": 48,
+        "move": "MIST"
+      },
+      {
+        "level": 54,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 10,
+      "speed": 5,
+      "special": 5,
+      "bst": 30,
+      "catch_rate": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

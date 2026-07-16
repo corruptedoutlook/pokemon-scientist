@@ -1,0 +1,149 @@
+{
+  "id": "gyarados",
+  "name": "Gyarados",
+  "sprite": "/assets/img/pokemon/gyarados.png",
+  "hack": {
+    "hp": 100,
+    "attack": 130,
+    "defense": 90,
+    "speed": 90,
+    "special": 105,
+    "bst": 515,
+    "type1": "WATER",
+    "type2": "DRAGON",
+    "catch_rate": 90,
+    "base_exp": 214,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "BITE",
+      "LEER",
+      "DRAGON_RAGE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "FIRE_BLAST",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 36,
+        "move": "HYDRO_PUMP"
+      },
+      {
+        "level": 41,
+        "move": "SHARP_SCALE"
+      },
+      {
+        "level": 44,
+        "move": "HYPER_BEAM"
+      },
+      {
+        "level": 60,
+        "move": "DRACOMETEOR"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 95,
+    "attack": 125,
+    "defense": 79,
+    "speed": 81,
+    "special": 100,
+    "bst": 480,
+    "type1": "WATER",
+    "type2": "FLYING",
+    "catch_rate": 45,
+    "base_exp": 214,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "BITE",
+      "DRAGON_RAGE",
+      "LEER",
+      "HYDRO_PUMP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "FIRE_BLAST",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 20,
+        "move": "BITE"
+      },
+      {
+        "level": 25,
+        "move": "DRAGON_RAGE"
+      },
+      {
+        "level": 32,
+        "move": "LEER"
+      },
+      {
+        "level": 41,
+        "move": "HYDRO_PUMP"
+      },
+      {
+        "level": 52,
+        "move": "HYPER_BEAM"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 11,
+      "speed": 9,
+      "special": 5,
+      "bst": 35,
+      "catch_rate": 45
+    },
+    "typing": true,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

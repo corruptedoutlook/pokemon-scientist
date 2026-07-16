@@ -1,0 +1,145 @@
+{
+  "id": "ivysaur",
+  "name": "Ivysaur",
+  "sprite": "/assets/img/pokemon/ivysaur.png",
+  "hack": {
+    "hp": 65,
+    "attack": 68,
+    "defense": 70,
+    "speed": 65,
+    "special": 87,
+    "bst": 355,
+    "type1": "GRASS",
+    "type2": "POISON",
+    "catch_rate": 75,
+    "base_exp": 141,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "GROWL",
+      "LEECH_SEED",
+      "VINE_WHIP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 7,
+        "move": "POISONPOWDER"
+      },
+      {
+        "level": 13,
+        "move": "RAZOR_LEAF"
+      },
+      {
+        "level": 22,
+        "move": "GROWTH"
+      },
+      {
+        "level": 30,
+        "move": "SLEEP_POWDER"
+      },
+      {
+        "level": 38,
+        "move": "SOLARBEAM"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 60,
+    "attack": 62,
+    "defense": 63,
+    "speed": 60,
+    "special": 80,
+    "bst": 325,
+    "type1": "GRASS",
+    "type2": "POISON",
+    "catch_rate": 45,
+    "base_exp": 141,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "GROWL",
+      "LEECH_SEED"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 7,
+        "move": "LEECH_SEED"
+      },
+      {
+        "level": 13,
+        "move": "VINE_WHIP"
+      },
+      {
+        "level": 22,
+        "move": "POISONPOWDER"
+      },
+      {
+        "level": 30,
+        "move": "RAZOR_LEAF"
+      },
+      {
+        "level": 38,
+        "move": "GROWTH"
+      },
+      {
+        "level": 46,
+        "move": "SLEEP_POWDER"
+      },
+      {
+        "level": 54,
+        "move": "SOLARBEAM"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 6,
+      "defense": 7,
+      "speed": 5,
+      "special": 7,
+      "bst": 30,
+      "catch_rate": 30
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

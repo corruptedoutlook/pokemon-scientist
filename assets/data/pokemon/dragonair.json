@@ -1,0 +1,154 @@
+{
+  "id": "dragonair",
+  "name": "Dragonair",
+  "sprite": "/assets/img/pokemon/dragonair.png",
+  "hack": {
+    "hp": 68,
+    "attack": 92,
+    "defense": 72,
+    "speed": 80,
+    "special": 78,
+    "bst": 390,
+    "type1": "DRAGON",
+    "type2": "DRAGON",
+    "catch_rate": 75,
+    "base_exp": 144,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "WRAP",
+      "LEER",
+      "THUNDER_WAVE",
+      "AGILITY"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "FIRE_BLAST",
+      "HORN_DRILL",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "SLAM"
+      },
+      {
+        "level": 20,
+        "move": "DRAGON_RAGE"
+      },
+      {
+        "level": 35,
+        "move": "FIRE_BLAST"
+      },
+      {
+        "level": 40,
+        "move": "SHARP_SCALE"
+      },
+      {
+        "level": 45,
+        "move": "HYPER_BEAM"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 61,
+    "attack": 84,
+    "defense": 65,
+    "speed": 70,
+    "special": 70,
+    "bst": 350,
+    "type1": "DRAGON",
+    "type2": "DRAGON",
+    "catch_rate": 45,
+    "base_exp": 144,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "WRAP",
+      "LEER",
+      "THUNDER_WAVE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "FIRE_BLAST",
+      "HORN_DRILL",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 10,
+        "move": "THUNDER_WAVE"
+      },
+      {
+        "level": 20,
+        "move": "AGILITY"
+      },
+      {
+        "level": 35,
+        "move": "SLAM"
+      },
+      {
+        "level": 45,
+        "move": "DRAGON_RAGE"
+      },
+      {
+        "level": 55,
+        "move": "HYPER_BEAM"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 7,
+      "attack": 8,
+      "defense": 7,
+      "speed": 10,
+      "special": 8,
+      "bst": 40,
+      "catch_rate": 30
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

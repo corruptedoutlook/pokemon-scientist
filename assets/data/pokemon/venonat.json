@@ -1,0 +1,141 @@
+{
+  "id": "venonat",
+  "name": "Venonat",
+  "sprite": "/assets/img/pokemon/venonat.png",
+  "hack": {
+    "hp": 70,
+    "attack": 65,
+    "defense": 60,
+    "speed": 60,
+    "special": 60,
+    "bst": 315,
+    "type1": "BUG",
+    "type2": "POISON",
+    "catch_rate": 190,
+    "base_exp": 75,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "DISABLE",
+      "POISONPOWDER",
+      "LEECH_LIFE"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "XSCISSOR"
+    ],
+    "levelup_moves": [
+      {
+        "level": 24,
+        "move": "STUN_SPORE"
+      },
+      {
+        "level": 27,
+        "move": "PSYBEAM"
+      },
+      {
+        "level": 30,
+        "move": "SLEEP_POWDER"
+      },
+      {
+        "level": 37,
+        "move": "PSYCHIC_M"
+      },
+      {
+        "level": 40,
+        "move": "SOLARBEAM"
+      },
+      {
+        "level": 44,
+        "move": "XSCISSOR"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 60,
+    "attack": 55,
+    "defense": 50,
+    "speed": 45,
+    "special": 40,
+    "bst": 250,
+    "type1": "BUG",
+    "type2": "POISON",
+    "catch_rate": 190,
+    "base_exp": 75,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "DISABLE"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 24,
+        "move": "POISONPOWDER"
+      },
+      {
+        "level": 27,
+        "move": "LEECH_LIFE"
+      },
+      {
+        "level": 30,
+        "move": "STUN_SPORE"
+      },
+      {
+        "level": 35,
+        "move": "PSYBEAM"
+      },
+      {
+        "level": 38,
+        "move": "SLEEP_POWDER"
+      },
+      {
+        "level": 43,
+        "move": "PSYCHIC_M"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 10,
+      "defense": 10,
+      "speed": 15,
+      "special": 20,
+      "bst": 65
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

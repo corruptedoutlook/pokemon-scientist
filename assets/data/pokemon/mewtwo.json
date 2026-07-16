@@ -1,0 +1,159 @@
+{
+  "id": "mewtwo",
+  "name": "Mewtwo",
+  "sprite": "/assets/img/pokemon/mewtwo.png",
+  "hack": {
+    "hp": 106,
+    "attack": 110,
+    "defense": 90,
+    "speed": 130,
+    "special": 154,
+    "bst": 590,
+    "type1": "PSYCHIC_TYPE",
+    "type2": "PSYCHIC_TYPE",
+    "catch_rate": 3,
+    "base_exp": 220,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "AMNESIA",
+      "RECOVER",
+      "SWIFT",
+      "PSYCHIC_M"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "FLASH",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PAY_DAY",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SELFDESTRUCT",
+      "SKULL_BASH",
+      "SOLARBEAM",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 91,
+        "move": "BARRIER"
+      },
+      {
+        "level": 95,
+        "move": "MIST"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 106,
+    "attack": 110,
+    "defense": 90,
+    "speed": 130,
+    "special": 154,
+    "bst": 590,
+    "type1": "PSYCHIC_TYPE",
+    "type2": "PSYCHIC_TYPE",
+    "catch_rate": 3,
+    "base_exp": 220,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "CONFUSION",
+      "DISABLE",
+      "SWIFT",
+      "PSYCHIC_M"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "FLASH",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PAY_DAY",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SELFDESTRUCT",
+      "SKULL_BASH",
+      "SOLARBEAM",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 63,
+        "move": "BARRIER"
+      },
+      {
+        "level": 66,
+        "move": "PSYCHIC_M"
+      },
+      {
+        "level": 70,
+        "move": "RECOVER"
+      },
+      {
+        "level": 75,
+        "move": "MIST"
+      },
+      {
+        "level": 81,
+        "move": "AMNESIA"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {},
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

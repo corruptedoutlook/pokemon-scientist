@@ -1,0 +1,124 @@
+{
+  "id": "vileplume",
+  "name": "Vileplume",
+  "sprite": "/assets/img/pokemon/vileplume.png",
+  "hack": {
+    "hp": 85,
+    "attack": 90,
+    "defense": 95,
+    "speed": 55,
+    "special": 110,
+    "bst": 435,
+    "type1": "GRASS",
+    "type2": "POISON",
+    "catch_rate": 75,
+    "base_exp": 184,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "ABSORB",
+      "POISONPOWDER",
+      "STUN_SPORE",
+      "SLEEP_POWDER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "ACID"
+      },
+      {
+        "level": 17,
+        "move": "PETAL_DANCE"
+      },
+      {
+        "level": 32,
+        "move": "SOLARBEAM"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 75,
+    "attack": 80,
+    "defense": 85,
+    "speed": 50,
+    "special": 100,
+    "bst": 390,
+    "type1": "GRASS",
+    "type2": "POISON",
+    "catch_rate": 45,
+    "base_exp": 184,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "STUN_SPORE",
+      "SLEEP_POWDER",
+      "ACID",
+      "PETAL_DANCE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "POISONPOWDER"
+      },
+      {
+        "level": 17,
+        "move": "STUN_SPORE"
+      },
+      {
+        "level": 19,
+        "move": "SLEEP_POWDER"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 10,
+      "defense": 10,
+      "speed": 5,
+      "special": 10,
+      "bst": 45,
+      "catch_rate": 30
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

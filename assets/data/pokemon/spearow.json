@@ -1,0 +1,129 @@
+{
+  "id": "spearow",
+  "name": "Spearow",
+  "sprite": "/assets/img/pokemon/spearow.png",
+  "hack": {
+    "hp": 45,
+    "attack": 68,
+    "defense": 38,
+    "speed": 78,
+    "special": 36,
+    "bst": 265,
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "catch_rate": 255,
+    "base_exp": 58,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "PECK",
+      "GROWL",
+      "LEER",
+      "FURY_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "FLY",
+      "MIMIC",
+      "RAGE",
+      "RAZOR_WIND",
+      "REST",
+      "SKY_ATTACK",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WHIRLWIND"
+    ],
+    "levelup_moves": [
+      {
+        "level": 9,
+        "move": "MIRROR_MOVE"
+      },
+      {
+        "level": 22,
+        "move": "AGILITY"
+      },
+      {
+        "level": 24,
+        "move": "DRILL_PECK"
+      },
+      {
+        "level": 40,
+        "move": "BRAVE_BIRD"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 40,
+    "attack": 60,
+    "defense": 30,
+    "speed": 70,
+    "special": 31,
+    "bst": 231,
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "catch_rate": 255,
+    "base_exp": 58,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "PECK",
+      "GROWL"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLY",
+      "MIMIC",
+      "RAGE",
+      "RAZOR_WIND",
+      "REST",
+      "SKY_ATTACK",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WHIRLWIND"
+    ],
+    "levelup_moves": [
+      {
+        "level": 9,
+        "move": "LEER"
+      },
+      {
+        "level": 15,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 22,
+        "move": "MIRROR_MOVE"
+      },
+      {
+        "level": 29,
+        "move": "DRILL_PECK"
+      },
+      {
+        "level": 36,
+        "move": "AGILITY"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 8,
+      "defense": 8,
+      "speed": 8,
+      "special": 5,
+      "bst": 34
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

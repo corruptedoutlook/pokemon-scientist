@@ -1,0 +1,136 @@
+{
+  "id": "raichu",
+  "name": "Raichu",
+  "sprite": "/assets/img/pokemon/raichu.png",
+  "hack": {
+    "hp": 80,
+    "attack": 105,
+    "defense": 70,
+    "speed": 115,
+    "special": 105,
+    "bst": 475,
+    "type1": "ELECTRIC",
+    "type2": "ELECTRIC",
+    "catch_rate": 140,
+    "base_exp": 122,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "GROWL",
+      "THUNDER_WAVE",
+      "QUICK_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 9,
+        "move": "THUNDERSHOCK"
+      },
+      {
+        "level": 16,
+        "move": "SWIFT"
+      },
+      {
+        "level": 20,
+        "move": "AGILITY"
+      },
+      {
+        "level": 28,
+        "move": "THUNDERBOLT"
+      },
+      {
+        "level": 36,
+        "move": "THUNDER"
+      },
+      {
+        "level": 43,
+        "move": "MEGA_PUNCH"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 60,
+    "attack": 90,
+    "defense": 55,
+    "speed": 100,
+    "special": 90,
+    "bst": 395,
+    "type1": "ELECTRIC",
+    "type2": "ELECTRIC",
+    "catch_rate": 75,
+    "base_exp": 122,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "THUNDERSHOCK",
+      "GROWL",
+      "THUNDER_WAVE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC"
+    ],
+    "levelup_moves": []
+  },
+  "changes": {
+    "numeric": {
+      "hp": 20,
+      "attack": 15,
+      "defense": 15,
+      "speed": 15,
+      "special": 15,
+      "bst": 80,
+      "catch_rate": 65
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

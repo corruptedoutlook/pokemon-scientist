@@ -1,0 +1,135 @@
+{
+  "id": "doduo",
+  "name": "Doduo",
+  "sprite": "/assets/img/pokemon/doduo.png",
+  "hack": {
+    "hp": 40,
+    "attack": 90,
+    "defense": 50,
+    "speed": 85,
+    "special": 40,
+    "bst": 305,
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "catch_rate": 190,
+    "base_exp": 96,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "PECK",
+      "GROWL",
+      "FURY_ATTACK",
+      "DRILL_PECK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLY",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SKY_ATTACK",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WHIRLWIND"
+    ],
+    "levelup_moves": [
+      {
+        "level": 20,
+        "move": "RAGE"
+      },
+      {
+        "level": 24,
+        "move": "TRI_ATTACK"
+      },
+      {
+        "level": 30,
+        "move": "AGILITY"
+      },
+      {
+        "level": 45,
+        "move": "BRAVE_BIRD"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 35,
+    "attack": 85,
+    "defense": 45,
+    "speed": 75,
+    "special": 35,
+    "bst": 275,
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "catch_rate": 190,
+    "base_exp": 96,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "PECK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLY",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SKY_ATTACK",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WHIRLWIND"
+    ],
+    "levelup_moves": [
+      {
+        "level": 20,
+        "move": "GROWL"
+      },
+      {
+        "level": 24,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 30,
+        "move": "DRILL_PECK"
+      },
+      {
+        "level": 36,
+        "move": "RAGE"
+      },
+      {
+        "level": 40,
+        "move": "TRI_ATTACK"
+      },
+      {
+        "level": 44,
+        "move": "AGILITY"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 5,
+      "speed": 10,
+      "special": 5,
+      "bst": 30
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

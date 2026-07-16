@@ -1,0 +1,143 @@
+{
+  "id": "porygon",
+  "name": "Porygon",
+  "sprite": "/assets/img/pokemon/porygon.png",
+  "hack": {
+    "hp": 95,
+    "attack": 90,
+    "defense": 100,
+    "speed": 75,
+    "special": 110,
+    "bst": 470,
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "catch_rate": 45,
+    "base_exp": 130,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SHARPEN",
+      "CONVERSION",
+      "TRI_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK"
+    ],
+    "levelup_moves": [
+      {
+        "level": 23,
+        "move": "RECOVER"
+      },
+      {
+        "level": 28,
+        "move": "AGILITY"
+      },
+      {
+        "level": 36,
+        "move": "PSYBEAM"
+      },
+      {
+        "level": 44,
+        "move": "PSYCHIC_M"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 65,
+    "attack": 60,
+    "defense": 70,
+    "speed": 40,
+    "special": 75,
+    "bst": 310,
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "catch_rate": 45,
+    "base_exp": 130,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SHARPEN",
+      "CONVERSION"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK"
+    ],
+    "levelup_moves": [
+      {
+        "level": 23,
+        "move": "PSYBEAM"
+      },
+      {
+        "level": 28,
+        "move": "RECOVER"
+      },
+      {
+        "level": 35,
+        "move": "AGILITY"
+      },
+      {
+        "level": 42,
+        "move": "TRI_ATTACK"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 30,
+      "attack": 30,
+      "defense": 30,
+      "speed": 35,
+      "special": 35,
+      "bst": 160
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

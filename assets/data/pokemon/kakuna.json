@@ -1,0 +1,74 @@
+{
+  "id": "kakuna",
+  "name": "Kakuna",
+  "sprite": "/assets/img/pokemon/kakuna.png",
+  "hack": {
+    "hp": 50,
+    "attack": 30,
+    "defense": 60,
+    "speed": 40,
+    "special": 30,
+    "bst": 210,
+    "type1": "BUG",
+    "type2": "POISON",
+    "catch_rate": 160,
+    "base_exp": 71,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "POISON_STING",
+      "STRING_SHOT",
+      "HARDEN"
+    ],
+    "learnset": [
+      "FLASH"
+    ],
+    "levelup_moves": [
+      {
+        "level": 1,
+        "move": "POISON_STING"
+      },
+      {
+        "level": 1,
+        "move": "STRING_SHOT"
+      },
+      {
+        "level": 10,
+        "move": "FURY_ATTACK"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 45,
+    "attack": 25,
+    "defense": 50,
+    "speed": 35,
+    "special": 25,
+    "bst": 180,
+    "type1": "BUG",
+    "type2": "POISON",
+    "catch_rate": 120,
+    "base_exp": 71,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "HARDEN"
+    ],
+    "learnset": [],
+    "levelup_moves": []
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 10,
+      "speed": 5,
+      "special": 5,
+      "bst": 30,
+      "catch_rate": 40
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

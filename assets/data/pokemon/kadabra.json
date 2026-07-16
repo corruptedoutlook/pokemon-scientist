@@ -1,0 +1,159 @@
+{
+  "id": "kadabra",
+  "name": "Kadabra",
+  "sprite": "/assets/img/pokemon/kadabra.png",
+  "hack": {
+    "hp": 45,
+    "attack": 40,
+    "defense": 35,
+    "speed": 110,
+    "special": 125,
+    "bst": 355,
+    "type1": "PSYCHIC_TYPE",
+    "type2": "PSYCHIC_TYPE",
+    "catch_rate": 150,
+    "base_exp": 145,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TELEPORT",
+      "CONFUSION",
+      "DISABLE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK"
+    ],
+    "levelup_moves": [
+      {
+        "level": 16,
+        "move": "RECOVER"
+      },
+      {
+        "level": 22,
+        "move": "PSYCHIC_M"
+      },
+      {
+        "level": 27,
+        "move": "REFLECT"
+      },
+      {
+        "level": 31,
+        "move": "LIGHT_SCREEN"
+      },
+      {
+        "level": 38,
+        "move": "KINESIS"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "speed": 105,
+    "special": 120,
+    "bst": 330,
+    "type1": "PSYCHIC_TYPE",
+    "type2": "PSYCHIC_TYPE",
+    "catch_rate": 100,
+    "base_exp": 145,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TELEPORT",
+      "CONFUSION",
+      "DISABLE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK"
+    ],
+    "levelup_moves": [
+      {
+        "level": 16,
+        "move": "CONFUSION"
+      },
+      {
+        "level": 20,
+        "move": "DISABLE"
+      },
+      {
+        "level": 27,
+        "move": "PSYBEAM"
+      },
+      {
+        "level": 31,
+        "move": "RECOVER"
+      },
+      {
+        "level": 38,
+        "move": "PSYCHIC_M"
+      },
+      {
+        "level": 42,
+        "move": "REFLECT"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 5,
+      "speed": 5,
+      "special": 5,
+      "bst": 25,
+      "catch_rate": 50
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

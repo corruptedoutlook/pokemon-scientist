@@ -1,0 +1,143 @@
+{
+  "id": "hitmonlee",
+  "name": "Hitmonlee",
+  "sprite": "/assets/img/pokemon/hitmonlee.png",
+  "hack": {
+    "hp": 70,
+    "attack": 125,
+    "defense": 65,
+    "speed": 100,
+    "special": 45,
+    "bst": 405,
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "catch_rate": 120,
+    "base_exp": 139,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "DOUBLE_KICK",
+      "MEDITATE",
+      "ROLLING_KICK",
+      "JUMP_KICK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 20,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 26,
+        "move": "ROLLING_KICK"
+      },
+      {
+        "level": 32,
+        "move": "JUMP_KICK"
+      },
+      {
+        "level": 40,
+        "move": "HI_JUMP_KICK"
+      },
+      {
+        "level": 48,
+        "move": "MEGA_KICK"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 50,
+    "attack": 120,
+    "defense": 53,
+    "speed": 87,
+    "special": 35,
+    "bst": 345,
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "catch_rate": 45,
+    "base_exp": 139,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "DOUBLE_KICK",
+      "MEDITATE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 33,
+        "move": "ROLLING_KICK"
+      },
+      {
+        "level": 38,
+        "move": "JUMP_KICK"
+      },
+      {
+        "level": 43,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 48,
+        "move": "HI_JUMP_KICK"
+      },
+      {
+        "level": 53,
+        "move": "MEGA_KICK"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 20,
+      "attack": 5,
+      "defense": 12,
+      "speed": 13,
+      "special": 10,
+      "bst": 60,
+      "catch_rate": 75
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

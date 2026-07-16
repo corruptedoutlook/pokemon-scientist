@@ -1,0 +1,153 @@
+{
+  "id": "nidorino",
+  "name": "Nidorino",
+  "sprite": "/assets/img/pokemon/nidorino.png",
+  "hack": {
+    "hp": 70,
+    "attack": 85,
+    "defense": 70,
+    "speed": 75,
+    "special": 65,
+    "bst": 365,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 160,
+    "base_exp": 118,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "LEER",
+      "TACKLE",
+      "HORN_ATTACK",
+      "POISON_STING"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HORN_DRILL",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 14,
+        "move": "DOUBLE_KICK"
+      },
+      {
+        "level": 20,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 28,
+        "move": "THRASH"
+      },
+      {
+        "level": 36,
+        "move": "EARTHQUAKE"
+      },
+      {
+        "level": 44,
+        "move": "HORN_DRILL"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 61,
+    "attack": 72,
+    "defense": 57,
+    "speed": 65,
+    "special": 55,
+    "bst": 310,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 120,
+    "base_exp": 118,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "LEER",
+      "TACKLE",
+      "HORN_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HORN_DRILL",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "HORN_ATTACK"
+      },
+      {
+        "level": 14,
+        "move": "POISON_STING"
+      },
+      {
+        "level": 23,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 32,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 41,
+        "move": "HORN_DRILL"
+      },
+      {
+        "level": 50,
+        "move": "DOUBLE_KICK"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 9,
+      "attack": 13,
+      "defense": 13,
+      "speed": 10,
+      "special": 10,
+      "bst": 55,
+      "catch_rate": 40
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

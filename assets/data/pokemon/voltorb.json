@@ -1,0 +1,134 @@
+{
+  "id": "voltorb",
+  "name": "Voltorb",
+  "sprite": "/assets/img/pokemon/voltorb.png",
+  "hack": {
+    "hp": 45,
+    "attack": 35,
+    "defense": 55,
+    "speed": 105,
+    "special": 60,
+    "bst": 300,
+    "type1": "ELECTRIC",
+    "type2": "ELECTRIC",
+    "catch_rate": 190,
+    "base_exp": 103,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SCREECH",
+      "SONICBOOM",
+      "SELFDESTRUCT"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_TEAM",
+      "EXPLOSION",
+      "FLASH",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SELFDESTRUCT",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 17,
+        "move": "LIGHT_SCREEN"
+      },
+      {
+        "level": 22,
+        "move": "SWIFT"
+      },
+      {
+        "level": 29,
+        "move": "THUNDERBOLT"
+      },
+      {
+        "level": 36,
+        "move": "EXPLOSION"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 40,
+    "attack": 30,
+    "defense": 50,
+    "speed": 100,
+    "special": 55,
+    "bst": 275,
+    "type1": "ELECTRIC",
+    "type2": "ELECTRIC",
+    "catch_rate": 190,
+    "base_exp": 103,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SCREECH"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_TEAM",
+      "EXPLOSION",
+      "FLASH",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SELFDESTRUCT",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 17,
+        "move": "SONICBOOM"
+      },
+      {
+        "level": 22,
+        "move": "SELFDESTRUCT"
+      },
+      {
+        "level": 29,
+        "move": "LIGHT_SCREEN"
+      },
+      {
+        "level": 36,
+        "move": "SWIFT"
+      },
+      {
+        "level": 43,
+        "move": "EXPLOSION"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 5,
+      "speed": 5,
+      "special": 5,
+      "bst": 25
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

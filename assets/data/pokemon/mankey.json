@@ -1,0 +1,145 @@
+{
+  "id": "mankey",
+  "name": "Mankey",
+  "sprite": "/assets/img/pokemon/mankey.png",
+  "hack": {
+    "hp": 50,
+    "attack": 90,
+    "defense": 45,
+    "speed": 80,
+    "special": 40,
+    "bst": 305,
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "catch_rate": 190,
+    "base_exp": 74,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "LEER",
+      "KARATE_CHOP",
+      "FURY_SWIPES"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 21,
+        "move": "SEISMIC_TOSS"
+      },
+      {
+        "level": 27,
+        "move": "THRASH"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 40,
+    "attack": 80,
+    "defense": 35,
+    "speed": 70,
+    "special": 35,
+    "bst": 260,
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "catch_rate": 190,
+    "base_exp": 74,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "LEER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "KARATE_CHOP"
+      },
+      {
+        "level": 21,
+        "move": "FURY_SWIPES"
+      },
+      {
+        "level": 27,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 33,
+        "move": "SEISMIC_TOSS"
+      },
+      {
+        "level": 39,
+        "move": "THRASH"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 10,
+      "defense": 10,
+      "speed": 10,
+      "special": 5,
+      "bst": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

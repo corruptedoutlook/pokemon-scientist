@@ -1,0 +1,140 @@
+{
+  "id": "machoke",
+  "name": "Machoke",
+  "sprite": "/assets/img/pokemon/machoke.png",
+  "hack": {
+    "hp": 90,
+    "attack": 110,
+    "defense": 80,
+    "speed": 55,
+    "special": 60,
+    "bst": 395,
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "catch_rate": 140,
+    "base_exp": 146,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "KARATE_CHOP",
+      "LOW_KICK",
+      "LEER",
+      "FOCUS_ENERGY"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "SEISMIC_TOSS"
+      },
+      {
+        "level": 20,
+        "move": "SUBMISSION"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 70,
+    "speed": 45,
+    "special": 50,
+    "bst": 345,
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "catch_rate": 90,
+    "base_exp": 146,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "KARATE_CHOP",
+      "LOW_KICK",
+      "LEER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 20,
+        "move": "LOW_KICK"
+      },
+      {
+        "level": 25,
+        "move": "LEER"
+      },
+      {
+        "level": 36,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 44,
+        "move": "SEISMIC_TOSS"
+      },
+      {
+        "level": 52,
+        "move": "SUBMISSION"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 10,
+      "defense": 10,
+      "speed": 10,
+      "special": 10,
+      "bst": 50,
+      "catch_rate": 50
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

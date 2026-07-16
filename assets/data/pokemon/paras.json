@@ -1,0 +1,134 @@
+{
+  "id": "paras",
+  "name": "Paras",
+  "sprite": "/assets/img/pokemon/paras.png",
+  "hack": {
+    "hp": 50,
+    "attack": 80,
+    "defense": 65,
+    "speed": 35,
+    "special": 65,
+    "bst": 295,
+    "type1": "BUG",
+    "type2": "GRASS",
+    "catch_rate": 190,
+    "base_exp": 70,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "STUN_SPORE",
+      "LEECH_LIFE",
+      "SPORE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "XSCISSOR"
+    ],
+    "levelup_moves": [
+      {
+        "level": 13,
+        "move": "SLASH"
+      },
+      {
+        "level": 20,
+        "move": "GROWTH"
+      },
+      {
+        "level": 27,
+        "move": "SWORDS_DANCE"
+      },
+      {
+        "level": 34,
+        "move": "SOLARBEAM"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 35,
+    "attack": 70,
+    "defense": 55,
+    "speed": 25,
+    "special": 55,
+    "bst": 240,
+    "type1": "BUG",
+    "type2": "GRASS",
+    "catch_rate": 190,
+    "base_exp": 70,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 13,
+        "move": "STUN_SPORE"
+      },
+      {
+        "level": 20,
+        "move": "LEECH_LIFE"
+      },
+      {
+        "level": 27,
+        "move": "SPORE"
+      },
+      {
+        "level": 34,
+        "move": "SLASH"
+      },
+      {
+        "level": 41,
+        "move": "GROWTH"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 15,
+      "attack": 10,
+      "defense": 10,
+      "speed": 10,
+      "special": 10,
+      "bst": 55
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

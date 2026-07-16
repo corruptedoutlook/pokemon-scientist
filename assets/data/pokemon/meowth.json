@@ -1,0 +1,134 @@
+{
+  "id": "meowth",
+  "name": "Meowth",
+  "sprite": "/assets/img/pokemon/meowth.png",
+  "hack": {
+    "hp": 50,
+    "attack": 55,
+    "defense": 45,
+    "speed": 100,
+    "special": 50,
+    "bst": 300,
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "catch_rate": 255,
+    "base_exp": 69,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "GROWL",
+      "BITE",
+      "PAY_DAY"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 12,
+        "move": "SCREECH"
+      },
+      {
+        "level": 17,
+        "move": "FURY_SWIPES"
+      },
+      {
+        "level": 24,
+        "move": "SLASH"
+      },
+      {
+        "level": 37,
+        "move": "HYPER_BEAM"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "speed": 90,
+    "special": 40,
+    "bst": 250,
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "catch_rate": 255,
+    "base_exp": 69,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "GROWL"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 12,
+        "move": "BITE"
+      },
+      {
+        "level": 17,
+        "move": "PAY_DAY"
+      },
+      {
+        "level": 24,
+        "move": "SCREECH"
+      },
+      {
+        "level": 33,
+        "move": "FURY_SWIPES"
+      },
+      {
+        "level": 44,
+        "move": "SLASH"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 10,
+      "defense": 10,
+      "speed": 10,
+      "special": 10,
+      "bst": 50
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

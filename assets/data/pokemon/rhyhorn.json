@@ -1,0 +1,152 @@
+{
+  "id": "rhyhorn",
+  "name": "Rhyhorn",
+  "sprite": "/assets/img/pokemon/rhyhorn.png",
+  "hack": {
+    "hp": 90,
+    "attack": 100,
+    "defense": 105,
+    "speed": 35,
+    "special": 40,
+    "bst": 370,
+    "type1": "GROUND",
+    "type2": "ROCK",
+    "catch_rate": 160,
+    "base_exp": 135,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "HORN_ATTACK",
+      "STOMP",
+      "TAIL_WHIP",
+      "ROCK_THROW"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "HORN_DRILL",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 30,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 35,
+        "move": "HORN_DRILL"
+      },
+      {
+        "level": 40,
+        "move": "LEER"
+      },
+      {
+        "level": 45,
+        "move": "TAKE_DOWN"
+      },
+      {
+        "level": 50,
+        "move": "ROCK_SLIDE"
+      },
+      {
+        "level": 54,
+        "move": "TOMBSTONER"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 80,
+    "attack": 85,
+    "defense": 95,
+    "speed": 25,
+    "special": 30,
+    "bst": 315,
+    "type1": "GROUND",
+    "type2": "ROCK",
+    "catch_rate": 120,
+    "base_exp": 135,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "HORN_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "HORN_DRILL",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 30,
+        "move": "STOMP"
+      },
+      {
+        "level": 35,
+        "move": "TAIL_WHIP"
+      },
+      {
+        "level": 40,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 45,
+        "move": "HORN_DRILL"
+      },
+      {
+        "level": 50,
+        "move": "LEER"
+      },
+      {
+        "level": 55,
+        "move": "TAKE_DOWN"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 15,
+      "defense": 10,
+      "speed": 10,
+      "special": 10,
+      "bst": 55,
+      "catch_rate": 40
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

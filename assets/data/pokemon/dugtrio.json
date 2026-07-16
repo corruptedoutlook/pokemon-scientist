@@ -1,0 +1,135 @@
+{
+  "id": "dugtrio",
+  "name": "Dugtrio",
+  "sprite": "/assets/img/pokemon/dugtrio.png",
+  "hack": {
+    "hp": 45,
+    "attack": 90,
+    "defense": 60,
+    "speed": 120,
+    "special": 75,
+    "bst": 390,
+    "type1": "GROUND",
+    "type2": "GROUND",
+    "catch_rate": 120,
+    "base_exp": 153,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "GROWL",
+      "DIG",
+      "SAND_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 14,
+        "move": "SLASH"
+      },
+      {
+        "level": 22,
+        "move": "DIG"
+      },
+      {
+        "level": 28,
+        "move": "AGILITY"
+      },
+      {
+        "level": 34,
+        "move": "EARTHQUAKE"
+      },
+      {
+        "level": 46,
+        "move": "ROCK_SLIDE"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 35,
+    "attack": 80,
+    "defense": 50,
+    "speed": 120,
+    "special": 70,
+    "bst": 355,
+    "type1": "GROUND",
+    "type2": "GROUND",
+    "catch_rate": 50,
+    "base_exp": 153,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "GROWL",
+      "DIG"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "GROWL"
+      },
+      {
+        "level": 19,
+        "move": "DIG"
+      },
+      {
+        "level": 24,
+        "move": "SAND_ATTACK"
+      },
+      {
+        "level": 35,
+        "move": "SLASH"
+      },
+      {
+        "level": 47,
+        "move": "EARTHQUAKE"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 10,
+      "defense": 10,
+      "special": 5,
+      "bst": 35,
+      "catch_rate": 70
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id": "horsea",
+  "name": "Horsea",
+  "sprite": "/assets/img/pokemon/horsea.png",
+  "hack": {
+    "hp": 40,
+    "attack": 45,
+    "defense": 75,
+    "speed": 70,
+    "special": 80,
+    "bst": 310,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 225,
+    "base_exp": 83,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "BUBBLE",
+      "SMOKESCREEN",
+      "LEER",
+      "WATER_GUN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 19,
+        "move": "AGILITY"
+      },
+      {
+        "level": 28,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 30,
+    "attack": 40,
+    "defense": 70,
+    "speed": 60,
+    "special": 70,
+    "bst": 270,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 225,
+    "base_exp": 83,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "BUBBLE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 19,
+        "move": "SMOKESCREEN"
+      },
+      {
+        "level": 24,
+        "move": "LEER"
+      },
+      {
+        "level": 30,
+        "move": "WATER_GUN"
+      },
+      {
+        "level": 37,
+        "move": "AGILITY"
+      },
+      {
+        "level": 45,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 5,
+      "defense": 5,
+      "speed": 10,
+      "special": 10,
+      "bst": 40
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": "rattata",
+  "name": "Rattata",
+  "sprite": "/assets/img/pokemon/rattata.png",
+  "hack": {
+    "hp": 40,
+    "attack": 65,
+    "defense": 45,
+    "speed": 82,
+    "special": 35,
+    "bst": 267,
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "catch_rate": 255,
+    "base_exp": 57,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "TAIL_WHIP",
+      "QUICK_ATTACK",
+      "SUPER_FANG"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 7,
+        "move": "HYPER_FANG"
+      },
+      {
+        "level": 14,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 23,
+        "move": "DOUBLE_EDGE"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 30,
+    "attack": 56,
+    "defense": 35,
+    "speed": 72,
+    "special": 25,
+    "bst": 218,
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "catch_rate": 255,
+    "base_exp": 57,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "TAIL_WHIP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 7,
+        "move": "QUICK_ATTACK"
+      },
+      {
+        "level": 14,
+        "move": "HYPER_FANG"
+      },
+      {
+        "level": 23,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 34,
+        "move": "SUPER_FANG"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 9,
+      "defense": 10,
+      "speed": 10,
+      "special": 10,
+      "bst": 49
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

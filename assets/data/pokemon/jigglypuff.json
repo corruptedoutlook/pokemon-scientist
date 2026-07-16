@@ -1,0 +1,175 @@
+{
+  "id": "jigglypuff",
+  "name": "Jigglypuff",
+  "sprite": "/assets/img/pokemon/jigglypuff.png",
+  "hack": {
+    "hp": 120,
+    "attack": 55,
+    "defense": 35,
+    "speed": 30,
+    "special": 40,
+    "bst": 280,
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "catch_rate": 170,
+    "base_exp": 76,
+    "growth_rate": "GROWTH_FAST",
+    "starting_moves": [
+      "POUND",
+      "DISABLE",
+      "DEFENSE_CURL",
+      "SING"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "FLASH",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "SOLARBEAM",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 9,
+        "move": "DOUBLESLAP"
+      },
+      {
+        "level": 14,
+        "move": "REST"
+      },
+      {
+        "level": 19,
+        "move": "BODY_SLAM"
+      },
+      {
+        "level": 24,
+        "move": "DOUBLE_EDGE"
+      },
+      {
+        "level": 34,
+        "move": "HYPER_BEAM"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 115,
+    "attack": 45,
+    "defense": 20,
+    "speed": 20,
+    "special": 25,
+    "bst": 225,
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "catch_rate": 170,
+    "base_exp": 76,
+    "growth_rate": "GROWTH_FAST",
+    "starting_moves": [
+      "SING"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "FLASH",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "SOLARBEAM",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 9,
+        "move": "POUND"
+      },
+      {
+        "level": 14,
+        "move": "DISABLE"
+      },
+      {
+        "level": 19,
+        "move": "DEFENSE_CURL"
+      },
+      {
+        "level": 24,
+        "move": "DOUBLESLAP"
+      },
+      {
+        "level": 29,
+        "move": "REST"
+      },
+      {
+        "level": 34,
+        "move": "BODY_SLAM"
+      },
+      {
+        "level": 39,
+        "move": "DOUBLE_EDGE"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 10,
+      "defense": 15,
+      "speed": 10,
+      "special": 15,
+      "bst": 55
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

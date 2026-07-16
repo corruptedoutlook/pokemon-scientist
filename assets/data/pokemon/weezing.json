@@ -1,0 +1,133 @@
+{
+  "id": "weezing",
+  "name": "Weezing",
+  "sprite": "/assets/img/pokemon/weezing.png",
+  "hack": {
+    "hp": 80,
+    "attack": 100,
+    "defense": 125,
+    "speed": 70,
+    "special": 100,
+    "bst": 475,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 120,
+    "base_exp": 173,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SMOG",
+      "POISON_GAS",
+      "SMOKESCREEN"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_TEAM",
+      "EXPLOSION",
+      "FIRE_BLAST",
+      "FLASH",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SELFDESTRUCT",
+      "SUBSTITUTE",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "SELFDESTRUCT"
+      },
+      {
+        "level": 12,
+        "move": "SLUDGE"
+      },
+      {
+        "level": 16,
+        "move": "HAZE"
+      },
+      {
+        "level": 18,
+        "move": "EXPLOSION"
+      },
+      {
+        "level": 24,
+        "move": "FIRE_BLAST"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 65,
+    "attack": 90,
+    "defense": 120,
+    "speed": 60,
+    "special": 85,
+    "bst": 420,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 60,
+    "base_exp": 173,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SMOG",
+      "SLUDGE"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_TEAM",
+      "EXPLOSION",
+      "FIRE_BLAST",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SELFDESTRUCT",
+      "SUBSTITUTE",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 32,
+        "move": "SLUDGE"
+      },
+      {
+        "level": 39,
+        "move": "SMOKESCREEN"
+      },
+      {
+        "level": 43,
+        "move": "SELFDESTRUCT"
+      },
+      {
+        "level": 49,
+        "move": "HAZE"
+      },
+      {
+        "level": 53,
+        "move": "EXPLOSION"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 15,
+      "attack": 10,
+      "defense": 5,
+      "speed": 10,
+      "special": 15,
+      "bst": 55,
+      "catch_rate": 60
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

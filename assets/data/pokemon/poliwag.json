@@ -1,0 +1,135 @@
+{
+  "id": "poliwag",
+  "name": "Poliwag",
+  "sprite": "/assets/img/pokemon/poliwag.png",
+  "hack": {
+    "hp": 50,
+    "attack": 60,
+    "defense": 50,
+    "speed": 95,
+    "special": 50,
+    "bst": 305,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 255,
+    "base_exp": 77,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "BUBBLE",
+      "HYPNOSIS",
+      "WATER_GUN",
+      "DOUBLESLAP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 16,
+        "move": "BODY_SLAM"
+      },
+      {
+        "level": 19,
+        "move": "AMNESIA"
+      },
+      {
+        "level": 29,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 40,
+    "attack": 50,
+    "defense": 40,
+    "speed": 90,
+    "special": 40,
+    "bst": 260,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 255,
+    "base_exp": 77,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "BUBBLE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 16,
+        "move": "HYPNOSIS"
+      },
+      {
+        "level": 19,
+        "move": "WATER_GUN"
+      },
+      {
+        "level": 25,
+        "move": "DOUBLESLAP"
+      },
+      {
+        "level": 31,
+        "move": "BODY_SLAM"
+      },
+      {
+        "level": 38,
+        "move": "AMNESIA"
+      },
+      {
+        "level": 45,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 10,
+      "defense": 10,
+      "speed": 5,
+      "special": 10,
+      "bst": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

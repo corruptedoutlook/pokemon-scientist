@@ -1,0 +1,150 @@
+{
+  "id": "beedrill",
+  "name": "Beedrill",
+  "sprite": "/assets/img/pokemon/beedrill.png",
+  "hack": {
+    "hp": 70,
+    "attack": 105,
+    "defense": 55,
+    "speed": 90,
+    "special": 50,
+    "bst": 370,
+    "type1": "BUG",
+    "type2": "POISON",
+    "catch_rate": 120,
+    "base_exp": 159,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "POISON_STING",
+      "STRING_SHOT",
+      "HARDEN",
+      "FURY_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "XSCISSOR"
+    ],
+    "levelup_moves": [
+      {
+        "level": 12,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 16,
+        "move": "RAGE"
+      },
+      {
+        "level": 20,
+        "move": "TWINEEDLE"
+      },
+      {
+        "level": 25,
+        "move": "PIN_MISSILE"
+      },
+      {
+        "level": 30,
+        "move": "AGILITY"
+      },
+      {
+        "level": 35,
+        "move": "SWORDS_DANCE"
+      },
+      {
+        "level": 38,
+        "move": "XSCISSOR"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 65,
+    "attack": 80,
+    "defense": 40,
+    "speed": 75,
+    "special": 45,
+    "bst": 305,
+    "type1": "BUG",
+    "type2": "POISON",
+    "catch_rate": 45,
+    "base_exp": 159,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "FURY_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 12,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 16,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 20,
+        "move": "TWINEEDLE"
+      },
+      {
+        "level": 25,
+        "move": "RAGE"
+      },
+      {
+        "level": 30,
+        "move": "PIN_MISSILE"
+      },
+      {
+        "level": 35,
+        "move": "AGILITY"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 25,
+      "defense": 15,
+      "speed": 15,
+      "special": 5,
+      "bst": 65,
+      "catch_rate": 75
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

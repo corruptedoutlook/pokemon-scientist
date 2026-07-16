@@ -1,0 +1,138 @@
+{
+  "id": "goldeen",
+  "name": "Goldeen",
+  "sprite": "/assets/img/pokemon/goldeen.png",
+  "hack": {
+    "hp": 50,
+    "attack": 75,
+    "defense": 65,
+    "speed": 70,
+    "special": 55,
+    "bst": 315,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 225,
+    "base_exp": 111,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "PECK",
+      "TAIL_WHIP",
+      "SUPERSONIC",
+      "HORN_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HORN_DRILL",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 19,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 24,
+        "move": "WATERFALL"
+      },
+      {
+        "level": 30,
+        "move": "HORN_DRILL"
+      },
+      {
+        "level": 37,
+        "move": "AGILITY"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 45,
+    "attack": 67,
+    "defense": 60,
+    "speed": 63,
+    "special": 50,
+    "bst": 285,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 225,
+    "base_exp": 111,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "PECK",
+      "TAIL_WHIP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HORN_DRILL",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 19,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 24,
+        "move": "HORN_ATTACK"
+      },
+      {
+        "level": 30,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 37,
+        "move": "WATERFALL"
+      },
+      {
+        "level": 45,
+        "move": "HORN_DRILL"
+      },
+      {
+        "level": 54,
+        "move": "AGILITY"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 8,
+      "defense": 5,
+      "speed": 7,
+      "special": 5,
+      "bst": 30
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

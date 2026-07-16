@@ -1,0 +1,157 @@
+{
+  "id": "tentacool",
+  "name": "Tentacool",
+  "sprite": "/assets/img/pokemon/tentacool.png",
+  "hack": {
+    "hp": 50,
+    "attack": 50,
+    "defense": 50,
+    "speed": 80,
+    "special": 110,
+    "bst": 340,
+    "type1": "WATER",
+    "type2": "POISON",
+    "catch_rate": 190,
+    "base_exp": 105,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "ACID",
+      "SUPERSONIC",
+      "WRAP",
+      "POISON_STING"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "ICE_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 7,
+        "move": "WATER_GUN"
+      },
+      {
+        "level": 13,
+        "move": "CONSTRICT"
+      },
+      {
+        "level": 18,
+        "move": "BARRIER"
+      },
+      {
+        "level": 22,
+        "move": "SCREECH"
+      },
+      {
+        "level": 33,
+        "move": "SLUDGE"
+      },
+      {
+        "level": 36,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 40,
+    "attack": 40,
+    "defense": 35,
+    "speed": 70,
+    "special": 100,
+    "bst": 285,
+    "type1": "WATER",
+    "type2": "POISON",
+    "catch_rate": 190,
+    "base_exp": 105,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "ACID"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "ICE_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 7,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 13,
+        "move": "WRAP"
+      },
+      {
+        "level": 18,
+        "move": "POISON_STING"
+      },
+      {
+        "level": 22,
+        "move": "WATER_GUN"
+      },
+      {
+        "level": 27,
+        "move": "CONSTRICT"
+      },
+      {
+        "level": 33,
+        "move": "BARRIER"
+      },
+      {
+        "level": 40,
+        "move": "SCREECH"
+      },
+      {
+        "level": 48,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 10,
+      "defense": 15,
+      "speed": 10,
+      "special": 10,
+      "bst": 55
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

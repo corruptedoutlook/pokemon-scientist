@@ -1,0 +1,133 @@
+{
+  "id": "ponyta",
+  "name": "Ponyta",
+  "sprite": "/assets/img/pokemon/ponyta.png",
+  "hack": {
+    "hp": 60,
+    "attack": 95,
+    "defense": 65,
+    "speed": 100,
+    "special": 75,
+    "bst": 395,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 190,
+    "base_exp": 152,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "EMBER",
+      "TAIL_WHIP",
+      "STOMP",
+      "GROWL"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "HORN_DRILL",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 30,
+        "move": "FIRE_SPIN"
+      },
+      {
+        "level": 32,
+        "move": "TAKE_DOWN"
+      },
+      {
+        "level": 35,
+        "move": "AGILITY"
+      },
+      {
+        "level": 40,
+        "move": "FLAMETHROWER"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 50,
+    "attack": 85,
+    "defense": 55,
+    "speed": 90,
+    "special": 65,
+    "bst": 345,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 190,
+    "base_exp": 152,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "EMBER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "HORN_DRILL",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 30,
+        "move": "TAIL_WHIP"
+      },
+      {
+        "level": 32,
+        "move": "STOMP"
+      },
+      {
+        "level": 35,
+        "move": "GROWL"
+      },
+      {
+        "level": 39,
+        "move": "FIRE_SPIN"
+      },
+      {
+        "level": 43,
+        "move": "TAKE_DOWN"
+      },
+      {
+        "level": 48,
+        "move": "AGILITY"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 10,
+      "defense": 10,
+      "speed": 10,
+      "special": 10,
+      "bst": 50
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

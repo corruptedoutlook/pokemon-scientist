@@ -1,0 +1,135 @@
+{
+  "id": "hitmonchan",
+  "name": "Hitmonchan",
+  "sprite": "/assets/img/pokemon/hitmonchan.png",
+  "hack": {
+    "hp": 65,
+    "attack": 110,
+    "defense": 85,
+    "speed": 85,
+    "special": 85,
+    "bst": 430,
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "catch_rate": 120,
+    "base_exp": 140,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "COMET_PUNCH",
+      "FIRE_PUNCH",
+      "ICE_PUNCH",
+      "THUNDERPUNCH"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 20,
+        "move": "MEGA_PUNCH"
+      },
+      {
+        "level": 28,
+        "move": "COUNTER"
+      },
+      {
+        "level": 33,
+        "move": "SUBMISSION"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 50,
+    "attack": 105,
+    "defense": 79,
+    "speed": 76,
+    "special": 35,
+    "bst": 345,
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "catch_rate": 45,
+    "base_exp": 140,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "COMET_PUNCH",
+      "AGILITY"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 33,
+        "move": "FIRE_PUNCH"
+      },
+      {
+        "level": 38,
+        "move": "ICE_PUNCH"
+      },
+      {
+        "level": 43,
+        "move": "THUNDERPUNCH"
+      },
+      {
+        "level": 48,
+        "move": "MEGA_PUNCH"
+      },
+      {
+        "level": 53,
+        "move": "COUNTER"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 15,
+      "attack": 5,
+      "defense": 6,
+      "speed": 9,
+      "special": 50,
+      "bst": 85,
+      "catch_rate": 75
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

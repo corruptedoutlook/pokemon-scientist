@@ -1,0 +1,137 @@
+{
+  "id": "scyther",
+  "name": "Scyther",
+  "sprite": "/assets/img/pokemon/scyther.png",
+  "hack": {
+    "hp": 85,
+    "attack": 125,
+    "defense": 95,
+    "speed": 125,
+    "special": 70,
+    "bst": 500,
+    "type1": "BUG",
+    "type2": "FLYING",
+    "catch_rate": 120,
+    "base_exp": 187,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "QUICK_ATTACK",
+      "LEER",
+      "FOCUS_ENERGY",
+      "DOUBLE_TEAM"
+    ],
+    "learnset": [
+      "BIDE",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "XSCISSOR"
+    ],
+    "levelup_moves": [
+      {
+        "level": 17,
+        "move": "SLASH"
+      },
+      {
+        "level": 20,
+        "move": "SWORDS_DANCE"
+      },
+      {
+        "level": 24,
+        "move": "AGILITY"
+      },
+      {
+        "level": 29,
+        "move": "PIN_MISSILE"
+      },
+      {
+        "level": 38,
+        "move": "XSCISSOR"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 70,
+    "attack": 110,
+    "defense": 80,
+    "speed": 105,
+    "special": 55,
+    "bst": 420,
+    "type1": "BUG",
+    "type2": "FLYING",
+    "catch_rate": 45,
+    "base_exp": 187,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "QUICK_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 17,
+        "move": "LEER"
+      },
+      {
+        "level": 20,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 24,
+        "move": "DOUBLE_TEAM"
+      },
+      {
+        "level": 29,
+        "move": "SLASH"
+      },
+      {
+        "level": 35,
+        "move": "SWORDS_DANCE"
+      },
+      {
+        "level": 42,
+        "move": "AGILITY"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 15,
+      "attack": 15,
+      "defense": 15,
+      "speed": 20,
+      "special": 15,
+      "bst": 80,
+      "catch_rate": 75
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

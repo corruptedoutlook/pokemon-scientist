@@ -1,0 +1,143 @@
+{
+  "id": "parasect",
+  "name": "Parasect",
+  "sprite": "/assets/img/pokemon/parasect.png",
+  "hack": {
+    "hp": 85,
+    "attack": 120,
+    "defense": 95,
+    "speed": 55,
+    "special": 90,
+    "bst": 445,
+    "type1": "BUG",
+    "type2": "GRASS",
+    "catch_rate": 120,
+    "base_exp": 128,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "STUN_SPORE",
+      "LEECH_LIFE",
+      "SPORE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "XSCISSOR"
+    ],
+    "levelup_moves": [
+      {
+        "level": 13,
+        "move": "SLASH"
+      },
+      {
+        "level": 20,
+        "move": "GROWTH"
+      },
+      {
+        "level": 30,
+        "move": "SWORDS_DANCE"
+      },
+      {
+        "level": 39,
+        "move": "SOLARBEAM"
+      },
+      {
+        "level": 42,
+        "move": "XSCISSOR"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 60,
+    "attack": 95,
+    "defense": 80,
+    "speed": 30,
+    "special": 80,
+    "bst": 345,
+    "type1": "BUG",
+    "type2": "GRASS",
+    "catch_rate": 75,
+    "base_exp": 128,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "STUN_SPORE",
+      "LEECH_LIFE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 13,
+        "move": "STUN_SPORE"
+      },
+      {
+        "level": 20,
+        "move": "LEECH_LIFE"
+      },
+      {
+        "level": 30,
+        "move": "SPORE"
+      },
+      {
+        "level": 39,
+        "move": "SLASH"
+      },
+      {
+        "level": 48,
+        "move": "GROWTH"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 25,
+      "attack": 25,
+      "defense": 15,
+      "speed": 25,
+      "special": 10,
+      "bst": 100,
+      "catch_rate": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

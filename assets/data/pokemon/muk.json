@@ -1,0 +1,157 @@
+{
+  "id": "muk",
+  "name": "Muk",
+  "sprite": "/assets/img/pokemon/muk.png",
+  "hack": {
+    "hp": 110,
+    "attack": 120,
+    "defense": 90,
+    "speed": 60,
+    "special": 75,
+    "bst": 455,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 120,
+    "base_exp": 157,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "POUND",
+      "DISABLE",
+      "POISON_GAS",
+      "HARDEN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DOUBLE_TEAM",
+      "EXPLOSION",
+      "FIRE_BLAST",
+      "FLASH",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SELFDESTRUCT",
+      "SUBSTITUTE",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 6,
+        "move": "DISABLE"
+      },
+      {
+        "level": 9,
+        "move": "ACID"
+      },
+      {
+        "level": 12,
+        "move": "BITE"
+      },
+      {
+        "level": 18,
+        "move": "SCREECH"
+      },
+      {
+        "level": 24,
+        "move": "ACID_ARMOR"
+      },
+      {
+        "level": 30,
+        "move": "SLUDGE"
+      },
+      {
+        "level": 36,
+        "move": "MINIMIZE"
+      },
+      {
+        "level": 42,
+        "move": "BODY_SLAM"
+      },
+      {
+        "level": 48,
+        "move": "EXPLOSION"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 105,
+    "attack": 105,
+    "defense": 75,
+    "speed": 50,
+    "special": 65,
+    "bst": 400,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 75,
+    "base_exp": 157,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "POUND",
+      "DISABLE",
+      "POISON_GAS"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DOUBLE_TEAM",
+      "EXPLOSION",
+      "FIRE_BLAST",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SELFDESTRUCT",
+      "SUBSTITUTE",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 30,
+        "move": "POISON_GAS"
+      },
+      {
+        "level": 33,
+        "move": "MINIMIZE"
+      },
+      {
+        "level": 37,
+        "move": "SLUDGE"
+      },
+      {
+        "level": 45,
+        "move": "HARDEN"
+      },
+      {
+        "level": 53,
+        "move": "SCREECH"
+      },
+      {
+        "level": 60,
+        "move": "ACID_ARMOR"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 15,
+      "defense": 15,
+      "speed": 10,
+      "special": 10,
+      "bst": 55,
+      "catch_rate": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

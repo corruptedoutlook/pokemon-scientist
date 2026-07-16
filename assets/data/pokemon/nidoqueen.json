@@ -1,0 +1,168 @@
+{
+  "id": "nidoqueen",
+  "name": "Nidoqueen",
+  "sprite": "/assets/img/pokemon/nidoqueen.png",
+  "hack": {
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "speed": 85,
+    "special": 90,
+    "bst": 475,
+    "type1": "POISON",
+    "type2": "GROUND",
+    "catch_rate": 120,
+    "base_exp": 194,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "SCRATCH",
+      "TAIL_WHIP",
+      "POISON_STING"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "FLASH",
+      "HORN_DRILL",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "TAIL_WHIP"
+      },
+      {
+        "level": 14,
+        "move": "BITE"
+      },
+      {
+        "level": 21,
+        "move": "BODY_SLAM"
+      },
+      {
+        "level": 29,
+        "move": "FURY_SWIPES"
+      },
+      {
+        "level": 32,
+        "move": "EARTHQUAKE"
+      },
+      {
+        "level": 36,
+        "move": "DOUBLE_KICK"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 90,
+    "attack": 82,
+    "defense": 87,
+    "speed": 76,
+    "special": 75,
+    "bst": 410,
+    "type1": "POISON",
+    "type2": "GROUND",
+    "catch_rate": 45,
+    "base_exp": 194,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "SCRATCH",
+      "TAIL_WHIP",
+      "BODY_SLAM"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "HORN_DRILL",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "SCRATCH"
+      },
+      {
+        "level": 14,
+        "move": "POISON_STING"
+      },
+      {
+        "level": 23,
+        "move": "BODY_SLAM"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 18,
+      "defense": 13,
+      "speed": 9,
+      "special": 15,
+      "bst": 65,
+      "catch_rate": 75
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

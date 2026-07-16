@@ -1,0 +1,153 @@
+{
+  "id": "flareon",
+  "name": "Flareon",
+  "sprite": "/assets/img/pokemon/flareon.png",
+  "hack": {
+    "hp": 75,
+    "attack": 135,
+    "defense": 70,
+    "speed": 75,
+    "special": 115,
+    "bst": 470,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 90,
+    "base_exp": 198,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SAND_ATTACK",
+      "QUICK_ATTACK",
+      "TAIL_WHIP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 27,
+        "move": "EMBER"
+      },
+      {
+        "level": 31,
+        "move": "LEER"
+      },
+      {
+        "level": 37,
+        "move": "RAGE"
+      },
+      {
+        "level": 40,
+        "move": "BITE"
+      },
+      {
+        "level": 42,
+        "move": "FIRE_SPIN"
+      },
+      {
+        "level": 46,
+        "move": "FLAMETHROWER"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 65,
+    "attack": 130,
+    "defense": 60,
+    "speed": 65,
+    "special": 110,
+    "bst": 430,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 45,
+    "base_exp": 198,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SAND_ATTACK",
+      "QUICK_ATTACK",
+      "EMBER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 27,
+        "move": "QUICK_ATTACK"
+      },
+      {
+        "level": 31,
+        "move": "EMBER"
+      },
+      {
+        "level": 37,
+        "move": "TAIL_WHIP"
+      },
+      {
+        "level": 40,
+        "move": "BITE"
+      },
+      {
+        "level": 42,
+        "move": "LEER"
+      },
+      {
+        "level": 44,
+        "move": "FIRE_SPIN"
+      },
+      {
+        "level": 48,
+        "move": "RAGE"
+      },
+      {
+        "level": 54,
+        "move": "FLAMETHROWER"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 5,
+      "defense": 10,
+      "speed": 10,
+      "special": 5,
+      "bst": 40,
+      "catch_rate": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "charmander",
+  "name": "Charmander",
+  "sprite": "/assets/img/pokemon/charmander.png",
+  "hack": {
+    "hp": 42,
+    "attack": 56,
+    "defense": 46,
+    "speed": 70,
+    "special": 56,
+    "bst": 270,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 90,
+    "base_exp": 65,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "SCRATCH",
+      "GROWL",
+      "EMBER",
+      "LEER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "CUT",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "FIRE_BLAST",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 9,
+        "move": "RAGE"
+      },
+      {
+        "level": 15,
+        "move": "SLASH"
+      },
+      {
+        "level": 22,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 33,
+        "move": "FIRE_SPIN"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 39,
+    "attack": 52,
+    "defense": 43,
+    "speed": 65,
+    "special": 50,
+    "bst": 249,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 45,
+    "base_exp": 65,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "SCRATCH",
+      "GROWL"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "COUNTER",
+      "CUT",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "FIRE_BLAST",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 9,
+        "move": "EMBER"
+      },
+      {
+        "level": 15,
+        "move": "LEER"
+      },
+      {
+        "level": 22,
+        "move": "RAGE"
+      },
+      {
+        "level": 30,
+        "move": "SLASH"
+      },
+      {
+        "level": 38,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 46,
+        "move": "FIRE_SPIN"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 3,
+      "attack": 4,
+      "defense": 3,
+      "speed": 5,
+      "special": 6,
+      "bst": 21,
+      "catch_rate": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

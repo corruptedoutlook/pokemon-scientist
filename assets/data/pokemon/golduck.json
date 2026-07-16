@@ -1,0 +1,146 @@
+{
+  "id": "golduck",
+  "name": "Golduck",
+  "sprite": "/assets/img/pokemon/golduck.png",
+  "hack": {
+    "hp": 90,
+    "attack": 95,
+    "defense": 85,
+    "speed": 95,
+    "special": 95,
+    "bst": 460,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 120,
+    "base_exp": 174,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "TAIL_WHIP",
+      "DISABLE",
+      "CONFUSION"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 28,
+        "move": "FURY_SWIPES"
+      },
+      {
+        "level": 34,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 80,
+    "attack": 82,
+    "defense": 78,
+    "speed": 85,
+    "special": 80,
+    "bst": 405,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 75,
+    "base_exp": 174,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "SCRATCH",
+      "TAIL_WHIP",
+      "DISABLE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 28,
+        "move": "TAIL_WHIP"
+      },
+      {
+        "level": 31,
+        "move": "DISABLE"
+      },
+      {
+        "level": 39,
+        "move": "CONFUSION"
+      },
+      {
+        "level": 48,
+        "move": "FURY_SWIPES"
+      },
+      {
+        "level": 59,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 13,
+      "defense": 7,
+      "speed": 10,
+      "special": 15,
+      "bst": 55,
+      "catch_rate": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

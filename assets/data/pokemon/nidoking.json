@@ -1,0 +1,172 @@
+{
+  "id": "nidoking",
+  "name": "Nidoking",
+  "sprite": "/assets/img/pokemon/nidoking.png",
+  "hack": {
+    "hp": 90,
+    "attack": 115,
+    "defense": 85,
+    "speed": 100,
+    "special": 95,
+    "bst": 485,
+    "type1": "POISON",
+    "type2": "GROUND",
+    "catch_rate": 120,
+    "base_exp": 195,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "LEER",
+      "TACKLE",
+      "HORN_ATTACK",
+      "POISON_STING"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "FLASH",
+      "HORN_DRILL",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "HORN_ATTACK"
+      },
+      {
+        "level": 14,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 20,
+        "move": "DOUBLE_KICK"
+      },
+      {
+        "level": 28,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 36,
+        "move": "EARTHQUAKE"
+      },
+      {
+        "level": 44,
+        "move": "THRASH"
+      },
+      {
+        "level": 52,
+        "move": "HORN_DRILL"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 81,
+    "attack": 92,
+    "defense": 77,
+    "speed": 85,
+    "special": 75,
+    "bst": 410,
+    "type1": "POISON",
+    "type2": "GROUND",
+    "catch_rate": 45,
+    "base_exp": 195,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "HORN_ATTACK",
+      "POISON_STING",
+      "THRASH"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FIRE_BLAST",
+      "FISSURE",
+      "HORN_DRILL",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "ROCK_SLIDE",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "HORN_ATTACK"
+      },
+      {
+        "level": 14,
+        "move": "POISON_STING"
+      },
+      {
+        "level": 23,
+        "move": "THRASH"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 9,
+      "attack": 23,
+      "defense": 8,
+      "speed": 15,
+      "special": 20,
+      "bst": 75,
+      "catch_rate": 75
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

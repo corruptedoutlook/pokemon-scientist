@@ -1,0 +1,118 @@
+{
+  "id": "arcanine",
+  "name": "Arcanine",
+  "sprite": "/assets/img/pokemon/arcanine.png",
+  "hack": {
+    "hp": 95,
+    "attack": 115,
+    "defense": 90,
+    "speed": 100,
+    "special": 85,
+    "bst": 485,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 120,
+    "base_exp": 213,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "ROAR",
+      "EMBER",
+      "LEER",
+      "TAKE_DOWN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "FIRE_BLAST",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 18,
+        "move": "TAKE_DOWN"
+      },
+      {
+        "level": 23,
+        "move": "AGILITY"
+      },
+      {
+        "level": 30,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 39,
+        "move": "FIRE_BLAST"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 90,
+    "attack": 110,
+    "defense": 80,
+    "speed": 95,
+    "special": 80,
+    "bst": 455,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 75,
+    "base_exp": 213,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "ROAR",
+      "EMBER",
+      "LEER",
+      "TAKE_DOWN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "DRAGON_RAGE",
+      "FIRE_BLAST",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "TOXIC"
+    ],
+    "levelup_moves": []
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 10,
+      "speed": 5,
+      "special": 5,
+      "bst": 30,
+      "catch_rate": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

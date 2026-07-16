@@ -1,0 +1,141 @@
+{
+  "id": "nidoranm",
+  "name": "Nidoranm",
+  "sprite": "/assets/img/pokemon/nidoranm.png",
+  "hack": {
+    "hp": 55,
+    "attack": 65,
+    "defense": 50,
+    "speed": 60,
+    "special": 45,
+    "bst": 275,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 235,
+    "base_exp": 60,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "LEER",
+      "TACKLE",
+      "HORN_ATTACK",
+      "POISON_STING"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HORN_DRILL",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 14,
+        "move": "DOUBLE_KICK"
+      },
+      {
+        "level": 20,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 28,
+        "move": "THRASH"
+      },
+      {
+        "level": 36,
+        "move": "EARTHQUAKE"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 46,
+    "attack": 57,
+    "defense": 40,
+    "speed": 50,
+    "special": 40,
+    "bst": 233,
+    "type1": "POISON",
+    "type2": "POISON",
+    "catch_rate": 235,
+    "base_exp": 60,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "LEER",
+      "TACKLE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HORN_DRILL",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "HORN_ATTACK"
+      },
+      {
+        "level": 14,
+        "move": "POISON_STING"
+      },
+      {
+        "level": 21,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 29,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 36,
+        "move": "HORN_DRILL"
+      },
+      {
+        "level": 43,
+        "move": "DOUBLE_KICK"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 9,
+      "attack": 8,
+      "defense": 10,
+      "speed": 10,
+      "special": 5,
+      "bst": 42
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

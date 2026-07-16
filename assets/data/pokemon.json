@@ -1,0 +1,1361 @@
+{
+  "abra": {
+    "id": "abra",
+    "name": "Abra",
+    "sprite": "/assets/img/pokemon/abra.png",
+    "type1": "PSYCHIC_TYPE",
+    "type2": "PSYCHIC_TYPE",
+    "bst": 280,
+    "bst_delta": 25
+  },
+  "aerodactyl": {
+    "id": "aerodactyl",
+    "name": "Aerodactyl",
+    "sprite": "/assets/img/pokemon/aerodactyl.png",
+    "type1": "ROCK",
+    "type2": "FLYING",
+    "bst": 475,
+    "bst_delta": 35
+  },
+  "alakazam": {
+    "id": "alakazam",
+    "name": "Alakazam",
+    "sprite": "/assets/img/pokemon/alakazam.png",
+    "type1": "PSYCHIC_TYPE",
+    "type2": "PSYCHIC_TYPE",
+    "bst": 405,
+    "bst_delta": 0
+  },
+  "arbok": {
+    "id": "arbok",
+    "name": "Arbok",
+    "sprite": "/assets/img/pokemon/arbok.png",
+    "type1": "POISON",
+    "type2": "POISON",
+    "bst": 405,
+    "bst_delta": 46
+  },
+  "arcanine": {
+    "id": "arcanine",
+    "name": "Arcanine",
+    "sprite": "/assets/img/pokemon/arcanine.png",
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "bst": 485,
+    "bst_delta": 30
+  },
+  "articuno": {
+    "id": "articuno",
+    "name": "Articuno",
+    "sprite": "/assets/img/pokemon/articuno.png",
+    "type1": "ICE",
+    "type2": "FLYING",
+    "bst": 490,
+    "bst_delta": 5
+  },
+  "beedrill": {
+    "id": "beedrill",
+    "name": "Beedrill",
+    "sprite": "/assets/img/pokemon/beedrill.png",
+    "type1": "BUG",
+    "type2": "POISON",
+    "bst": 370,
+    "bst_delta": 65
+  },
+  "bellsprout": {
+    "id": "bellsprout",
+    "name": "Bellsprout",
+    "sprite": "/assets/img/pokemon/bellsprout.png",
+    "type1": "GRASS",
+    "type2": "POISON",
+    "bst": 295,
+    "bst_delta": 25
+  },
+  "blastoise": {
+    "id": "blastoise",
+    "name": "Blastoise",
+    "sprite": "/assets/img/pokemon/blastoise.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 460,
+    "bst_delta": 35
+  },
+  "bulbasaur": {
+    "id": "bulbasaur",
+    "name": "Bulbasaur",
+    "sprite": "/assets/img/pokemon/bulbasaur.png",
+    "type1": "GRASS",
+    "type2": "POISON",
+    "bst": 270,
+    "bst_delta": 17
+  },
+  "butterfree": {
+    "id": "butterfree",
+    "name": "Butterfree",
+    "sprite": "/assets/img/pokemon/butterfree.png",
+    "type1": "BUG",
+    "type2": "FLYING",
+    "bst": 365,
+    "bst_delta": 60
+  },
+  "caterpie": {
+    "id": "caterpie",
+    "name": "Caterpie",
+    "sprite": "/assets/img/pokemon/caterpie.png",
+    "type1": "BUG",
+    "type2": "BUG",
+    "bst": 200,
+    "bst_delta": 25
+  },
+  "chansey": {
+    "id": "chansey",
+    "name": "Chansey",
+    "sprite": "/assets/img/pokemon/chansey.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 430,
+    "bst_delta": 15
+  },
+  "charizard": {
+    "id": "charizard",
+    "name": "Charizard",
+    "sprite": "/assets/img/pokemon/charizard.png",
+    "type1": "FIRE",
+    "type2": "DRAGON",
+    "bst": 470,
+    "bst_delta": 45
+  },
+  "charmander": {
+    "id": "charmander",
+    "name": "Charmander",
+    "sprite": "/assets/img/pokemon/charmander.png",
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "bst": 270,
+    "bst_delta": 21
+  },
+  "charmeleon": {
+    "id": "charmeleon",
+    "name": "Charmeleon",
+    "sprite": "/assets/img/pokemon/charmeleon.png",
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "bst": 360,
+    "bst_delta": 35
+  },
+  "clefable": {
+    "id": "clefable",
+    "name": "Clefable",
+    "sprite": "/assets/img/pokemon/clefable.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 425,
+    "bst_delta": 42
+  },
+  "clefairy": {
+    "id": "clefairy",
+    "name": "Clefairy",
+    "sprite": "/assets/img/pokemon/clefairy.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 290,
+    "bst_delta": 32
+  },
+  "cloyster": {
+    "id": "cloyster",
+    "name": "Cloyster",
+    "sprite": "/assets/img/pokemon/cloyster.png",
+    "type1": "WATER",
+    "type2": "ICE",
+    "bst": 495,
+    "bst_delta": 15
+  },
+  "cubone": {
+    "id": "cubone",
+    "name": "Cubone",
+    "sprite": "/assets/img/pokemon/cubone.png",
+    "type1": "GROUND",
+    "type2": "GROUND",
+    "bst": 300,
+    "bst_delta": 30
+  },
+  "dewgong": {
+    "id": "dewgong",
+    "name": "Dewgong",
+    "sprite": "/assets/img/pokemon/dewgong.png",
+    "type1": "WATER",
+    "type2": "ICE",
+    "bst": 450,
+    "bst_delta": 45
+  },
+  "diglett": {
+    "id": "diglett",
+    "name": "Diglett",
+    "sprite": "/assets/img/pokemon/diglett.png",
+    "type1": "GROUND",
+    "type2": "GROUND",
+    "bst": 260,
+    "bst_delta": 30
+  },
+  "ditto": {
+    "id": "ditto",
+    "name": "Ditto",
+    "sprite": "/assets/img/pokemon/ditto.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 330,
+    "bst_delta": 90
+  },
+  "dodrio": {
+    "id": "dodrio",
+    "name": "Dodrio",
+    "sprite": "/assets/img/pokemon/dodrio.png",
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "bst": 420,
+    "bst_delta": 20
+  },
+  "doduo": {
+    "id": "doduo",
+    "name": "Doduo",
+    "sprite": "/assets/img/pokemon/doduo.png",
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "bst": 305,
+    "bst_delta": 30
+  },
+  "dragonair": {
+    "id": "dragonair",
+    "name": "Dragonair",
+    "sprite": "/assets/img/pokemon/dragonair.png",
+    "type1": "DRAGON",
+    "type2": "DRAGON",
+    "bst": 390,
+    "bst_delta": 40
+  },
+  "dragonite": {
+    "id": "dragonite",
+    "name": "Dragonite",
+    "sprite": "/assets/img/pokemon/dragonite.png",
+    "type1": "DRAGON",
+    "type2": "FLYING",
+    "bst": 515,
+    "bst_delta": 15
+  },
+  "dratini": {
+    "id": "dratini",
+    "name": "Dratini",
+    "sprite": "/assets/img/pokemon/dratini.png",
+    "type1": "DRAGON",
+    "type2": "DRAGON",
+    "bst": 280,
+    "bst_delta": 30
+  },
+  "drowzee": {
+    "id": "drowzee",
+    "name": "Drowzee",
+    "sprite": "/assets/img/pokemon/drowzee.png",
+    "type1": "PSYCHIC_TYPE",
+    "type2": "PSYCHIC_TYPE",
+    "bst": 316,
+    "bst_delta": 31
+  },
+  "dugtrio": {
+    "id": "dugtrio",
+    "name": "Dugtrio",
+    "sprite": "/assets/img/pokemon/dugtrio.png",
+    "type1": "GROUND",
+    "type2": "GROUND",
+    "bst": 390,
+    "bst_delta": 35
+  },
+  "eevee": {
+    "id": "eevee",
+    "name": "Eevee",
+    "sprite": "/assets/img/pokemon/eevee.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 310,
+    "bst_delta": 30
+  },
+  "ekans": {
+    "id": "ekans",
+    "name": "Ekans",
+    "sprite": "/assets/img/pokemon/ekans.png",
+    "type1": "POISON",
+    "type2": "POISON",
+    "bst": 270,
+    "bst_delta": 36
+  },
+  "electabuzz": {
+    "id": "electabuzz",
+    "name": "Electabuzz",
+    "sprite": "/assets/img/pokemon/electabuzz.png",
+    "type1": "ELECTRIC",
+    "type2": "FIGHTING",
+    "bst": 430,
+    "bst_delta": 35
+  },
+  "electrode": {
+    "id": "electrode",
+    "name": "Electrode",
+    "sprite": "/assets/img/pokemon/electrode.png",
+    "type1": "ELECTRIC",
+    "type2": "ELECTRIC",
+    "bst": 425,
+    "bst_delta": 25
+  },
+  "exeggcute": {
+    "id": "exeggcute",
+    "name": "Exeggcute",
+    "sprite": "/assets/img/pokemon/exeggcute.png",
+    "type1": "GRASS",
+    "type2": "PSYCHIC_TYPE",
+    "bst": 310,
+    "bst_delta": 30
+  },
+  "exeggutor": {
+    "id": "exeggutor",
+    "name": "Exeggutor",
+    "sprite": "/assets/img/pokemon/exeggutor.png",
+    "type1": "GRASS",
+    "type2": "PSYCHIC_TYPE",
+    "bst": 475,
+    "bst_delta": 20
+  },
+  "farfetchd": {
+    "id": "farfetchd",
+    "name": "Farfetchd",
+    "sprite": "/assets/img/pokemon/farfetchd.png",
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "bst": 390,
+    "bst_delta": 100
+  },
+  "fearow": {
+    "id": "fearow",
+    "name": "Fearow",
+    "sprite": "/assets/img/pokemon/fearow.png",
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "bst": 415,
+    "bst_delta": 34
+  },
+  "flareon": {
+    "id": "flareon",
+    "name": "Flareon",
+    "sprite": "/assets/img/pokemon/flareon.png",
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "bst": 470,
+    "bst_delta": 40
+  },
+  "gastly": {
+    "id": "gastly",
+    "name": "Gastly",
+    "sprite": "/assets/img/pokemon/gastly.png",
+    "type1": "GHOST",
+    "type2": "POISON",
+    "bst": 300,
+    "bst_delta": 25
+  },
+  "gengar": {
+    "id": "gengar",
+    "name": "Gengar",
+    "sprite": "/assets/img/pokemon/gengar.png",
+    "type1": "GHOST",
+    "type2": "POISON",
+    "bst": 440,
+    "bst_delta": 15
+  },
+  "geodude": {
+    "id": "geodude",
+    "name": "Geodude",
+    "sprite": "/assets/img/pokemon/geodude.png",
+    "type1": "ROCK",
+    "type2": "GROUND",
+    "bst": 295,
+    "bst_delta": 25
+  },
+  "gloom": {
+    "id": "gloom",
+    "name": "Gloom",
+    "sprite": "/assets/img/pokemon/gloom.png",
+    "type1": "GRASS",
+    "type2": "POISON",
+    "bst": 355,
+    "bst_delta": 35
+  },
+  "golbat": {
+    "id": "golbat",
+    "name": "Golbat",
+    "sprite": "/assets/img/pokemon/golbat.png",
+    "type1": "POISON",
+    "type2": "FLYING",
+    "bst": 455,
+    "bst_delta": 65
+  },
+  "goldeen": {
+    "id": "goldeen",
+    "name": "Goldeen",
+    "sprite": "/assets/img/pokemon/goldeen.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 315,
+    "bst_delta": 30
+  },
+  "golduck": {
+    "id": "golduck",
+    "name": "Golduck",
+    "sprite": "/assets/img/pokemon/golduck.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 460,
+    "bst_delta": 55
+  },
+  "golem": {
+    "id": "golem",
+    "name": "Golem",
+    "sprite": "/assets/img/pokemon/golem.png",
+    "type1": "ROCK",
+    "type2": "GROUND",
+    "bst": 445,
+    "bst_delta": 25
+  },
+  "graveler": {
+    "id": "graveler",
+    "name": "Graveler",
+    "sprite": "/assets/img/pokemon/graveler.png",
+    "type1": "ROCK",
+    "type2": "GROUND",
+    "bst": 370,
+    "bst_delta": 25
+  },
+  "grimer": {
+    "id": "grimer",
+    "name": "Grimer",
+    "sprite": "/assets/img/pokemon/grimer.png",
+    "type1": "POISON",
+    "type2": "POISON",
+    "bst": 315,
+    "bst_delta": 40
+  },
+  "growlithe": {
+    "id": "growlithe",
+    "name": "Growlithe",
+    "sprite": "/assets/img/pokemon/growlithe.png",
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "bst": 310,
+    "bst_delta": 30
+  },
+  "gyarados": {
+    "id": "gyarados",
+    "name": "Gyarados",
+    "sprite": "/assets/img/pokemon/gyarados.png",
+    "type1": "WATER",
+    "type2": "DRAGON",
+    "bst": 515,
+    "bst_delta": 35
+  },
+  "haunter": {
+    "id": "haunter",
+    "name": "Haunter",
+    "sprite": "/assets/img/pokemon/haunter.png",
+    "type1": "GHOST",
+    "type2": "POISON",
+    "bst": 375,
+    "bst_delta": 25
+  },
+  "hitmonchan": {
+    "id": "hitmonchan",
+    "name": "Hitmonchan",
+    "sprite": "/assets/img/pokemon/hitmonchan.png",
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "bst": 430,
+    "bst_delta": 85
+  },
+  "hitmonlee": {
+    "id": "hitmonlee",
+    "name": "Hitmonlee",
+    "sprite": "/assets/img/pokemon/hitmonlee.png",
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "bst": 405,
+    "bst_delta": 60
+  },
+  "horsea": {
+    "id": "horsea",
+    "name": "Horsea",
+    "sprite": "/assets/img/pokemon/horsea.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 310,
+    "bst_delta": 40
+  },
+  "hypno": {
+    "id": "hypno",
+    "name": "Hypno",
+    "sprite": "/assets/img/pokemon/hypno.png",
+    "type1": "PSYCHIC_TYPE",
+    "type2": "PSYCHIC_TYPE",
+    "bst": 440,
+    "bst_delta": 30
+  },
+  "ivysaur": {
+    "id": "ivysaur",
+    "name": "Ivysaur",
+    "sprite": "/assets/img/pokemon/ivysaur.png",
+    "type1": "GRASS",
+    "type2": "POISON",
+    "bst": 355,
+    "bst_delta": 30
+  },
+  "jigglypuff": {
+    "id": "jigglypuff",
+    "name": "Jigglypuff",
+    "sprite": "/assets/img/pokemon/jigglypuff.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 280,
+    "bst_delta": 55
+  },
+  "jolteon": {
+    "id": "jolteon",
+    "name": "Jolteon",
+    "sprite": "/assets/img/pokemon/jolteon.png",
+    "type1": "ELECTRIC",
+    "type2": "ELECTRIC",
+    "bst": 450,
+    "bst_delta": 20
+  },
+  "jynx": {
+    "id": "jynx",
+    "name": "Jynx",
+    "sprite": "/assets/img/pokemon/jynx.png",
+    "type1": "ICE",
+    "type2": "PSYCHIC_TYPE",
+    "bst": 385,
+    "bst_delta": 45
+  },
+  "kabuto": {
+    "id": "kabuto",
+    "name": "Kabuto",
+    "sprite": "/assets/img/pokemon/kabuto.png",
+    "type1": "ROCK",
+    "type2": "WATER",
+    "bst": 340,
+    "bst_delta": 40
+  },
+  "kabutops": {
+    "id": "kabutops",
+    "name": "Kabutops",
+    "sprite": "/assets/img/pokemon/kabutops.png",
+    "type1": "ROCK",
+    "type2": "WATER",
+    "bst": 480,
+    "bst_delta": 50
+  },
+  "kadabra": {
+    "id": "kadabra",
+    "name": "Kadabra",
+    "sprite": "/assets/img/pokemon/kadabra.png",
+    "type1": "PSYCHIC_TYPE",
+    "type2": "PSYCHIC_TYPE",
+    "bst": 355,
+    "bst_delta": 25
+  },
+  "kakuna": {
+    "id": "kakuna",
+    "name": "Kakuna",
+    "sprite": "/assets/img/pokemon/kakuna.png",
+    "type1": "BUG",
+    "type2": "POISON",
+    "bst": 210,
+    "bst_delta": 30
+  },
+  "kangaskhan": {
+    "id": "kangaskhan",
+    "name": "Kangaskhan",
+    "sprite": "/assets/img/pokemon/kangaskhan.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 455,
+    "bst_delta": 45
+  },
+  "kingler": {
+    "id": "kingler",
+    "name": "Kingler",
+    "sprite": "/assets/img/pokemon/kingler.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 480,
+    "bst_delta": 55
+  },
+  "koffing": {
+    "id": "koffing",
+    "name": "Koffing",
+    "sprite": "/assets/img/pokemon/koffing.png",
+    "type1": "POISON",
+    "type2": "POISON",
+    "bst": 345,
+    "bst_delta": 50
+  },
+  "krabby": {
+    "id": "krabby",
+    "name": "Krabby",
+    "sprite": "/assets/img/pokemon/krabby.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 335,
+    "bst_delta": 35
+  },
+  "lapras": {
+    "id": "lapras",
+    "name": "Lapras",
+    "sprite": "/assets/img/pokemon/lapras.png",
+    "type1": "WATER",
+    "type2": "ICE",
+    "bst": 490,
+    "bst_delta": 40
+  },
+  "lickitung": {
+    "id": "lickitung",
+    "name": "Lickitung",
+    "sprite": "/assets/img/pokemon/lickitung.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 420,
+    "bst_delta": 110
+  },
+  "machamp": {
+    "id": "machamp",
+    "name": "Machamp",
+    "sprite": "/assets/img/pokemon/machamp.png",
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "bst": 480,
+    "bst_delta": 60
+  },
+  "machoke": {
+    "id": "machoke",
+    "name": "Machoke",
+    "sprite": "/assets/img/pokemon/machoke.png",
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "bst": 395,
+    "bst_delta": 50
+  },
+  "machop": {
+    "id": "machop",
+    "name": "Machop",
+    "sprite": "/assets/img/pokemon/machop.png",
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "bst": 310,
+    "bst_delta": 40
+  },
+  "magikarp": {
+    "id": "magikarp",
+    "name": "Magikarp",
+    "sprite": "/assets/img/pokemon/magikarp.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 210,
+    "bst_delta": 25
+  },
+  "magmar": {
+    "id": "magmar",
+    "name": "Magmar",
+    "sprite": "/assets/img/pokemon/magmar.png",
+    "type1": "FIRE",
+    "type2": "FIGHTING",
+    "bst": 445,
+    "bst_delta": 50
+  },
+  "magnemite": {
+    "id": "magnemite",
+    "name": "Magnemite",
+    "sprite": "/assets/img/pokemon/magnemite.png",
+    "type1": "ELECTRIC",
+    "type2": "ELECTRIC",
+    "bst": 345,
+    "bst_delta": 75
+  },
+  "magneton": {
+    "id": "magneton",
+    "name": "Magneton",
+    "sprite": "/assets/img/pokemon/magneton.png",
+    "type1": "ELECTRIC",
+    "type2": "ELECTRIC",
+    "bst": 480,
+    "bst_delta": 85
+  },
+  "mankey": {
+    "id": "mankey",
+    "name": "Mankey",
+    "sprite": "/assets/img/pokemon/mankey.png",
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "bst": 305,
+    "bst_delta": 45
+  },
+  "marowak": {
+    "id": "marowak",
+    "name": "Marowak",
+    "sprite": "/assets/img/pokemon/marowak.png",
+    "type1": "GROUND",
+    "type2": "GROUND",
+    "bst": 410,
+    "bst_delta": 65
+  },
+  "meowth": {
+    "id": "meowth",
+    "name": "Meowth",
+    "sprite": "/assets/img/pokemon/meowth.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 300,
+    "bst_delta": 50
+  },
+  "metapod": {
+    "id": "metapod",
+    "name": "Metapod",
+    "sprite": "/assets/img/pokemon/metapod.png",
+    "type1": "BUG",
+    "type2": "BUG",
+    "bst": 210,
+    "bst_delta": 30
+  },
+  "mew": {
+    "id": "mew",
+    "name": "Mew",
+    "sprite": "/assets/img/pokemon/mew.png",
+    "type1": "PSYCHIC_TYPE",
+    "type2": "PSYCHIC_TYPE",
+    "bst": 500,
+    "bst_delta": 0
+  },
+  "mewtwo": {
+    "id": "mewtwo",
+    "name": "Mewtwo",
+    "sprite": "/assets/img/pokemon/mewtwo.png",
+    "type1": "PSYCHIC_TYPE",
+    "type2": "PSYCHIC_TYPE",
+    "bst": 590,
+    "bst_delta": 0
+  },
+  "moltres": {
+    "id": "moltres",
+    "name": "Moltres",
+    "sprite": "/assets/img/pokemon/moltres.png",
+    "type1": "FIRE",
+    "type2": "FLYING",
+    "bst": 515,
+    "bst_delta": 20
+  },
+  "mrmime": {
+    "id": "mrmime",
+    "name": "Mrmime",
+    "sprite": "/assets/img/pokemon/mrmime.png",
+    "type1": "PSYCHIC_TYPE",
+    "type2": "PSYCHIC_TYPE",
+    "bst": 400,
+    "bst_delta": 60
+  },
+  "muk": {
+    "id": "muk",
+    "name": "Muk",
+    "sprite": "/assets/img/pokemon/muk.png",
+    "type1": "POISON",
+    "type2": "POISON",
+    "bst": 455,
+    "bst_delta": 55
+  },
+  "nidoking": {
+    "id": "nidoking",
+    "name": "Nidoking",
+    "sprite": "/assets/img/pokemon/nidoking.png",
+    "type1": "POISON",
+    "type2": "GROUND",
+    "bst": 485,
+    "bst_delta": 75
+  },
+  "nidoqueen": {
+    "id": "nidoqueen",
+    "name": "Nidoqueen",
+    "sprite": "/assets/img/pokemon/nidoqueen.png",
+    "type1": "POISON",
+    "type2": "GROUND",
+    "bst": 475,
+    "bst_delta": 65
+  },
+  "nidoranf": {
+    "id": "nidoranf",
+    "name": "Nidoranf",
+    "sprite": "/assets/img/pokemon/nidoranf.png",
+    "type1": "POISON",
+    "type2": "POISON",
+    "bst": 270,
+    "bst_delta": 35
+  },
+  "nidoranm": {
+    "id": "nidoranm",
+    "name": "Nidoranm",
+    "sprite": "/assets/img/pokemon/nidoranm.png",
+    "type1": "POISON",
+    "type2": "POISON",
+    "bst": 275,
+    "bst_delta": 42
+  },
+  "nidorina": {
+    "id": "nidorina",
+    "name": "Nidorina",
+    "sprite": "/assets/img/pokemon/nidorina.png",
+    "type1": "POISON",
+    "type2": "POISON",
+    "bst": 365,
+    "bst_delta": 55
+  },
+  "nidorino": {
+    "id": "nidorino",
+    "name": "Nidorino",
+    "sprite": "/assets/img/pokemon/nidorino.png",
+    "type1": "POISON",
+    "type2": "POISON",
+    "bst": 365,
+    "bst_delta": 55
+  },
+  "ninetales": {
+    "id": "ninetales",
+    "name": "Ninetales",
+    "sprite": "/assets/img/pokemon/ninetales.png",
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "bst": 480,
+    "bst_delta": 56
+  },
+  "oddish": {
+    "id": "oddish",
+    "name": "Oddish",
+    "sprite": "/assets/img/pokemon/oddish.png",
+    "type1": "GRASS",
+    "type2": "POISON",
+    "bst": 280,
+    "bst_delta": 25
+  },
+  "omanyte": {
+    "id": "omanyte",
+    "name": "Omanyte",
+    "sprite": "/assets/img/pokemon/omanyte.png",
+    "type1": "ROCK",
+    "type2": "WATER",
+    "bst": 350,
+    "bst_delta": 50
+  },
+  "omastar": {
+    "id": "omastar",
+    "name": "Omastar",
+    "sprite": "/assets/img/pokemon/omastar.png",
+    "type1": "ROCK",
+    "type2": "WATER",
+    "bst": 490,
+    "bst_delta": 65
+  },
+  "onix": {
+    "id": "onix",
+    "name": "Onix",
+    "sprite": "/assets/img/pokemon/onix.png",
+    "type1": "ROCK",
+    "type2": "GROUND",
+    "bst": 460,
+    "bst_delta": 120
+  },
+  "paras": {
+    "id": "paras",
+    "name": "Paras",
+    "sprite": "/assets/img/pokemon/paras.png",
+    "type1": "BUG",
+    "type2": "GRASS",
+    "bst": 295,
+    "bst_delta": 55
+  },
+  "parasect": {
+    "id": "parasect",
+    "name": "Parasect",
+    "sprite": "/assets/img/pokemon/parasect.png",
+    "type1": "BUG",
+    "type2": "GRASS",
+    "bst": 445,
+    "bst_delta": 100
+  },
+  "persian": {
+    "id": "persian",
+    "name": "Persian",
+    "sprite": "/assets/img/pokemon/persian.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 440,
+    "bst_delta": 65
+  },
+  "pidgeot": {
+    "id": "pidgeot",
+    "name": "Pidgeot",
+    "sprite": "/assets/img/pokemon/pidgeot.png",
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "bst": 475,
+    "bst_delta": 76
+  },
+  "pidgeotto": {
+    "id": "pidgeotto",
+    "name": "Pidgeotto",
+    "sprite": "/assets/img/pokemon/pidgeotto.png",
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "bst": 355,
+    "bst_delta": 56
+  },
+  "pidgey": {
+    "id": "pidgey",
+    "name": "Pidgey",
+    "sprite": "/assets/img/pokemon/pidgey.png",
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "bst": 255,
+    "bst_delta": 39
+  },
+  "pikachu": {
+    "id": "pikachu",
+    "name": "Pikachu",
+    "sprite": "/assets/img/pokemon/pikachu.png",
+    "type1": "ELECTRIC",
+    "type2": "ELECTRIC",
+    "bst": 310,
+    "bst_delta": 50
+  },
+  "pinsir": {
+    "id": "pinsir",
+    "name": "Pinsir",
+    "sprite": "/assets/img/pokemon/pinsir.png",
+    "type1": "BUG",
+    "type2": "BUG",
+    "bst": 500,
+    "bst_delta": 70
+  },
+  "poliwag": {
+    "id": "poliwag",
+    "name": "Poliwag",
+    "sprite": "/assets/img/pokemon/poliwag.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 305,
+    "bst_delta": 45
+  },
+  "poliwhirl": {
+    "id": "poliwhirl",
+    "name": "Poliwhirl",
+    "sprite": "/assets/img/pokemon/poliwhirl.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 395,
+    "bst_delta": 60
+  },
+  "poliwrath": {
+    "id": "poliwrath",
+    "name": "Poliwrath",
+    "sprite": "/assets/img/pokemon/poliwrath.png",
+    "type1": "WATER",
+    "type2": "FIGHTING",
+    "bst": 500,
+    "bst_delta": 90
+  },
+  "ponyta": {
+    "id": "ponyta",
+    "name": "Ponyta",
+    "sprite": "/assets/img/pokemon/ponyta.png",
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "bst": 395,
+    "bst_delta": 50
+  },
+  "porygon": {
+    "id": "porygon",
+    "name": "Porygon",
+    "sprite": "/assets/img/pokemon/porygon.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 470,
+    "bst_delta": 160
+  },
+  "primeape": {
+    "id": "primeape",
+    "name": "Primeape",
+    "sprite": "/assets/img/pokemon/primeape.png",
+    "type1": "FIGHTING",
+    "type2": "FIGHTING",
+    "bst": 440,
+    "bst_delta": 55
+  },
+  "psyduck": {
+    "id": "psyduck",
+    "name": "Psyduck",
+    "sprite": "/assets/img/pokemon/psyduck.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 295,
+    "bst_delta": 40
+  },
+  "raichu": {
+    "id": "raichu",
+    "name": "Raichu",
+    "sprite": "/assets/img/pokemon/raichu.png",
+    "type1": "ELECTRIC",
+    "type2": "ELECTRIC",
+    "bst": 475,
+    "bst_delta": 80
+  },
+  "rapidash": {
+    "id": "rapidash",
+    "name": "Rapidash",
+    "sprite": "/assets/img/pokemon/rapidash.png",
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "bst": 490,
+    "bst_delta": 70
+  },
+  "raticate": {
+    "id": "raticate",
+    "name": "Raticate",
+    "sprite": "/assets/img/pokemon/raticate.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 430,
+    "bst_delta": 87
+  },
+  "rattata": {
+    "id": "rattata",
+    "name": "Rattata",
+    "sprite": "/assets/img/pokemon/rattata.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 267,
+    "bst_delta": 49
+  },
+  "rhydon": {
+    "id": "rhydon",
+    "name": "Rhydon",
+    "sprite": "/assets/img/pokemon/rhydon.png",
+    "type1": "GROUND",
+    "type2": "ROCK",
+    "bst": 510,
+    "bst_delta": 70
+  },
+  "rhyhorn": {
+    "id": "rhyhorn",
+    "name": "Rhyhorn",
+    "sprite": "/assets/img/pokemon/rhyhorn.png",
+    "type1": "GROUND",
+    "type2": "ROCK",
+    "bst": 370,
+    "bst_delta": 55
+  },
+  "sandshrew": {
+    "id": "sandshrew",
+    "name": "Sandshrew",
+    "sprite": "/assets/img/pokemon/sandshrew.png",
+    "type1": "GROUND",
+    "type2": "FIGHTING",
+    "bst": 330,
+    "bst_delta": 50
+  },
+  "sandslash": {
+    "id": "sandslash",
+    "name": "Sandslash",
+    "sprite": "/assets/img/pokemon/sandslash.png",
+    "type1": "GROUND",
+    "type2": "FIGHTING",
+    "bst": 485,
+    "bst_delta": 80
+  },
+  "scyther": {
+    "id": "scyther",
+    "name": "Scyther",
+    "sprite": "/assets/img/pokemon/scyther.png",
+    "type1": "BUG",
+    "type2": "FLYING",
+    "bst": 500,
+    "bst_delta": 80
+  },
+  "seadra": {
+    "id": "seadra",
+    "name": "Seadra",
+    "sprite": "/assets/img/pokemon/seadra.png",
+    "type1": "WATER",
+    "type2": "DRAGON",
+    "bst": 455,
+    "bst_delta": 60
+  },
+  "seaking": {
+    "id": "seaking",
+    "name": "Seaking",
+    "sprite": "/assets/img/pokemon/seaking.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 445,
+    "bst_delta": 60
+  },
+  "seel": {
+    "id": "seel",
+    "name": "Seel",
+    "sprite": "/assets/img/pokemon/seel.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 305,
+    "bst_delta": 25
+  },
+  "shellder": {
+    "id": "shellder",
+    "name": "Shellder",
+    "sprite": "/assets/img/pokemon/shellder.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 305,
+    "bst_delta": 25
+  },
+  "slowbro": {
+    "id": "slowbro",
+    "name": "Slowbro",
+    "sprite": "/assets/img/pokemon/slowbro.png",
+    "type1": "WATER",
+    "type2": "PSYCHIC_TYPE",
+    "bst": 450,
+    "bst_delta": 60
+  },
+  "slowpoke": {
+    "id": "slowpoke",
+    "name": "Slowpoke",
+    "sprite": "/assets/img/pokemon/slowpoke.png",
+    "type1": "WATER",
+    "type2": "PSYCHIC_TYPE",
+    "bst": 325,
+    "bst_delta": 50
+  },
+  "snorlax": {
+    "id": "snorlax",
+    "name": "Snorlax",
+    "sprite": "/assets/img/pokemon/snorlax.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 470,
+    "bst_delta": 40
+  },
+  "spearow": {
+    "id": "spearow",
+    "name": "Spearow",
+    "sprite": "/assets/img/pokemon/spearow.png",
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "bst": 265,
+    "bst_delta": 34
+  },
+  "squirtle": {
+    "id": "squirtle",
+    "name": "Squirtle",
+    "sprite": "/assets/img/pokemon/squirtle.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 265,
+    "bst_delta": 15
+  },
+  "starmie": {
+    "id": "starmie",
+    "name": "Starmie",
+    "sprite": "/assets/img/pokemon/starmie.png",
+    "type1": "WATER",
+    "type2": "PSYCHIC_TYPE",
+    "bst": 475,
+    "bst_delta": 40
+  },
+  "staryu": {
+    "id": "staryu",
+    "name": "Staryu",
+    "sprite": "/assets/img/pokemon/staryu.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 345,
+    "bst_delta": 60
+  },
+  "tangela": {
+    "id": "tangela",
+    "name": "Tangela",
+    "sprite": "/assets/img/pokemon/tangela.png",
+    "type1": "GRASS",
+    "type2": "GRASS",
+    "bst": 395,
+    "bst_delta": 0
+  },
+  "tauros": {
+    "id": "tauros",
+    "name": "Tauros",
+    "sprite": "/assets/img/pokemon/tauros.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 470,
+    "bst_delta": 20
+  },
+  "tentacool": {
+    "id": "tentacool",
+    "name": "Tentacool",
+    "sprite": "/assets/img/pokemon/tentacool.png",
+    "type1": "WATER",
+    "type2": "POISON",
+    "bst": 340,
+    "bst_delta": 55
+  },
+  "tentacruel": {
+    "id": "tentacruel",
+    "name": "Tentacruel",
+    "sprite": "/assets/img/pokemon/tentacruel.png",
+    "type1": "WATER",
+    "type2": "POISON",
+    "bst": 500,
+    "bst_delta": 65
+  },
+  "vaporeon": {
+    "id": "vaporeon",
+    "name": "Vaporeon",
+    "sprite": "/assets/img/pokemon/vaporeon.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 460,
+    "bst_delta": 30
+  },
+  "venomoth": {
+    "id": "venomoth",
+    "name": "Venomoth",
+    "sprite": "/assets/img/pokemon/venomoth.png",
+    "type1": "BUG",
+    "type2": "POISON",
+    "bst": 475,
+    "bst_delta": 100
+  },
+  "venonat": {
+    "id": "venonat",
+    "name": "Venonat",
+    "sprite": "/assets/img/pokemon/venonat.png",
+    "type1": "BUG",
+    "type2": "POISON",
+    "bst": 315,
+    "bst_delta": 65
+  },
+  "venusaur": {
+    "id": "venusaur",
+    "name": "Venusaur",
+    "sprite": "/assets/img/pokemon/venusaur.png",
+    "type1": "GRASS",
+    "type2": "POISON",
+    "bst": 455,
+    "bst_delta": 30
+  },
+  "victreebel": {
+    "id": "victreebel",
+    "name": "Victreebel",
+    "sprite": "/assets/img/pokemon/victreebel.png",
+    "type1": "GRASS",
+    "type2": "POISON",
+    "bst": 460,
+    "bst_delta": 40
+  },
+  "vileplume": {
+    "id": "vileplume",
+    "name": "Vileplume",
+    "sprite": "/assets/img/pokemon/vileplume.png",
+    "type1": "GRASS",
+    "type2": "POISON",
+    "bst": 435,
+    "bst_delta": 45
+  },
+  "voltorb": {
+    "id": "voltorb",
+    "name": "Voltorb",
+    "sprite": "/assets/img/pokemon/voltorb.png",
+    "type1": "ELECTRIC",
+    "type2": "ELECTRIC",
+    "bst": 300,
+    "bst_delta": 25
+  },
+  "vulpix": {
+    "id": "vulpix",
+    "name": "Vulpix",
+    "sprite": "/assets/img/pokemon/vulpix.png",
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "bst": 295,
+    "bst_delta": 46
+  },
+  "wartortle": {
+    "id": "wartortle",
+    "name": "Wartortle",
+    "sprite": "/assets/img/pokemon/wartortle.png",
+    "type1": "WATER",
+    "type2": "WATER",
+    "bst": 350,
+    "bst_delta": 25
+  },
+  "weedle": {
+    "id": "weedle",
+    "name": "Weedle",
+    "sprite": "/assets/img/pokemon/weedle.png",
+    "type1": "BUG",
+    "type2": "POISON",
+    "bst": 190,
+    "bst_delta": 15
+  },
+  "weepinbell": {
+    "id": "weepinbell",
+    "name": "Weepinbell",
+    "sprite": "/assets/img/pokemon/weepinbell.png",
+    "type1": "GRASS",
+    "type2": "POISON",
+    "bst": 380,
+    "bst_delta": 35
+  },
+  "weezing": {
+    "id": "weezing",
+    "name": "Weezing",
+    "sprite": "/assets/img/pokemon/weezing.png",
+    "type1": "POISON",
+    "type2": "POISON",
+    "bst": 475,
+    "bst_delta": 55
+  },
+  "wigglytuff": {
+    "id": "wigglytuff",
+    "name": "Wigglytuff",
+    "sprite": "/assets/img/pokemon/wigglytuff.png",
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "bst": 440,
+    "bst_delta": 90
+  },
+  "zapdos": {
+    "id": "zapdos",
+    "name": "Zapdos",
+    "sprite": "/assets/img/pokemon/zapdos.png",
+    "type1": "ELECTRIC",
+    "type2": "FLYING",
+    "bst": 515,
+    "bst_delta": 25
+  },
+  "zubat": {
+    "id": "zubat",
+    "name": "Zubat",
+    "sprite": "/assets/img/pokemon/zubat.png",
+    "type1": "POISON",
+    "type2": "FLYING",
+    "bst": 250,
+    "bst_delta": 35
+  }
+}

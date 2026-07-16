@@ -1,0 +1,161 @@
+{
+  "id": "blastoise",
+  "name": "Blastoise",
+  "sprite": "/assets/img/pokemon/blastoise.png",
+  "hack": {
+    "hp": 84,
+    "attack": 90,
+    "defense": 110,
+    "speed": 82,
+    "special": 94,
+    "bst": 460,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 60,
+    "base_exp": 210,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "TAIL_WHIP",
+      "BUBBLE",
+      "WATER_GUN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "BITE"
+      },
+      {
+        "level": 15,
+        "move": "WITHDRAW"
+      },
+      {
+        "level": 24,
+        "move": "SKULL_BASH"
+      },
+      {
+        "level": 34,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 79,
+    "attack": 83,
+    "defense": 100,
+    "speed": 78,
+    "special": 85,
+    "bst": 425,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 45,
+    "base_exp": 210,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "TAIL_WHIP",
+      "BUBBLE",
+      "WATER_GUN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "FISSURE",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "BUBBLE"
+      },
+      {
+        "level": 15,
+        "move": "WATER_GUN"
+      },
+      {
+        "level": 24,
+        "move": "BITE"
+      },
+      {
+        "level": 31,
+        "move": "WITHDRAW"
+      },
+      {
+        "level": 42,
+        "move": "SKULL_BASH"
+      },
+      {
+        "level": 52,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 7,
+      "defense": 10,
+      "speed": 4,
+      "special": 9,
+      "bst": 35,
+      "catch_rate": 15
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

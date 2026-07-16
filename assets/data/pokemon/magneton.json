@@ -1,0 +1,148 @@
+{
+  "id": "magneton",
+  "name": "Magneton",
+  "sprite": "/assets/img/pokemon/magneton.png",
+  "hack": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 115,
+    "speed": 85,
+    "special": 140,
+    "bst": 480,
+    "type1": "ELECTRIC",
+    "type2": "ELECTRIC",
+    "catch_rate": 120,
+    "base_exp": 161,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SONICBOOM",
+      "THUNDER_WAVE",
+      "SCREECH"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 6,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 9,
+        "move": "SWIFT"
+      },
+      {
+        "level": 16,
+        "move": "THUNDERBOLT"
+      },
+      {
+        "level": 18,
+        "move": "REFLECT"
+      },
+      {
+        "level": 20,
+        "move": "LIGHT_SCREEN"
+      },
+      {
+        "level": 25,
+        "move": "THUNDER"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 50,
+    "attack": 60,
+    "defense": 95,
+    "speed": 70,
+    "special": 120,
+    "bst": 395,
+    "type1": "ELECTRIC",
+    "type2": "ELECTRIC",
+    "catch_rate": 60,
+    "base_exp": 161,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SONICBOOM",
+      "THUNDERSHOCK"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 21,
+        "move": "SONICBOOM"
+      },
+      {
+        "level": 25,
+        "move": "THUNDERSHOCK"
+      },
+      {
+        "level": 29,
+        "move": "SUPERSONIC"
+      },
+      {
+        "level": 38,
+        "move": "THUNDER_WAVE"
+      },
+      {
+        "level": 46,
+        "move": "SWIFT"
+      },
+      {
+        "level": 54,
+        "move": "SCREECH"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 20,
+      "attack": 10,
+      "defense": 20,
+      "speed": 15,
+      "special": 20,
+      "bst": 85,
+      "catch_rate": 60
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "vulpix",
+  "name": "Vulpix",
+  "sprite": "/assets/img/pokemon/vulpix.png",
+  "hack": {
+    "hp": 45,
+    "attack": 50,
+    "defense": 50,
+    "speed": 75,
+    "special": 75,
+    "bst": 295,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 190,
+    "base_exp": 63,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "EMBER",
+      "TAIL_WHIP",
+      "QUICK_ATTACK",
+      "ROAR"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 16,
+        "move": "CONFUSE_RAY"
+      },
+      {
+        "level": 21,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 28,
+        "move": "FIRE_SPIN"
+      },
+      {
+        "level": 33,
+        "move": "AGILITY"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 38,
+    "attack": 41,
+    "defense": 40,
+    "speed": 65,
+    "special": 65,
+    "bst": 249,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 190,
+    "base_exp": 63,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "EMBER",
+      "TAIL_WHIP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 16,
+        "move": "QUICK_ATTACK"
+      },
+      {
+        "level": 21,
+        "move": "ROAR"
+      },
+      {
+        "level": 28,
+        "move": "CONFUSE_RAY"
+      },
+      {
+        "level": 35,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 42,
+        "move": "FIRE_SPIN"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 7,
+      "attack": 9,
+      "defense": 10,
+      "speed": 10,
+      "special": 10,
+      "bst": 46
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

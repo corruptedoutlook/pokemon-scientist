@@ -1,0 +1,160 @@
+{
+  "id": "jynx",
+  "name": "Jynx",
+  "sprite": "/assets/img/pokemon/jynx.png",
+  "hack": {
+    "hp": 70,
+    "attack": 55,
+    "defense": 45,
+    "speed": 95,
+    "special": 120,
+    "bst": 385,
+    "type1": "ICE",
+    "type2": "PSYCHIC_TYPE",
+    "catch_rate": 120,
+    "base_exp": 137,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "POUND",
+      "LOVELY_KISS",
+      "LICK",
+      "DOUBLESLAP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 18,
+        "move": "ICE_PUNCH"
+      },
+      {
+        "level": 23,
+        "move": "BODY_SLAM"
+      },
+      {
+        "level": 31,
+        "move": "THRASH"
+      },
+      {
+        "level": 39,
+        "move": "LOVELY_KISS"
+      },
+      {
+        "level": 47,
+        "move": "BLIZZARD"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 65,
+    "attack": 50,
+    "defense": 35,
+    "speed": 95,
+    "special": 95,
+    "bst": 340,
+    "type1": "ICE",
+    "type2": "PSYCHIC_TYPE",
+    "catch_rate": 45,
+    "base_exp": 137,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "POUND",
+      "LOVELY_KISS"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "METRONOME",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 18,
+        "move": "LICK"
+      },
+      {
+        "level": 23,
+        "move": "DOUBLESLAP"
+      },
+      {
+        "level": 31,
+        "move": "ICE_PUNCH"
+      },
+      {
+        "level": 39,
+        "move": "BODY_SLAM"
+      },
+      {
+        "level": 47,
+        "move": "THRASH"
+      },
+      {
+        "level": 58,
+        "move": "BLIZZARD"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 10,
+      "special": 25,
+      "bst": 45,
+      "catch_rate": 75
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

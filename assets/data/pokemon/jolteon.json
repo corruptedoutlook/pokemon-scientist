@@ -1,0 +1,162 @@
+{
+  "id": "jolteon",
+  "name": "Jolteon",
+  "sprite": "/assets/img/pokemon/jolteon.png",
+  "hack": {
+    "hp": 70,
+    "attack": 70,
+    "defense": 65,
+    "speed": 130,
+    "special": 115,
+    "bst": 450,
+    "type1": "ELECTRIC",
+    "type2": "ELECTRIC",
+    "catch_rate": 90,
+    "base_exp": 197,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SAND_ATTACK",
+      "QUICK_ATTACK",
+      "TAIL_WHIP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 27,
+        "move": "THUNDERSHOCK"
+      },
+      {
+        "level": 31,
+        "move": "THUNDER_WAVE"
+      },
+      {
+        "level": 37,
+        "move": "DOUBLE_KICK"
+      },
+      {
+        "level": 40,
+        "move": "AGILITY"
+      },
+      {
+        "level": 42,
+        "move": "PIN_MISSILE"
+      },
+      {
+        "level": 46,
+        "move": "THUNDERBOLT"
+      },
+      {
+        "level": 52,
+        "move": "THUNDER"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 65,
+    "attack": 65,
+    "defense": 60,
+    "speed": 130,
+    "special": 110,
+    "bst": 430,
+    "type1": "ELECTRIC",
+    "type2": "ELECTRIC",
+    "catch_rate": 45,
+    "base_exp": 197,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SAND_ATTACK",
+      "QUICK_ATTACK",
+      "THUNDERSHOCK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 27,
+        "move": "QUICK_ATTACK"
+      },
+      {
+        "level": 31,
+        "move": "THUNDERSHOCK"
+      },
+      {
+        "level": 37,
+        "move": "TAIL_WHIP"
+      },
+      {
+        "level": 40,
+        "move": "THUNDER_WAVE"
+      },
+      {
+        "level": 42,
+        "move": "DOUBLE_KICK"
+      },
+      {
+        "level": 44,
+        "move": "AGILITY"
+      },
+      {
+        "level": 48,
+        "move": "PIN_MISSILE"
+      },
+      {
+        "level": 54,
+        "move": "THUNDER"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 5,
+      "special": 5,
+      "bst": 20,
+      "catch_rate": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

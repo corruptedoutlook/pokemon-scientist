@@ -1,0 +1,139 @@
+{
+  "id": "pidgeot",
+  "name": "Pidgeot",
+  "sprite": "/assets/img/pokemon/pidgeot.png",
+  "hack": {
+    "hp": 95,
+    "attack": 100,
+    "defense": 90,
+    "speed": 105,
+    "special": 85,
+    "bst": 475,
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "catch_rate": 90,
+    "base_exp": 172,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "GUST",
+      "SAND_ATTACK",
+      "QUICK_ATTACK",
+      "WHIRLWIND"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "FLY",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "RAZOR_WIND",
+      "REFLECT",
+      "REST",
+      "SKY_ATTACK",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WHIRLWIND"
+    ],
+    "levelup_moves": [
+      {
+        "level": 12,
+        "move": "WING_ATTACK"
+      },
+      {
+        "level": 19,
+        "move": "AGILITY"
+      },
+      {
+        "level": 28,
+        "move": "MIRROR_MOVE"
+      },
+      {
+        "level": 50,
+        "move": "BRAVE_BIRD"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 83,
+    "attack": 80,
+    "defense": 75,
+    "speed": 91,
+    "special": 70,
+    "bst": 399,
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "catch_rate": 45,
+    "base_exp": 172,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "GUST",
+      "SAND_ATTACK",
+      "QUICK_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLY",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "RAZOR_WIND",
+      "REFLECT",
+      "REST",
+      "SKY_ATTACK",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WHIRLWIND"
+    ],
+    "levelup_moves": [
+      {
+        "level": 5,
+        "move": "SAND_ATTACK"
+      },
+      {
+        "level": 12,
+        "move": "QUICK_ATTACK"
+      },
+      {
+        "level": 21,
+        "move": "WHIRLWIND"
+      },
+      {
+        "level": 31,
+        "move": "WING_ATTACK"
+      },
+      {
+        "level": 44,
+        "move": "AGILITY"
+      },
+      {
+        "level": 54,
+        "move": "MIRROR_MOVE"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 12,
+      "attack": 20,
+      "defense": 15,
+      "speed": 14,
+      "special": 15,
+      "bst": 76,
+      "catch_rate": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

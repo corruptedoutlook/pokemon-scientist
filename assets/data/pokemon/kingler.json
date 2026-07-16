@@ -1,0 +1,137 @@
+{
+  "id": "kingler",
+  "name": "Kingler",
+  "sprite": "/assets/img/pokemon/kingler.png",
+  "hack": {
+    "hp": 75,
+    "attack": 135,
+    "defense": 120,
+    "speed": 85,
+    "special": 65,
+    "bst": 480,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 120,
+    "base_exp": 206,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "BUBBLE",
+      "LEER",
+      "VICEGRIP",
+      "HARDEN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN",
+      "XSCISSOR"
+    ],
+    "levelup_moves": [
+      {
+        "level": 20,
+        "move": "STOMP"
+      },
+      {
+        "level": 25,
+        "move": "CRABHAMMER"
+      },
+      {
+        "level": 36,
+        "move": "GUILLOTINE"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 55,
+    "attack": 130,
+    "defense": 115,
+    "speed": 75,
+    "special": 50,
+    "bst": 425,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 60,
+    "base_exp": 206,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "BUBBLE",
+      "LEER",
+      "VICEGRIP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 20,
+        "move": "VICEGRIP"
+      },
+      {
+        "level": 25,
+        "move": "GUILLOTINE"
+      },
+      {
+        "level": 34,
+        "move": "STOMP"
+      },
+      {
+        "level": 42,
+        "move": "CRABHAMMER"
+      },
+      {
+        "level": 49,
+        "move": "HARDEN"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 20,
+      "attack": 5,
+      "defense": 5,
+      "speed": 10,
+      "special": 15,
+      "bst": 55,
+      "catch_rate": 60
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

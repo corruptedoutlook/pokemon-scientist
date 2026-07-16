@@ -1,0 +1,154 @@
+{
+  "id": "wartortle",
+  "name": "Wartortle",
+  "sprite": "/assets/img/pokemon/wartortle.png",
+  "hack": {
+    "hp": 62,
+    "attack": 68,
+    "defense": 85,
+    "speed": 62,
+    "special": 73,
+    "bst": 350,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 75,
+    "base_exp": 143,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "TAIL_WHIP",
+      "BUBBLE",
+      "WATER_GUN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "BITE"
+      },
+      {
+        "level": 15,
+        "move": "WITHDRAW"
+      },
+      {
+        "level": 24,
+        "move": "SKULL_BASH"
+      },
+      {
+        "level": 31,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 59,
+    "attack": 63,
+    "defense": 80,
+    "speed": 58,
+    "special": 65,
+    "bst": 325,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 45,
+    "base_exp": 143,
+    "growth_rate": "GROWTH_MEDIUM_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "TAIL_WHIP",
+      "BUBBLE"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "COUNTER",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "ICE_BEAM",
+      "MEGA_KICK",
+      "MEGA_PUNCH",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SEISMIC_TOSS",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 8,
+        "move": "BUBBLE"
+      },
+      {
+        "level": 15,
+        "move": "WATER_GUN"
+      },
+      {
+        "level": 24,
+        "move": "BITE"
+      },
+      {
+        "level": 31,
+        "move": "WITHDRAW"
+      },
+      {
+        "level": 39,
+        "move": "SKULL_BASH"
+      },
+      {
+        "level": 47,
+        "move": "HYDRO_PUMP"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 3,
+      "attack": 5,
+      "defense": 5,
+      "speed": 4,
+      "special": 8,
+      "bst": 25,
+      "catch_rate": 30
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

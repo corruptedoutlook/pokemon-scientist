@@ -1,0 +1,114 @@
+{
+  "id": "ninetales",
+  "name": "Ninetales",
+  "sprite": "/assets/img/pokemon/ninetales.png",
+  "hack": {
+    "hp": 85,
+    "attack": 90,
+    "defense": 85,
+    "speed": 110,
+    "special": 110,
+    "bst": 480,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 140,
+    "base_exp": 178,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "EMBER",
+      "TAIL_WHIP",
+      "QUICK_ATTACK",
+      "ROAR"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 16,
+        "move": "CONFUSE_RAY"
+      },
+      {
+        "level": 21,
+        "move": "FLAMETHROWER"
+      },
+      {
+        "level": 28,
+        "move": "FIRE_SPIN"
+      },
+      {
+        "level": 35,
+        "move": "AGILITY"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 73,
+    "attack": 76,
+    "defense": 75,
+    "speed": 100,
+    "special": 100,
+    "bst": 424,
+    "type1": "FIRE",
+    "type2": "FIRE",
+    "catch_rate": 75,
+    "base_exp": 178,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "EMBER",
+      "TAIL_WHIP",
+      "QUICK_ATTACK",
+      "ROAR"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FIRE_BLAST",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": []
+  },
+  "changes": {
+    "numeric": {
+      "hp": 12,
+      "attack": 14,
+      "defense": 10,
+      "speed": 10,
+      "special": 10,
+      "bst": 56,
+      "catch_rate": 65
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

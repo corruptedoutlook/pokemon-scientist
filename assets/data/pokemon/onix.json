@@ -1,0 +1,145 @@
+{
+  "id": "onix",
+  "name": "Onix",
+  "sprite": "/assets/img/pokemon/onix.png",
+  "hack": {
+    "hp": 70,
+    "attack": 90,
+    "defense": 170,
+    "speed": 80,
+    "special": 50,
+    "bst": 460,
+    "type1": "ROCK",
+    "type2": "GROUND",
+    "catch_rate": 120,
+    "base_exp": 108,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SCREECH",
+      "BIND",
+      "ROCK_THROW"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "EXPLOSION",
+      "FISSURE",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SELFDESTRUCT",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "HARDEN"
+      },
+      {
+        "level": 19,
+        "move": "RAGE"
+      },
+      {
+        "level": 25,
+        "move": "SLAM"
+      },
+      {
+        "level": 30,
+        "move": "DIG"
+      },
+      {
+        "level": 35,
+        "move": "ROCK_SLIDE"
+      },
+      {
+        "level": 46,
+        "move": "TOMBSTONER"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 35,
+    "attack": 45,
+    "defense": 160,
+    "speed": 70,
+    "special": 30,
+    "bst": 340,
+    "type1": "ROCK",
+    "type2": "GROUND",
+    "catch_rate": 45,
+    "base_exp": 108,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "SCREECH"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "DIG",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "EARTHQUAKE",
+      "EXPLOSION",
+      "FISSURE",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "ROCK_SLIDE",
+      "SELFDESTRUCT",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 15,
+        "move": "BIND"
+      },
+      {
+        "level": 19,
+        "move": "ROCK_THROW"
+      },
+      {
+        "level": 25,
+        "move": "RAGE"
+      },
+      {
+        "level": 33,
+        "move": "SLAM"
+      },
+      {
+        "level": 43,
+        "move": "HARDEN"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 35,
+      "attack": 45,
+      "defense": 10,
+      "speed": 10,
+      "special": 20,
+      "bst": 120,
+      "catch_rate": 75
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

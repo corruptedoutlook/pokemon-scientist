@@ -1,0 +1,141 @@
+{
+  "id": "pinsir",
+  "name": "Pinsir",
+  "sprite": "/assets/img/pokemon/pinsir.png",
+  "hack": {
+    "hp": 85,
+    "attack": 135,
+    "defense": 110,
+    "speed": 100,
+    "special": 70,
+    "bst": 500,
+    "type1": "BUG",
+    "type2": "BUG",
+    "catch_rate": 120,
+    "base_exp": 200,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "VICEGRIP",
+      "SEISMIC_TOSS",
+      "GUILLOTINE",
+      "FOCUS_ENERGY"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "XSCISSOR"
+    ],
+    "levelup_moves": [
+      {
+        "level": 25,
+        "move": "HARDEN"
+      },
+      {
+        "level": 30,
+        "move": "SLASH"
+      },
+      {
+        "level": 36,
+        "move": "SWORDS_DANCE"
+      },
+      {
+        "level": 40,
+        "move": "XSCISSOR"
+      },
+      {
+        "level": 43,
+        "move": "SUBMISSION"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 65,
+    "attack": 125,
+    "defense": 100,
+    "speed": 85,
+    "special": 55,
+    "bst": 430,
+    "type1": "BUG",
+    "type2": "BUG",
+    "catch_rate": 45,
+    "base_exp": 200,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "VICEGRIP"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SEISMIC_TOSS",
+      "STRENGTH",
+      "SUBMISSION",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 25,
+        "move": "SEISMIC_TOSS"
+      },
+      {
+        "level": 30,
+        "move": "GUILLOTINE"
+      },
+      {
+        "level": 36,
+        "move": "FOCUS_ENERGY"
+      },
+      {
+        "level": 43,
+        "move": "HARDEN"
+      },
+      {
+        "level": 49,
+        "move": "SLASH"
+      },
+      {
+        "level": 54,
+        "move": "SWORDS_DANCE"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 20,
+      "attack": 10,
+      "defense": 10,
+      "speed": 15,
+      "special": 15,
+      "bst": 70,
+      "catch_rate": 75
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

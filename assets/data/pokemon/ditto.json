@@ -1,0 +1,71 @@
+{
+  "id": "ditto",
+  "name": "Ditto",
+  "sprite": "/assets/img/pokemon/ditto.png",
+  "hack": {
+    "hp": 80,
+    "attack": 50,
+    "defense": 50,
+    "speed": 100,
+    "special": 50,
+    "bst": 330,
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "catch_rate": 120,
+    "base_exp": 61,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TRANSFORM",
+      "TACKLE",
+      "DISABLE",
+      "RECOVER"
+    ],
+    "learnset": [
+      "FLASH"
+    ],
+    "levelup_moves": [
+      {
+        "level": 18,
+        "move": "TRI_ATTACK"
+      },
+      {
+        "level": 34,
+        "move": "HYPER_BEAM"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 48,
+    "attack": 48,
+    "defense": 48,
+    "speed": 48,
+    "special": 48,
+    "bst": 240,
+    "type1": "NORMAL",
+    "type2": "NORMAL",
+    "catch_rate": 35,
+    "base_exp": 61,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TRANSFORM"
+    ],
+    "learnset": [],
+    "levelup_moves": []
+  },
+  "changes": {
+    "numeric": {
+      "hp": 32,
+      "attack": 2,
+      "defense": 2,
+      "speed": 52,
+      "special": 2,
+      "bst": 90,
+      "catch_rate": 85
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

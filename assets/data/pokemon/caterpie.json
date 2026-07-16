@@ -1,0 +1,65 @@
+{
+  "id": "caterpie",
+  "name": "Caterpie",
+  "sprite": "/assets/img/pokemon/caterpie.png",
+  "hack": {
+    "hp": 50,
+    "attack": 35,
+    "defense": 40,
+    "speed": 50,
+    "special": 25,
+    "bst": 200,
+    "type1": "BUG",
+    "type2": "BUG",
+    "catch_rate": 255,
+    "base_exp": 53,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "STRING_SHOT"
+    ],
+    "learnset": [
+      "FLASH"
+    ],
+    "levelup_moves": [
+      {
+        "level": 7,
+        "move": "HARDEN"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 45,
+    "attack": 30,
+    "defense": 35,
+    "speed": 45,
+    "special": 20,
+    "bst": 175,
+    "type1": "BUG",
+    "type2": "BUG",
+    "catch_rate": 255,
+    "base_exp": 53,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "TACKLE",
+      "STRING_SHOT"
+    ],
+    "learnset": [],
+    "levelup_moves": []
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 5,
+      "defense": 5,
+      "speed": 5,
+      "special": 5,
+      "bst": 25
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

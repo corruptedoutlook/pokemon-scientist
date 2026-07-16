@@ -1,0 +1,142 @@
+{
+  "id": "farfetchd",
+  "name": "Farfetchd",
+  "sprite": "/assets/img/pokemon/farfetchd.png",
+  "hack": {
+    "hp": 65,
+    "attack": 95,
+    "defense": 70,
+    "speed": 90,
+    "special": 70,
+    "bst": 390,
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "catch_rate": 120,
+    "base_exp": 94,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "PECK",
+      "SAND_ATTACK",
+      "LEER",
+      "FURY_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLY",
+      "MIMIC",
+      "RAGE",
+      "RAZOR_WIND",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WHIRLWIND",
+      "XSCISSOR"
+    ],
+    "levelup_moves": [
+      {
+        "level": 7,
+        "move": "SWORDS_DANCE"
+      },
+      {
+        "level": 15,
+        "move": "AGILITY"
+      },
+      {
+        "level": 23,
+        "move": "SLASH"
+      },
+      {
+        "level": 31,
+        "move": "DRILL_PECK"
+      },
+      {
+        "level": 46,
+        "move": "BRAVE_BIRD"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 52,
+    "attack": 65,
+    "defense": 55,
+    "speed": 60,
+    "special": 58,
+    "bst": 290,
+    "type1": "NORMAL",
+    "type2": "FLYING",
+    "catch_rate": 45,
+    "base_exp": 94,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "PECK",
+      "SAND_ATTACK"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLY",
+      "MIMIC",
+      "RAGE",
+      "RAZOR_WIND",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SWIFT",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WHIRLWIND"
+    ],
+    "levelup_moves": [
+      {
+        "level": 7,
+        "move": "LEER"
+      },
+      {
+        "level": 15,
+        "move": "FURY_ATTACK"
+      },
+      {
+        "level": 23,
+        "move": "SWORDS_DANCE"
+      },
+      {
+        "level": 31,
+        "move": "AGILITY"
+      },
+      {
+        "level": 39,
+        "move": "SLASH"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 13,
+      "attack": 30,
+      "defense": 15,
+      "speed": 30,
+      "special": 12,
+      "bst": 100,
+      "catch_rate": 75
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

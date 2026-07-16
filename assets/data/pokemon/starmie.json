@@ -1,0 +1,136 @@
+{
+  "id": "starmie",
+  "name": "Starmie",
+  "sprite": "/assets/img/pokemon/starmie.png",
+  "hack": {
+    "hp": 90,
+    "attack": 75,
+    "defense": 130,
+    "speed": 70,
+    "special": 110,
+    "bst": 475,
+    "type1": "WATER",
+    "type2": "PSYCHIC_TYPE",
+    "catch_rate": 175,
+    "base_exp": 207,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "WATER_GUN",
+      "HARDEN",
+      "RECOVER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 17,
+        "move": "SWIFT"
+      },
+      {
+        "level": 22,
+        "move": "MINIMIZE"
+      },
+      {
+        "level": 27,
+        "move": "LIGHT_SCREEN"
+      },
+      {
+        "level": 35,
+        "move": "HYDRO_PUMP"
+      },
+      {
+        "level": 37,
+        "move": "PSYCHIC_M"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 60,
+    "attack": 75,
+    "defense": 85,
+    "speed": 115,
+    "special": 100,
+    "bst": 435,
+    "type1": "WATER",
+    "type2": "PSYCHIC_TYPE",
+    "catch_rate": 60,
+    "base_exp": 207,
+    "growth_rate": "GROWTH_SLOW",
+    "starting_moves": [
+      "TACKLE",
+      "WATER_GUN",
+      "HARDEN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "PSYCHIC_M",
+      "PSYWAVE",
+      "RAGE",
+      "REFLECT",
+      "REST",
+      "SKULL_BASH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWIFT",
+      "TAKE_DOWN",
+      "TELEPORT",
+      "THUNDER",
+      "THUNDERBOLT",
+      "THUNDER_WAVE",
+      "TOXIC",
+      "TRI_ATTACK",
+      "WATER_GUN"
+    ],
+    "levelup_moves": []
+  },
+  "changes": {
+    "numeric": {
+      "hp": 30,
+      "defense": 45,
+      "speed": -45,
+      "special": 10,
+      "bst": 40,
+      "catch_rate": 115
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}

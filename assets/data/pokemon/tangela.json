@@ -1,0 +1,136 @@
+{
+  "id": "tangela",
+  "name": "Tangela",
+  "sprite": "/assets/img/pokemon/tangela.png",
+  "hack": {
+    "hp": 65,
+    "attack": 55,
+    "defense": 115,
+    "speed": 60,
+    "special": 100,
+    "bst": 395,
+    "type1": "GRASS",
+    "type2": "GRASS",
+    "catch_rate": 120,
+    "base_exp": 166,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "CONSTRICT",
+      "BIND",
+      "ABSORB",
+      "POISONPOWDER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "FLASH",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 29,
+        "move": "STUN_SPORE"
+      },
+      {
+        "level": 32,
+        "move": "SLEEP_POWDER"
+      },
+      {
+        "level": 36,
+        "move": "SLAM"
+      },
+      {
+        "level": 39,
+        "move": "GROWTH"
+      },
+      {
+        "level": 43,
+        "move": "SOLARBEAM"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 65,
+    "attack": 55,
+    "defense": 115,
+    "speed": 60,
+    "special": 100,
+    "bst": 395,
+    "type1": "GRASS",
+    "type2": "GRASS",
+    "catch_rate": 45,
+    "base_exp": 166,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "CONSTRICT",
+      "BIND"
+    ],
+    "learnset": [
+      "BIDE",
+      "BODY_SLAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HYPER_BEAM",
+      "MEGA_DRAIN",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "SOLARBEAM",
+      "SUBSTITUTE",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC"
+    ],
+    "levelup_moves": [
+      {
+        "level": 29,
+        "move": "ABSORB"
+      },
+      {
+        "level": 32,
+        "move": "POISONPOWDER"
+      },
+      {
+        "level": 36,
+        "move": "STUN_SPORE"
+      },
+      {
+        "level": 39,
+        "move": "SLEEP_POWDER"
+      },
+      {
+        "level": 45,
+        "move": "SLAM"
+      },
+      {
+        "level": 49,
+        "move": "GROWTH"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "catch_rate": 75
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "krabby",
+  "name": "Krabby",
+  "sprite": "/assets/img/pokemon/krabby.png",
+  "hack": {
+    "hp": 40,
+    "attack": 110,
+    "defense": 95,
+    "speed": 60,
+    "special": 30,
+    "bst": 335,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 225,
+    "base_exp": 115,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "BUBBLE",
+      "LEER",
+      "VICEGRIP",
+      "HARDEN"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN",
+      "XSCISSOR"
+    ],
+    "levelup_moves": [
+      {
+        "level": 20,
+        "move": "STOMP"
+      },
+      {
+        "level": 25,
+        "move": "CRABHAMMER"
+      },
+      {
+        "level": 34,
+        "move": "GUILLOTINE"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 30,
+    "attack": 105,
+    "defense": 90,
+    "speed": 50,
+    "special": 25,
+    "bst": 300,
+    "type1": "WATER",
+    "type2": "WATER",
+    "catch_rate": 225,
+    "base_exp": 115,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "BUBBLE",
+      "LEER"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "CUT",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "RAGE",
+      "REST",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SURF",
+      "SWORDS_DANCE",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 20,
+        "move": "VICEGRIP"
+      },
+      {
+        "level": 25,
+        "move": "GUILLOTINE"
+      },
+      {
+        "level": 30,
+        "move": "STOMP"
+      },
+      {
+        "level": 35,
+        "move": "CRABHAMMER"
+      },
+      {
+        "level": 40,
+        "move": "HARDEN"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 10,
+      "attack": 5,
+      "defense": 5,
+      "speed": 10,
+      "special": 5,
+      "bst": 35
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": true,
+    "learnset": true,
+    "levelup_moves": true
+  }
+}

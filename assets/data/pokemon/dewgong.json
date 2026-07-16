@@ -1,0 +1,133 @@
+{
+  "id": "dewgong",
+  "name": "Dewgong",
+  "sprite": "/assets/img/pokemon/dewgong.png",
+  "hack": {
+    "hp": 95,
+    "attack": 80,
+    "defense": 90,
+    "speed": 80,
+    "special": 105,
+    "bst": 450,
+    "type1": "WATER",
+    "type2": "ICE",
+    "catch_rate": 120,
+    "base_exp": 176,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "HEADBUTT",
+      "GROWL",
+      "AURORA_BEAM"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HORN_DRILL",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 30,
+        "move": "TAKE_DOWN"
+      },
+      {
+        "level": 35,
+        "move": "ICE_BEAM"
+      }
+    ]
+  },
+  "rby": {
+    "hp": 90,
+    "attack": 70,
+    "defense": 80,
+    "speed": 70,
+    "special": 95,
+    "bst": 405,
+    "type1": "WATER",
+    "type2": "ICE",
+    "catch_rate": 75,
+    "base_exp": 176,
+    "growth_rate": "GROWTH_MEDIUM_FAST",
+    "starting_moves": [
+      "HEADBUTT",
+      "GROWL",
+      "AURORA_BEAM"
+    ],
+    "learnset": [
+      "BIDE",
+      "BLIZZARD",
+      "BODY_SLAM",
+      "BUBBLEBEAM",
+      "DOUBLE_EDGE",
+      "DOUBLE_TEAM",
+      "HORN_DRILL",
+      "HYPER_BEAM",
+      "ICE_BEAM",
+      "MIMIC",
+      "PAY_DAY",
+      "RAGE",
+      "REST",
+      "SKULL_BASH",
+      "STRENGTH",
+      "SUBSTITUTE",
+      "SURF",
+      "TAKE_DOWN",
+      "TOXIC",
+      "WATER_GUN"
+    ],
+    "levelup_moves": [
+      {
+        "level": 30,
+        "move": "GROWL"
+      },
+      {
+        "level": 35,
+        "move": "AURORA_BEAM"
+      },
+      {
+        "level": 44,
+        "move": "REST"
+      },
+      {
+        "level": 50,
+        "move": "TAKE_DOWN"
+      },
+      {
+        "level": 56,
+        "move": "ICE_BEAM"
+      }
+    ]
+  },
+  "changes": {
+    "numeric": {
+      "hp": 5,
+      "attack": 10,
+      "defense": 10,
+      "speed": 10,
+      "special": 10,
+      "bst": 45,
+      "catch_rate": 45
+    },
+    "typing": false,
+    "growth_rate": false,
+    "starting_moves": false,
+    "learnset": false,
+    "levelup_moves": true
+  }
+}
