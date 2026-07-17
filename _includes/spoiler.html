@@ -5,7 +5,9 @@
 <summary class="spoiler-summary">
 {{ include.title }}</summary>
 
-<div class="spoiler-content">{{ include.content }}</div>
+<div class="spoiler-content">
+  {{ include.content | markdownify }}
+</div>
 
 </details>
 
