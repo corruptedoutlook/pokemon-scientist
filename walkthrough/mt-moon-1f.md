@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Mt. Moon 1F
 permalink: /walkthrough/mt-moon-1f/
-location: mt-moon-1f
 ---
+
+# Mt. Moon 1F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -22,3 +31,14 @@ location: mt-moon-1f
 | [Bulbasaur]({{ site.baseurl }}/pokemon/bulbasaur/) | 10 | 2.3% |
 | [Jynx]({{ site.baseurl }}/pokemon/jynx/) | 14 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

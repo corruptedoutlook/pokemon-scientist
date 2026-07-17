@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Safari Zone East
 permalink: /walkthrough/safari-zone-east/
-location: safari-zone-east
 ---
+
+# Safari Zone East
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -47,3 +56,14 @@ location: safari-zone-east
 | [Psyduck]({{ site.baseurl }}/pokemon/psyduck/) | 15 | 25.0% |
 | [Slowpoke]({{ site.baseurl }}/pokemon/slowpoke/) | 15 | 25.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

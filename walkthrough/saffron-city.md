@@ -1,7 +1,29 @@
 ---
-layout: location
+layout: page
 title: Saffron City
 permalink: /walkthrough/saffron-city/
-location: saffron-city
 ---
 
+# Saffron City
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
+
+## Wild Pokémon
+
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

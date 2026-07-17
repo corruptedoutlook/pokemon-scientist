@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 5
 permalink: /walkthrough/route-5/
-location: route-5
 ---
+
+# Route 5
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -25,3 +34,14 @@ location: route-5
 | [Growlithe]({{ site.baseurl }}/pokemon/growlithe/) | 16 | 2.3% |
 | [Vulpix]({{ site.baseurl }}/pokemon/vulpix/) | 16 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

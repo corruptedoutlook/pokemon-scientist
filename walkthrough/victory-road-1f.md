@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Victory Road 1F
 permalink: /walkthrough/victory-road-1f/
-location: victory-road-1f
 ---
+
+# Victory Road 1F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -26,3 +35,14 @@ location: victory-road-1f
 | [Golem]({{ site.baseurl }}/pokemon/golem/) | 46 | 2.3% |
 | [Jynx]({{ site.baseurl }}/pokemon/jynx/) | 45 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

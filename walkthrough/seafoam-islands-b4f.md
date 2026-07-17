@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Seafoam Islands B4F
 permalink: /walkthrough/seafoam-islands-b4f/
-location: seafoam-islands-b4f
 ---
+
+# Seafoam Islands B4F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -47,3 +56,14 @@ location: seafoam-islands-b4f
 | [Shellder]({{ site.baseurl }}/pokemon/shellder/) | 15 | 25.0% |
 | [Staryu]({{ site.baseurl }}/pokemon/staryu/) | 15 | 25.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

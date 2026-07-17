@@ -1,9 +1,20 @@
 ---
-layout: location
+layout: page
 title: Cinnabar Island
 permalink: /walkthrough/cinnabar-island/
-location: cinnabar-island
 ---
+
+# Cinnabar Island
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
+
+## Wild Pokémon
 
 ### Old Rod
 
@@ -27,3 +38,14 @@ location: cinnabar-island
 | [Shellder]({{ site.baseurl }}/pokemon/shellder/) | 15 | 25.0% |
 | [Staryu]({{ site.baseurl }}/pokemon/staryu/) | 15 | 25.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

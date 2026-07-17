@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 3
 permalink: /walkthrough/route-3/
-location: route-3
 ---
+
+# Route 3
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -24,3 +33,14 @@ location: route-3
 | [Clefairy]({{ site.baseurl }}/pokemon/clefairy/) | 7 | 2.3% |
 | [Pikachu]({{ site.baseurl }}/pokemon/pikachu/) | 10 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

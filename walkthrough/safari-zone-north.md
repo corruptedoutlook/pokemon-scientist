@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Safari Zone North
 permalink: /walkthrough/safari-zone-north/
-location: safari-zone-north
 ---
+
+# Safari Zone North
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -47,3 +56,14 @@ location: safari-zone-north
 | [Psyduck]({{ site.baseurl }}/pokemon/psyduck/) | 15 | 25.0% |
 | [Slowpoke]({{ site.baseurl }}/pokemon/slowpoke/) | 15 | 25.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

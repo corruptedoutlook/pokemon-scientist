@@ -1,9 +1,20 @@
 ---
-layout: location
+layout: page
 title: Route 19
 permalink: /walkthrough/route-19/
-location: route-19
 ---
+
+# Route 19
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
+
+## Wild Pokémon
 
 ### Surf
 
@@ -46,3 +57,14 @@ location: route-19
 | [Shellder]({{ site.baseurl }}/pokemon/shellder/) | 15 | 25.0% |
 | [Staryu]({{ site.baseurl }}/pokemon/staryu/) | 15 | 25.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

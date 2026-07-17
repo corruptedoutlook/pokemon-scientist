@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 7
 permalink: /walkthrough/route-7/
-location: route-7
 ---
+
+# Route 7
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -26,3 +35,14 @@ location: route-7
 | [Kadabra]({{ site.baseurl }}/pokemon/kadabra/) | 19 | 2.3% |
 | [Porygon]({{ site.baseurl }}/pokemon/porygon/) | 17 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

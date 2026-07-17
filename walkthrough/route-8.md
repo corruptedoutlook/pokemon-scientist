@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 8
 permalink: /walkthrough/route-8/
-location: route-8
 ---
+
+# Route 8
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -25,3 +34,14 @@ location: route-8
 | [Kadabra]({{ site.baseurl }}/pokemon/kadabra/) | 22 | 3.1% |
 | [Jigglypuff]({{ site.baseurl }}/pokemon/jigglypuff/) | 24 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

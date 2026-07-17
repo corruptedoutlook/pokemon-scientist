@@ -1,9 +1,20 @@
 ---
-layout: location
+layout: page
 title: Viridian City
 permalink: /walkthrough/viridian-city/
-location: viridian-city
 ---
+
+# Viridian City
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
+
+## Wild Pokémon
 
 ### Old Rod
 
@@ -25,3 +36,14 @@ location: viridian-city
 | [Poliwag]({{ site.baseurl }}/pokemon/poliwag/) | 15 | 50.0% |
 | [Tentacool]({{ site.baseurl }}/pokemon/tentacool/) | 15 | 50.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

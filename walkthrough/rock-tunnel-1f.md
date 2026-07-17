@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Rock Tunnel 1F
 permalink: /walkthrough/rock-tunnel-1f/
-location: rock-tunnel-1f
 ---
+
+# Rock Tunnel 1F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -22,3 +31,14 @@ location: rock-tunnel-1f
 | [Cubone]({{ site.baseurl }}/pokemon/cubone/) | 20 | 2.3% |
 | [Haunter]({{ site.baseurl }}/pokemon/haunter/) | 25 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

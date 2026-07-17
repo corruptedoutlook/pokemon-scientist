@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 22
 permalink: /walkthrough/route-22/
-location: route-22
 ---
+
+# Route 22
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -40,3 +49,14 @@ location: route-22
 | [Goldeen]({{ site.baseurl }}/pokemon/goldeen/) | 15 | 50.0% |
 | [Poliwag]({{ site.baseurl }}/pokemon/poliwag/) | 15 | 50.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Mt. Moon B2F
 permalink: /walkthrough/mt-moon-b2f/
-location: mt-moon-b2f
 ---
+
+# Mt. Moon B2F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -22,3 +31,14 @@ location: mt-moon-b2f
 | [Jynx]({{ site.baseurl }}/pokemon/jynx/) | 18 | 2.3% |
 | [Pikachu]({{ site.baseurl }}/pokemon/pikachu/) | 16 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Power Plant
 permalink: /walkthrough/power-plant/
-location: power-plant
 ---
+
+# Power Plant
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -25,3 +34,14 @@ location: power-plant
 | [Electabuzz]({{ site.baseurl }}/pokemon/electabuzz/) | 36 | 2.3% |
 | [Raichu]({{ site.baseurl }}/pokemon/raichu/) | 33 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

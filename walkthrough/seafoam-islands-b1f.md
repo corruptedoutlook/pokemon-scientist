@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Seafoam Islands B1F
 permalink: /walkthrough/seafoam-islands-b1f/
-location: seafoam-islands-b1f
 ---
+
+# Seafoam Islands B1F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -24,3 +33,14 @@ location: seafoam-islands-b1f
 | [Jynx]({{ site.baseurl }}/pokemon/jynx/) | 40 | 2.3% |
 | [Kingler]({{ site.baseurl }}/pokemon/kingler/) | 37 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

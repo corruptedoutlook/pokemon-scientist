@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 16
 permalink: /walkthrough/route-16/
-location: route-16
 ---
+
+# Route 16
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -22,3 +31,14 @@ location: route-16
 | [Pinsir]({{ site.baseurl }}/pokemon/pinsir/) | 28, 30 | 5.5% |
 | [Scyther]({{ site.baseurl }}/pokemon/scyther/) | 28, 30 | 5.5% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

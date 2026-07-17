@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Pokémon Tower 7F
 permalink: /walkthrough/pokémon-tower-7f/
-location: pokémon-tower-7f
 ---
+
+# Pokémon Tower 7F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -17,3 +26,14 @@ location: pokémon-tower-7f
 | [Haunter]({{ site.baseurl }}/pokemon/haunter/) | 28, 30, 31, 35 | 24.6% |
 | [Cubone]({{ site.baseurl }}/pokemon/cubone/) | 22, 24 | 6.2% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

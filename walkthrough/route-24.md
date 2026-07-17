@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 24
 permalink: /walkthrough/route-24/
-location: route-24
 ---
+
+# Route 24
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -45,3 +54,14 @@ location: route-24
 | [Krabby]({{ site.baseurl }}/pokemon/krabby/) | 15 | 33.3% |
 | [Psyduck]({{ site.baseurl }}/pokemon/psyduck/) | 15 | 33.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

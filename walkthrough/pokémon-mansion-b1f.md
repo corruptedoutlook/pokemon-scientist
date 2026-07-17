@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Pokémon Mansion B1F
 permalink: /walkthrough/pokémon-mansion-b1f/
-location: pokémon-mansion-b1f
 ---
+
+# Pokémon Mansion B1F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -25,3 +34,14 @@ location: pokémon-mansion-b1f
 | [Vulpix]({{ site.baseurl }}/pokemon/vulpix/) | 34 | 3.1% |
 | [Magmar]({{ site.baseurl }}/pokemon/magmar/) | 49 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

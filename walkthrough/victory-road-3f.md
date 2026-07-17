@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Victory Road 3F
 permalink: /walkthrough/victory-road-3f/
-location: victory-road-3f
 ---
+
+# Victory Road 3F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -25,3 +34,14 @@ location: victory-road-3f
 | [Machamp]({{ site.baseurl }}/pokemon/machamp/) | 45 | 2.3% |
 | [Venusaur]({{ site.baseurl }}/pokemon/venusaur/) | 46 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

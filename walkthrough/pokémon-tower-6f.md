@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Pokémon Tower 6F
 permalink: /walkthrough/pokémon-tower-6f/
-location: pokémon-tower-6f
 ---
+
+# Pokémon Tower 6F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -17,3 +26,14 @@ location: pokémon-tower-6f
 | [Haunter]({{ site.baseurl }}/pokemon/haunter/) | 26, 28, 30, 34 | 15.6% |
 | [Cubone]({{ site.baseurl }}/pokemon/cubone/) | 22, 24 | 5.5% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

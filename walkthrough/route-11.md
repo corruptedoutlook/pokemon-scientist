@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 11
 permalink: /walkthrough/route-11/
-location: route-11
 ---
+
+# Route 11
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -44,3 +53,14 @@ location: route-11
 | [Krabby]({{ site.baseurl }}/pokemon/krabby/) | 15 | 50.0% |
 | [Shellder]({{ site.baseurl }}/pokemon/shellder/) | 15 | 50.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

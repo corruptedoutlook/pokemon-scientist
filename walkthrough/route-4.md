@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 4
 permalink: /walkthrough/route-4/
-location: route-4
 ---
+
+# Route 4
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -41,3 +50,14 @@ location: route-4
 | [Krabby]({{ site.baseurl }}/pokemon/krabby/) | 15 | 33.3% |
 | [Psyduck]({{ site.baseurl }}/pokemon/psyduck/) | 15 | 33.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

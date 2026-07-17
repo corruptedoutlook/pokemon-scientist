@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 1
 permalink: /walkthrough/route-1/
-location: route-1
 ---
+
+# Route 1
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -20,3 +29,14 @@ location: route-1
 | [Ekans]({{ site.baseurl }}/pokemon/ekans/) | 5 | 9.8% |
 | [Oddish]({{ site.baseurl }}/pokemon/oddish/) | 5 | 9.8% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

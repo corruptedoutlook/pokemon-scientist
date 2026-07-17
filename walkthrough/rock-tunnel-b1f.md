@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Rock Tunnel B1F
 permalink: /walkthrough/rock-tunnel-b1f/
-location: rock-tunnel-b1f
 ---
+
+# Rock Tunnel B1F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -24,3 +33,14 @@ location: rock-tunnel-b1f
 | [Haunter]({{ site.baseurl }}/pokemon/haunter/) | 25 | 2.3% |
 | [Kangaskhan]({{ site.baseurl }}/pokemon/kangaskhan/) | 20 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

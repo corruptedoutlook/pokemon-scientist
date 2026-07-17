@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Cerulean Cave B1F
 permalink: /walkthrough/cerulean-cave-b1f/
-location: cerulean-cave-b1f
 ---
+
+# Cerulean Cave B1F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -48,3 +57,14 @@ location: cerulean-cave-b1f
 | [Seaking]({{ site.baseurl }}/pokemon/seaking/) | 23 | 25.0% |
 | [Slowbro]({{ site.baseurl }}/pokemon/slowbro/) | 23 | 25.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

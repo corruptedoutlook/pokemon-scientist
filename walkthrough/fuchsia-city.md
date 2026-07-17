@@ -1,9 +1,20 @@
 ---
-layout: location
+layout: page
 title: Fuchsia City
 permalink: /walkthrough/fuchsia-city/
-location: fuchsia-city
 ---
+
+# Fuchsia City
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
+
+## Wild Pokémon
 
 ### Old Rod
 
@@ -27,3 +38,14 @@ location: fuchsia-city
 | [Magikarp]({{ site.baseurl }}/pokemon/magikarp/) | 15 | 25.0% |
 | [Seaking]({{ site.baseurl }}/pokemon/seaking/) | 23 | 25.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

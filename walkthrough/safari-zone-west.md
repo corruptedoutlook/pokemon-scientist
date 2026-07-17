@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Safari Zone West
 permalink: /walkthrough/safari-zone-west/
-location: safari-zone-west
 ---
+
+# Safari Zone West
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -48,3 +57,14 @@ location: safari-zone-west
 | [Psyduck]({{ site.baseurl }}/pokemon/psyduck/) | 15 | 25.0% |
 | [Slowpoke]({{ site.baseurl }}/pokemon/slowpoke/) | 15 | 25.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

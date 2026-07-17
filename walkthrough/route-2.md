@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 2
 permalink: /walkthrough/route-2/
-location: route-2
 ---
+
+# Route 2
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -22,3 +31,14 @@ location: route-2
 | [Beedrill]({{ site.baseurl }}/pokemon/beedrill/) | 10 | 2.3% |
 | [Butterfree]({{ site.baseurl }}/pokemon/butterfree/) | 10 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 15
 permalink: /walkthrough/route-15/
-location: route-15
 ---
+
+# Route 15
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -22,3 +31,14 @@ location: route-15
 | [Chansey]({{ site.baseurl }}/pokemon/chansey/) | 30 | 2.3% |
 | [Venomoth]({{ site.baseurl }}/pokemon/venomoth/) | 28 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

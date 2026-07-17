@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Victory Road 2F
 permalink: /walkthrough/victory-road-2f/
-location: victory-road-2f
 ---
+
+# Victory Road 2F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -26,3 +35,14 @@ location: victory-road-2f
 | [Jynx]({{ site.baseurl }}/pokemon/jynx/) | 45 | 2.3% |
 | [Machamp]({{ site.baseurl }}/pokemon/machamp/) | 46 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

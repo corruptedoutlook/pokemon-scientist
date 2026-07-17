@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 23
 permalink: /walkthrough/route-23/
-location: route-23
 ---
+
+# Route 23
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -46,3 +55,14 @@ location: route-23
 | [Seaking]({{ site.baseurl }}/pokemon/seaking/) | 23 | 25.0% |
 | [Slowbro]({{ site.baseurl }}/pokemon/slowbro/) | 23 | 25.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

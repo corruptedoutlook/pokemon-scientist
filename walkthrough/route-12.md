@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 12
 permalink: /walkthrough/route-12/
-location: route-12
 ---
+
+# Route 12
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -45,3 +54,14 @@ location: route-12
 | [Magikarp]({{ site.baseurl }}/pokemon/magikarp/) | 15 | 25.0% |
 | [Tentacool]({{ site.baseurl }}/pokemon/tentacool/) | 5 | 25.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

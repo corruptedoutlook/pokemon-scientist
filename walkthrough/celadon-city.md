@@ -1,9 +1,20 @@
 ---
-layout: location
+layout: page
 title: Celadon City
 permalink: /walkthrough/celadon-city/
-location: celadon-city
 ---
+
+# Celadon City
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
+
+## Wild Pokémon
 
 ### Old Rod
 
@@ -25,3 +36,14 @@ location: celadon-city
 | [Poliwhirl]({{ site.baseurl }}/pokemon/poliwhirl/) | 23 | 50.0% |
 | [Slowpoke]({{ site.baseurl }}/pokemon/slowpoke/) | 15 | 50.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

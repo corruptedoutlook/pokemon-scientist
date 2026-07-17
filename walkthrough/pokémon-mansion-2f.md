@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Pokémon Mansion 2F
 permalink: /walkthrough/pokémon-mansion-2f/
-location: pokémon-mansion-2f
 ---
+
+# Pokémon Mansion 2F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -26,3 +35,14 @@ location: pokémon-mansion-2f
 | [Charizard]({{ site.baseurl }}/pokemon/charizard/) | 47 | 2.3% |
 | [Magmar]({{ site.baseurl }}/pokemon/magmar/) | 49 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

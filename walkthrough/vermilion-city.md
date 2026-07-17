@@ -1,9 +1,20 @@
 ---
-layout: location
+layout: page
 title: Vermilion City
 permalink: /walkthrough/vermilion-city/
-location: vermilion-city
 ---
+
+# Vermilion City
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
+
+## Wild Pokémon
 
 ### Old Rod
 
@@ -25,3 +36,14 @@ location: vermilion-city
 | [Krabby]({{ site.baseurl }}/pokemon/krabby/) | 15 | 50.0% |
 | [Shellder]({{ site.baseurl }}/pokemon/shellder/) | 15 | 50.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

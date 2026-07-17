@@ -1,9 +1,20 @@
 ---
-layout: location
+layout: page
 title: Cerulean City
 permalink: /walkthrough/cerulean-city/
-location: cerulean-city
 ---
+
+# Cerulean City
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
+
+## Wild Pokémon
 
 ### Old Rod
 
@@ -26,3 +37,14 @@ location: cerulean-city
 | [Krabby]({{ site.baseurl }}/pokemon/krabby/) | 15 | 33.3% |
 | [Psyduck]({{ site.baseurl }}/pokemon/psyduck/) | 15 | 33.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

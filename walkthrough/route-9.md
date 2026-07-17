@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 9
 permalink: /walkthrough/route-9/
-location: route-9
 ---
+
+# Route 9
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -25,3 +34,14 @@ location: route-9
 | [Chansey]({{ site.baseurl }}/pokemon/chansey/) | 16 | 2.3% |
 | [Nidorino]({{ site.baseurl }}/pokemon/nidorino/) | 16 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

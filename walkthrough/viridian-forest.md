@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Viridian Forest
 permalink: /walkthrough/viridian-forest/
-location: viridian-forest
 ---
+
+# Viridian Forest
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -26,3 +35,14 @@ location: viridian-forest
 | [Pidgeotto]({{ site.baseurl }}/pokemon/pidgeotto/) | 9 | 2.3% |
 | [Pikachu]({{ site.baseurl }}/pokemon/pikachu/) | 5 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

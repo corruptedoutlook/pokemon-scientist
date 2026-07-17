@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 14
 permalink: /walkthrough/route-14/
-location: route-14
 ---
+
+# Route 14
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -23,3 +32,14 @@ location: route-14
 | [Ivysaur]({{ site.baseurl }}/pokemon/ivysaur/) | 33 | 2.3% |
 | [Weepinbell]({{ site.baseurl }}/pokemon/weepinbell/) | 30 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

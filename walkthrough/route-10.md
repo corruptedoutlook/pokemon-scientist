@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Route 10
 permalink: /walkthrough/route-10/
-location: route-10
 ---
+
+# Route 10
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -45,3 +54,14 @@ location: route-10
 | [Poliwhirl]({{ site.baseurl }}/pokemon/poliwhirl/) | 23 | 50.0% |
 | [Slowpoke]({{ site.baseurl }}/pokemon/slowpoke/) | 15 | 50.0% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

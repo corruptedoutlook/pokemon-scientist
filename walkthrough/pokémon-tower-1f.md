@@ -1,7 +1,29 @@
 ---
-layout: location
+layout: page
 title: Pokémon Tower 1F
 permalink: /walkthrough/pokémon-tower-1f/
-location: pokémon-tower-1f
 ---
 
+# Pokémon Tower 1F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
+
+## Wild Pokémon
+
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO

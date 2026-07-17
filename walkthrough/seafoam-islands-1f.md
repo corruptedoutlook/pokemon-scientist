@@ -1,9 +1,18 @@
 ---
-layout: location
+layout: page
 title: Seafoam Islands 1F
 permalink: /walkthrough/seafoam-islands-1f/
-location: seafoam-islands-1f
 ---
+
+# Seafoam Islands 1F
+
+## Overview
+
+TODO
+
+## Story
+
+TODO
 
 ## Wild Pokémon
 
@@ -26,3 +35,14 @@ location: seafoam-islands-1f
 | [Kingler]({{ site.baseurl }}/pokemon/kingler/) | 36 | 2.3% |
 | [Seadra]({{ site.baseurl }}/pokemon/seadra/) | 35 | 2.3% |
 
+## Trainers
+
+TODO
+
+## Items
+
+TODO
+
+## Connected Areas
+
+TODO
