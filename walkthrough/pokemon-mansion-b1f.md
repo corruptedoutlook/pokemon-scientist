@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pokémon Mansion B1F
-permalink: /walkthrough/pokémon-mansion-b1f/
+permalink: /walkthrough/pokemon-mansion-b1f/
 ---
 
 # Pokémon Mansion B1F

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pokémon Tower 6F
-permalink: /walkthrough/pokémon-tower-6f/
+permalink: /walkthrough/pokemon-tower-6f/
 ---
 
 # Pokémon Tower 6F

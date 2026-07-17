@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pokémon Tower 5F
-permalink: /walkthrough/pokémon-tower-5f/
+permalink: /walkthrough/pokemon-tower-5f/
 ---
 
 # Pokémon Tower 5F

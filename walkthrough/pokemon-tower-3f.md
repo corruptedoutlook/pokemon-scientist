@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pokémon Tower 3F
-permalink: /walkthrough/pokémon-tower-3f/
+permalink: /walkthrough/pokemon-tower-3f/
 ---
 
 # Pokémon Tower 3F

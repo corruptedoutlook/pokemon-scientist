@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pokémon Mansion 2F
-permalink: /walkthrough/pokémon-mansion-2f/
+permalink: /walkthrough/pokemon-mansion-2f/
 ---
 
 # Pokémon Mansion 2F
