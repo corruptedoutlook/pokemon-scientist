@@ -1,0 +1,42 @@
+#location-page {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+#location-page h2 {
+    margin-top: 2rem;
+    margin-bottom: .75rem;
+    border-bottom: 2px solid #444;
+    padding-bottom: .3rem;
+}
+
+#location-page h3 {
+    margin-top: 1.5rem;
+    color: #9aa0a6;
+}
+
+#location-page p {
+    margin-bottom: 1rem;
+}
+
+#location-page table {
+    width: 100%;
+    margin: 1rem 0 2rem;
+}
+
+#location-page th:first-child,
+#location-page td:first-child {
+    width: 40%;
+}
+
+#location-page th:nth-child(2),
+#location-page td:nth-child(2) {
+    text-align: center;
+    width: 20%;
+}
+
+#location-page th:last-child,
+#location-page td:last-child {
+    text-align: right;
+    width: 20%;
+}

@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+<div class="row">
+  <div class="col-lg-9">
+    <div id="location-page">
+      {{ content }}
+    </div>
+  </div>
+
+  <aside class="col-lg-3">
+    {% include walkthrough-nav.html %}
+  </aside>
+</div>
+
+<link rel="stylesheet" href="{{ '/assets/css/location.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/walkthrough-nav.css' | relative_url }}">

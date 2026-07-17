@@ -61,3 +61,14 @@ Pokémon Scientist is a comprehensive gameplay overhaul of the original Pokémon
 Pokémon Scientist is built upon the **pret/pokered** disassembly project.
 
 Without the work of the pret community, this project would not have been possible.
+
+---
+
+## Screenshots
+
+<div class="gallery">
+  <img src="/assets/img/screenshots/title.png" alt="Title Screen">
+  <img src="/assets/img/screenshots/lab.png" alt="Oak's Lab">
+  <img src="/assets/img/screenshots/battle.png" alt="Battle">
+  <img src="/assets/img/screenshots/koffing.png" alt="Koffing's Nest">
+</div>

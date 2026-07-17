@@ -1,0 +1,33 @@
+.walkthrough-nav {
+    position: sticky;
+    top: 5rem;
+    max-height: calc(100vh - 6rem);
+    overflow-y: auto;
+}
+
+.walkthrough-nav h3 {
+    margin-bottom: 1rem;
+}
+
+.walkthrough-nav h4 {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.walkthrough-nav ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.walkthrough-nav li {
+    margin: 0.35rem 0;
+}
+
+.walkthrough-nav a.active {
+    font-weight: bold;
+    color: var(--heading-color);
+}
+
+.walkthrough-nav a.active::before {
+    content: "▶ ";
+}

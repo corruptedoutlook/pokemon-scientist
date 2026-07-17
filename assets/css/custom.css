@@ -92,3 +92,73 @@ img:hover {
 .home-card h3 {
     margin-top: 0;
 }
+
+.spoiler-box {
+  margin: 1rem 0;
+  border: 1px solid var(--main-border-color);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.spoiler-summary {
+  cursor: pointer;
+  padding: 0.75rem 1rem;
+  font-weight: 600;
+  user-select: none;
+  list-style: none;
+}
+
+.spoiler-summary::-webkit-details-marker {
+  display: none;
+}
+
+.spoiler-summary::before {
+  content: "▶ ";
+}
+
+.spoiler-box[open] .spoiler-summary::before {
+  content: "▼ ";
+}
+
+.spoiler-content {
+  padding: 0 1rem 1rem;
+  white-space: pre-line;
+}
+
+.content img {
+  max-width: 300px;
+  display: inline-block;
+  margin: 0.5rem;
+}
+
+.post-content p {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.post-content p > * {
+  flex: 0 0 260px;
+}
+
+.post-content img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  max-width: 900px;
+  margin: 2rem auto;
+}
+
+.gallery img {
+  width: 260px;
+  height: auto;
+  border-radius: 6px;
+}

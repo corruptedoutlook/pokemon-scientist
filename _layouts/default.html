@@ -24,7 +24,10 @@ layout: compress
       <div class="{% if page.full_width %}container-fluid{% else %}container{% endif %} d-flex flex-column px-xxl-5">        {% include topbar.html lang=lang %}
 
         <div class="row flex-grow-1">
-          <main aria-label="Main Content" class="col-12 px-md-4">
+          <main
+            aria-label="Main Content"
+            class="{% if page.layout == "location" %}col-12 col-lg-11 col-xl-9{% else %}col-12{% endif %} px-md-4"
+          >
             {% if layout.layout == 'default' %}
               {% include refactor-content.html content=content lang=lang %}
             {% else %}
@@ -32,7 +35,11 @@ layout: compress
             {% endif %}
           </main>
 
-          <!-- panel -->
+          {% if page.layout == "location" %}
+          <aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
+            {% include walkthrough-nav.html %}
+          </aside>
+          {% endif %}
         </div>
 
         <div class="row">
