@@ -6,27 +6,21 @@ nav_exclude: true
 
 # Pokémon Scientist
 
-*A complete reimagining of Pokémon Blue from the perspective of one of Professor Oak's research aides.*
-
 ---
 
-## Welcome to the Laboratory
+## Back to the Lab
 
-Pokémon Scientist is a comprehensive gameplay overhaul of the original Pokémon Blue. Nearly every aspect of the game has been reconsidered—from type interactions and Pokémon balance to trainer battles, move distributions, and progression.
-
-Rather than recreating later generations, the project explores an alternate vision of Generation I. Whether you're a veteran of competitive RBY, or a casual player looking for a fresh adventure, Pokémon Scientist aims to make every battle feel surprising again.
+Pokémon Scientist is a comprehensive gameplay overhaul of the original Pokémon Blue. Nearly every aspect of the game has been reconsidered—from type interactions and Pokémon balance, to trainer battles and movesets.
 
 ---
 
 ## Highlights
 
-- Rebalanced base stats for every Pokémon
+- Rebalanced base stats for almost every Pokémon
 - Completely redesigned type chart
-- Revised learnsets and TM/HM distributions
-- Stronger trainers with more diverse teams
-- New Pokémon roles and strategic identities
+- Revised movesets/learnsets and TM/HM distributions
+- Stronger trainers with more challenging teams
 - Streamlined progression and quality-of-life improvements
-- Fully documented changes throughout this website
 
 ---
 
@@ -48,7 +42,7 @@ Rather than recreating later generations, the project explores an alternate visi
 
 <div class="home-card">
     <h3>⚔️ Type Chart</h3>
-    <p>Explore the redesigned effectiveness chart.</p>
+    <p>Explore the redesigned type effectiveness chart.</p>
     <a href="{{ '/type_chart/' | relative_url }}">Open →</a>
 </div>
 
@@ -66,4 +60,4 @@ Rather than recreating later generations, the project explores an alternate visi
 
 Pokémon Scientist is built upon the **pret/pokered** disassembly project.
 
-Without the work of the pret community, a project of this scope would not have been possible.
+Without the work of the pret community, this project would not have been possible.

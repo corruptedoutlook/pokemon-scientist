@@ -9,12 +9,6 @@ function typeBadge(type) {
     return `<span class="type-badge ${css}">${name}</span>`;
 }
 
-function displayMove(move) {
-    return move
-        .replace("PSYCHIC_M", "PSYCHIC")
-        .replaceAll("_", " ");
-}
-
 function growthBadge(rate) {
 
     const label = rate

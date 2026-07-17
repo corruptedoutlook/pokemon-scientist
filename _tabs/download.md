@@ -22,7 +22,7 @@ The recommended patching utility is **Floating IPS (Flips)** (Windows, Linux) or
 
 1. Download and open your desired patching utility.
 2. Choose **Apply Patch**.
-3. Select `Pokemon Scientist v1.0 patch.bps`.
+3. Select `Pokemon Scientist_v1.0_patch.bps`.
 4. Select a clean Pokémon Blue (USA/Europe) ROM.
 5. Save the patched ROM.
 6. Open the patched ROM in your preferred Game Boy emulator or flash cartridge.
@@ -48,7 +48,7 @@ Other cartridge dumpers that support Game Boy cartridges should work similarly.
 
 - Pokémon Blue (USA/Europe)
 - BPS-compatible patcher (recommended: Flips or MultiPatch)
-- A Game Boy emulator or compatible flash cartridge
+- A Game Boy emulator (SameBoy/BGB recommended) or compatible flash cartridge
 
 ---
 
