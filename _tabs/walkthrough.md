@@ -194,6 +194,13 @@ Defeating Giovanni forces Team Rocket to abandon the hideout and rewards you wit
 - [Rock Tunnel 1F](/pokemon-scientist/walkthrough/rock-tunnel-1f/)
 - [Rock Tunnel B1F](/pokemon-scientist/walkthrough/rock-tunnel-b1f/)
 - [Lavender Town](/pokemon-scientist/walkthrough/lavender-town/)
+- [Pokemon Tower 1F](/pokemon-scientist/walkthrough/pokemon-tower-1f/)
+- [Pokemon Tower 2F](/pokemon-scientist/walkthrough/pokemon-tower-2f/)
+- [Pokemon Tower 3F](/pokemon-scientist/walkthrough/pokemon-tower-3f/)
+- [Pokemon Tower 4F](/pokemon-scientist/walkthrough/pokemon-tower-4f/)
+- [Pokemon Tower 5F](/pokemon-scientist/walkthrough/pokemon-tower-5f/)
+- [Pokemon Tower 6F](/pokemon-scientist/walkthrough/pokemon-tower-6f/)
+- [Pokemon Tower 7F](/pokemon-scientist/walkthrough/pokemon-tower-7f/)
 
 {% capture spoilers %}
 With Fly now available, Rock Tunnel is no longer a mandatory part of the adventure, but it remains well worth exploring. The cave contains numerous trainers, valuable items, and several uncommon wild Pokémon, making it an excellent place to gain experience before continuing to Lavender Town.
@@ -221,7 +228,11 @@ The seventh floor has been occupied by Team Rocket, who have taken Mr. Fuji host
 - [Safari Zone West](/pokemon-scientist/walkthrough/safari-zone-west/)
 - [Route 19](/pokemon-scientist/walkthrough/route-19/)
 - [Route 20](/pokemon-scientist/walkthrough/route-20/)
-- [Seafoam Islands](/pokemon-scientist/walkthrough/seafoam-islands/)
+- [Seafoam Islands 1F](/pokemon-scientist/walkthrough/seafoam-islands-1f/)
+- [Seafoam Islands B1F](/pokemon-scientist/walkthrough/seafoam-islands-b1f/)
+- [Seafoam Islands B2F](/pokemon-scientist/walkthrough/seafoam-islands-b2f/)
+- [Seafoam Islands B3F](/pokemon-scientist/walkthrough/seafoam-islands-b3f/)
+- [Seafoam Islands B4F](/pokemon-scientist/walkthrough/seafoam-islands-b4f/)
 
 {% capture spoilers %}
 Before challenging Koga, make sure you have collected HM03 Surf from the Safari Zone and HM04 Strength from the Safari Zone Warden. Neither HM is locked behind Gym Badge requirements in Pokémon Scientist, making them immediately useful for exploring previously inaccessible areas. If you skipped either of them earlier, now is a good time to return and pick them up.
@@ -353,7 +364,9 @@ After defeating the Elite Four, your rival challenges you for the title of Champ
 - [Seafoam Islands B2F](/pokemon-scientist/walkthrough/seafoam-islands-b2f/)
 - [Seafoam Islands B3F](/pokemon-scientist/walkthrough/seafoam-islands-b3f/)
 - [Seafoam Islands B4F](/pokemon-scientist/walkthrough/seafoam-islands-b4f/)
-- [Victory Road](/pokemon-scientist/walkthrough/victory-road/)
+- [Victory Road 1F](/pokemon-scientist/walkthrough/victory-road-1f/)
+- [Victory Road 2F](/pokemon-scientist/walkthrough/victory-road-2f/)
+- [Victory Road 3F](/pokemon-scientist/walkthrough/victory-road-3f/)
 
 {% capture spoilers %}
 With the main story complete, Gym Leaders across Kanto are ready for a rematch. Each leader fields a significantly stronger team than before, making these battles among the toughest in the game. You must defeat every Gym Leader at least once after becoming Champion before Professor Oak will propose a final challenge.
