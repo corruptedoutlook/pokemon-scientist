@@ -107,7 +107,7 @@ Mt. Moon contains numerous useful Pokémon and items. Jynx can be caught here an
 - [Route 25](/pokemon-scientist/walkthrough/route-25/)
 
 {% capture spoilers %}
-Your rival awaits immediately west of Cerulean City. By this point your team should be around Levels 18–22, making this a good opportunity to evaluate how your party is developing. His team has considerably more coverage than in the original games, so avoid relying too heavily on a single Pokémon. Defeating him grants access to Nugget Bridge and the routes beyond.  
+Your rival awaits immediately north of Cerulean City. By this point your team should be around Levels 18–22, making this a good opportunity to evaluate how your party is developing. His team has considerably more coverage than in the original games, so avoid relying too heavily on a single Pokémon. Defeating him grants access to Nugget Bridge and the routes beyond.  
 
 Nugget Bridge consists of five consecutive trainer battles followed by an encounter with a Team Rocket Grunt. Heal your team before challenging the Grunt, as he can be more dangerous than the trainers preceding him. Victory rewards you with a Nugget, which can be sold for ₽10,000 to help fund supplies before the next Gym.  
 
