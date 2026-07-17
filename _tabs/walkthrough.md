@@ -183,7 +183,7 @@ Defeating Giovanni forces Team Rocket to abandon the hideout and rewards you wit
 
 {% endcapture %}
 
-{% include spoiler.html title="Chapter 7 Spoilers" content=spoilers %}
+{% include spoiler.html title="Chapter 6 Spoilers" content=spoilers %}
 
 ---
 
@@ -215,7 +215,7 @@ The seventh floor has been occupied by Team Rocket, who have taken Mr. Fuji host
 
 {% endcapture %}
 
-{% include spoiler.html title="Chapter 6 Spoilers" content=spoilers %}
+{% include spoiler.html title="Chapter 7 Spoilers" content=spoilers %}
 
 ---
 
