@@ -4,8 +4,6 @@ title: Fuchsia City
 permalink: /walkthrough/fuchsia-city/
 ---
 
-# Fuchsia City
-
 ## Overview
 
 TODO

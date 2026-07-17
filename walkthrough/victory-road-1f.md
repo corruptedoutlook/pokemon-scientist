@@ -4,8 +4,6 @@ title: Victory Road 1F
 permalink: /walkthrough/victory-road-1f/
 ---
 
-# Victory Road 1F
-
 ## Overview
 
 TODO

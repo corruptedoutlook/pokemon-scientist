@@ -4,8 +4,6 @@ title: Route 18
 permalink: /walkthrough/route-18/
 ---
 
-# Route 18
-
 ## Overview
 
 TODO

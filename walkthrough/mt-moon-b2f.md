@@ -4,8 +4,6 @@ title: Mt. Moon B2F
 permalink: /walkthrough/mt-moon-b2f/
 ---
 
-# Mt. Moon B2F
-
 ## Overview
 
 TODO

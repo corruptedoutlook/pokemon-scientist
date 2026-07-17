@@ -4,8 +4,6 @@ title: Pokémon Tower 3F
 permalink: /walkthrough/pokemon-tower-3f/
 ---
 
-# Pokémon Tower 3F
-
 ## Overview
 
 TODO

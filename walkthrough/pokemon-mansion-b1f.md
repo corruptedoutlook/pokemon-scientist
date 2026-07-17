@@ -4,8 +4,6 @@ title: Pokémon Mansion B1F
 permalink: /walkthrough/pokemon-mansion-b1f/
 ---
 
-# Pokémon Mansion B1F
-
 ## Overview
 
 TODO

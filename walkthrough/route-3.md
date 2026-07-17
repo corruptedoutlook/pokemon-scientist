@@ -4,8 +4,6 @@ title: Route 3
 permalink: /walkthrough/route-3/
 ---
 
-# Route 3
-
 ## Overview
 
 TODO

@@ -4,8 +4,6 @@ title: Pokémon Tower 6F
 permalink: /walkthrough/pokemon-tower-6f/
 ---
 
-# Pokémon Tower 6F
-
 ## Overview
 
 TODO

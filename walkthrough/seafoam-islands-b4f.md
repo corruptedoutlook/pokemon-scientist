@@ -4,8 +4,6 @@ title: Seafoam Islands B4F
 permalink: /walkthrough/seafoam-islands-b4f/
 ---
 
-# Seafoam Islands B4F
-
 ## Overview
 
 TODO

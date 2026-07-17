@@ -4,8 +4,6 @@ title: Lavender Town
 permalink: /walkthrough/lavender-town/
 ---
 
-# Lavender Town
-
 ## Overview
 
 TODO

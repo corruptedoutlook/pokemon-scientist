@@ -4,8 +4,6 @@ title: Pokémon Tower 5F
 permalink: /walkthrough/pokemon-tower-5f/
 ---
 
-# Pokémon Tower 5F
-
 ## Overview
 
 TODO

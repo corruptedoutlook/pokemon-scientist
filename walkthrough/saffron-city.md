@@ -4,8 +4,6 @@ title: Saffron City
 permalink: /walkthrough/saffron-city/
 ---
 
-# Saffron City
-
 ## Overview
 
 TODO

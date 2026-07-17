@@ -4,8 +4,6 @@ title: Route 15
 permalink: /walkthrough/route-15/
 ---
 
-# Route 15
-
 ## Overview
 
 TODO

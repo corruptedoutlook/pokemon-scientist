@@ -4,8 +4,6 @@ title: Rock Tunnel 1F
 permalink: /walkthrough/rock-tunnel-1f/
 ---
 
-# Rock Tunnel 1F
-
 ## Overview
 
 TODO

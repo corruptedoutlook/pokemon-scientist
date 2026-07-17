@@ -4,8 +4,6 @@ title: Route 21
 permalink: /walkthrough/route-21/
 ---
 
-# Route 21
-
 ## Overview
 
 TODO

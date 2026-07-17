@@ -4,8 +4,6 @@ title: Pewter City
 permalink: /walkthrough/pewter-city/
 ---
 
-# Pewter City
-
 ## Overview
 
 TODO

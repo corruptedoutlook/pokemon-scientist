@@ -4,8 +4,6 @@ title: Cinnabar Island
 permalink: /walkthrough/cinnabar-island/
 ---
 
-# Cinnabar Island
-
 ## Overview
 
 TODO

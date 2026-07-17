@@ -4,8 +4,6 @@ title: Route 11
 permalink: /walkthrough/route-11/
 ---
 
-# Route 11
-
 ## Overview
 
 TODO

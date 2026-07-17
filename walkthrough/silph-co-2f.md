@@ -4,8 +4,6 @@ title: Silph Co. 2F
 permalink: /walkthrough/silph-co-2f/
 ---
 
-# Silph Co. 2F
-
 ## Overview
 
 TODO

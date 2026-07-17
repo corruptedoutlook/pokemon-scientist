@@ -4,8 +4,6 @@ title: Diglett's Cave
 permalink: /walkthrough/digletts-cave/
 ---
 
-# Diglett's Cave
-
 ## Overview
 
 TODO

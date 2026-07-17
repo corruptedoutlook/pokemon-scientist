@@ -4,8 +4,6 @@ title: Viridian Forest
 permalink: /walkthrough/viridian-forest/
 ---
 
-# Viridian Forest
-
 ## Overview
 
 TODO

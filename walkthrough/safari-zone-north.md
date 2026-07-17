@@ -4,8 +4,6 @@ title: Safari Zone North
 permalink: /walkthrough/safari-zone-north/
 ---
 
-# Safari Zone North
-
 ## Overview
 
 TODO

@@ -4,8 +4,6 @@ title: Pallet Town
 permalink: /walkthrough/pallet-town/
 ---
 
-# Pallet Town
-
 ## Overview
 
 TODO

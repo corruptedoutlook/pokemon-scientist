@@ -4,8 +4,6 @@ title: Route 8
 permalink: /walkthrough/route-8/
 ---
 
-# Route 8
-
 ## Overview
 
 TODO

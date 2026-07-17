@@ -4,8 +4,6 @@ title: Victory Road 3F
 permalink: /walkthrough/victory-road-3f/
 ---
 
-# Victory Road 3F
-
 ## Overview
 
 TODO

@@ -4,8 +4,6 @@ title: Mt. Moon B1F
 permalink: /walkthrough/mt-moon-b1f/
 ---
 
-# Mt. Moon B1F
-
 ## Overview
 
 TODO

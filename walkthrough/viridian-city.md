@@ -4,8 +4,6 @@ title: Viridian City
 permalink: /walkthrough/viridian-city/
 ---
 
-# Viridian City
-
 ## Overview
 
 TODO

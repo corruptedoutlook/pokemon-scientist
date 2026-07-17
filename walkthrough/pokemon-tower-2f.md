@@ -4,8 +4,6 @@ title: Pokémon Tower 2F
 permalink: /walkthrough/pokemon-tower-2f/
 ---
 
-# Pokémon Tower 2F
-
 ## Overview
 
 TODO

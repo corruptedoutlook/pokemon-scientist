@@ -4,8 +4,6 @@ title: Pokémon Tower 7F
 permalink: /walkthrough/pokemon-tower-7f/
 ---
 
-# Pokémon Tower 7F
-
 ## Overview
 
 TODO

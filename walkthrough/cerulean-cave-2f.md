@@ -4,8 +4,6 @@ title: Cerulean Cave 2F
 permalink: /walkthrough/cerulean-cave-2f/
 ---
 
-# Cerulean Cave 2F
-
 ## Overview
 
 TODO

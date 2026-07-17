@@ -4,8 +4,6 @@ title: Seafoam Islands B2F
 permalink: /walkthrough/seafoam-islands-b2f/
 ---
 
-# Seafoam Islands B2F
-
 ## Overview
 
 TODO

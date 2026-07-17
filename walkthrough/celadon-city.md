@@ -4,8 +4,6 @@ title: Celadon City
 permalink: /walkthrough/celadon-city/
 ---
 
-# Celadon City
-
 ## Overview
 
 TODO

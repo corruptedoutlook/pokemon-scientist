@@ -4,8 +4,6 @@ title: Route 13
 permalink: /walkthrough/route-13/
 ---
 
-# Route 13
-
 ## Overview
 
 TODO

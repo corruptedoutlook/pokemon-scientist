@@ -4,8 +4,6 @@ title: Indigo Plateau
 permalink: /walkthrough/indigo-plateau/
 ---
 
-# Indigo Plateau
-
 ## Overview
 
 TODO

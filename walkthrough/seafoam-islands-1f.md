@@ -4,8 +4,6 @@ title: Seafoam Islands 1F
 permalink: /walkthrough/seafoam-islands-1f/
 ---
 
-# Seafoam Islands 1F
-
 ## Overview
 
 TODO

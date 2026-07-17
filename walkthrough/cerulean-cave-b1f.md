@@ -4,8 +4,6 @@ title: Cerulean Cave B1F
 permalink: /walkthrough/cerulean-cave-b1f/
 ---
 
-# Cerulean Cave B1F
-
 ## Overview
 
 TODO

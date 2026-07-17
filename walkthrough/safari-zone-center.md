@@ -4,8 +4,6 @@ title: Safari Zone Center
 permalink: /walkthrough/safari-zone-center/
 ---
 
-# Safari Zone Center
-
 ## Overview
 
 TODO

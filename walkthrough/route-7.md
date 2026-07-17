@@ -4,8 +4,6 @@ title: Route 7
 permalink: /walkthrough/route-7/
 ---
 
-# Route 7
-
 ## Overview
 
 TODO

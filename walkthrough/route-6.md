@@ -4,8 +4,6 @@ title: Route 6
 permalink: /walkthrough/route-6/
 ---
 
-# Route 6
-
 ## Overview
 
 TODO

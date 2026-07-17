@@ -4,8 +4,6 @@ title: Silph Co. 8F
 permalink: /walkthrough/silph-co-8f/
 ---
 
-# Silph Co. 8F
-
 ## Overview
 
 TODO

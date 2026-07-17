@@ -4,8 +4,6 @@ title: Power Plant
 permalink: /walkthrough/power-plant/
 ---
 
-# Power Plant
-
 ## Overview
 
 TODO

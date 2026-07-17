@@ -4,8 +4,6 @@ title: Pokémon Mansion 1F
 permalink: /walkthrough/pokemon-mansion-1f/
 ---
 
-# Pokémon Mansion 1F
-
 ## Overview
 
 TODO

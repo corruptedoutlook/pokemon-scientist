@@ -4,8 +4,6 @@ title: Cerulean City
 permalink: /walkthrough/cerulean-city/
 ---
 
-# Cerulean City
-
 ## Overview
 
 TODO

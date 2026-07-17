@@ -4,8 +4,6 @@ title: Vermilion City
 permalink: /walkthrough/vermilion-city/
 ---
 
-# Vermilion City
-
 ## Overview
 
 TODO

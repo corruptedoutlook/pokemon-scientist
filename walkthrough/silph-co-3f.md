@@ -4,8 +4,6 @@ title: Silph Co. 3F
 permalink: /walkthrough/silph-co-3f/
 ---
 
-# Silph Co. 3F
-
 ## Overview
 
 TODO

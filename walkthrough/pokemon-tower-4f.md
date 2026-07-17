@@ -4,8 +4,6 @@ title: Pokémon Tower 4F
 permalink: /walkthrough/pokemon-tower-4f/
 ---
 
-# Pokémon Tower 4F
-
 ## Overview
 
 TODO

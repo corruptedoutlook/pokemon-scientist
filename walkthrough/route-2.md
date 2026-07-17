@@ -4,8 +4,6 @@ title: Route 2
 permalink: /walkthrough/route-2/
 ---
 
-# Route 2
-
 ## Overview
 
 TODO
