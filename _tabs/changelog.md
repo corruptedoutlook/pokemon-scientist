@@ -12,12 +12,13 @@ Pokémon Scientist is a comprehensive reimagining of Pokémon Blue from the pers
 
 - Complete rebalance of Pokémon learnsets
 - Nearly every trainer battle has been redesigned
-- All wild encounter tables have been reworked
+- Most wild encounter tables have been reworked
 - Numerous Pokémon have new typings (including Charizard as Fire/Dragon)
 - Complete overhaul of move balance, typing, and functionality
 - New type chart
 - Revised item availability, TM distribution, Gym Leader rewards, and shop prices
 - Revised in-game trades
+- The Daycare can now breed a Pokémon if you leave a Pokémon with them for long enough
 - Added a Tradeback NPC to the Celadon Department Store
 - Unlockable roaming Level 70 Mew encounter
 - All other legendary Pokémon are now post-Elite Four encounters
