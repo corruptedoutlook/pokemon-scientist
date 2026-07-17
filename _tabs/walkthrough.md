@@ -75,7 +75,9 @@ Continue through Viridian Forest. There are only three mandatory trainer battles
 
 - [Pewter City](/pokemon-scientist/walkthrough/pewter-city/)
 - [Route 3](/pokemon-scientist/walkthrough/route-3/)
-- [Mt. Moon](/pokemon-scientist/walkthrough/mt-moon/)
+- [Mt. Moon 1F](/pokemon-scientist/walkthrough/mt-moon-1f/)
+- [Mt. Moon B1F](/pokemon-scientist/walkthrough/mt-moon-b1f/)
+- [Mt. Moon B2F](/pokemon-scientist/walkthrough/mt-moon-b2f/)
 
 {% capture spoilers %}
 Defeating Brock is not required immediately. If your team is struggling, you can postpone the Gym battle and return later with additional experience.
@@ -131,7 +133,6 @@ With Bill’s experiment complete, the S.S. Ticket is yours. Before continuing t
 - [Route 5](/pokemon-scientist/walkthrough/route-5/)
 - [Route 6](/pokemon-scientist/walkthrough/route-6/)
 - [Vermilion City](/pokemon-scientist/walkthrough/vermilion-city/)
-- [S.S. Anne](/pokemon-scientist/walkthrough/ss-anne/)
 - [Diglett's Cave](/pokemon-scientist/walkthrough/digletts-cave/)
 
 {% capture spoilers %}
@@ -190,7 +191,8 @@ Defeating Giovanni forces Team Rocket to abandon the hideout and rewards you wit
 
 - [Route 9](/pokemon-scientist/walkthrough/route-9/)
 - [Route 10](/pokemon-scientist/walkthrough/route-10/)
-- [Rock Tunnel](/pokemon-scientist/walkthrough/rock-tunnel/)
+- [Rock Tunnel 1F](/pokemon-scientist/walkthrough/rock-tunnel-1f/)
+- [Rock Tunnel B1F](/pokemon-scientist/walkthrough/rock-tunnel-b1f/)
 - [Lavender Town](/pokemon-scientist/walkthrough/lavender-town/)
 
 {% capture spoilers %}
@@ -213,7 +215,10 @@ The seventh floor has been occupied by Team Rocket, who have taken Mr. Fuji host
 ## Chapter 8 — Fuchsia City
 
 - [Fuchsia City](/pokemon-scientist/walkthrough/fuchsia-city/)
-- [Safari Zone](/pokemon-scientist/walkthrough/safari-zone/)
+- [Safari Zone Center](/pokemon-scientist/walkthrough/safari-zone-center/)
+- [Safari Zone East](/pokemon-scientist/walkthrough/safari-zone-east/)
+- [Safari Zone North](/pokemon-scientist/walkthrough/safari-zone-north/)
+- [Safari Zone West](/pokemon-scientist/walkthrough/safari-zone-west/)
 - [Route 19](/pokemon-scientist/walkthrough/route-19/)
 - [Route 20](/pokemon-scientist/walkthrough/route-20/)
 - [Seafoam Islands](/pokemon-scientist/walkthrough/seafoam-islands/)
@@ -232,7 +237,17 @@ Koga’s Gym makes heavy use of Psychic-type Pokémon, despite being a Poison-ty
 
 - [Route 8](/pokemon-scientist/walkthrough/route-8/)
 - [Saffron City](/pokemon-scientist/walkthrough/saffron-city/)
-- [Silph Co.](/pokemon-scientist/walkthrough/silph-co/)
+- [Silph Co. 1F](/pokemon-scientist/walkthrough/silph-co-1f/)
+- [Silph Co. 2F](/pokemon-scientist/walkthrough/silph-co-2f/)
+- [Silph Co. 3F](/pokemon-scientist/walkthrough/silph-co-3f/)
+- [Silph Co. 4F](/pokemon-scientist/walkthrough/silph-co-4f/)
+- [Silph Co. 5F](/pokemon-scientist/walkthrough/silph-co-5f/)
+- [Silph Co. 6F](/pokemon-scientist/walkthrough/silph-co-6f/)
+- [Silph Co. 7F](/pokemon-scientist/walkthrough/silph-co-7f/)
+- [Silph Co. 8F](/pokemon-scientist/walkthrough/silph-co-8f/)
+- [Silph Co. 9F](/pokemon-scientist/walkthrough/silph-co-9f/)
+- [Silph Co. 10F](/pokemon-scientist/walkthrough/silph-co-10f/)
+- [Silph Co. 11F](/pokemon-scientist/walkthrough/silph-co-11f/)
 
 {% capture spoilers %}
 If Saffron City is still inaccessible, return to Celadon City and complete the Radio Tower storyline. Restoring communications allows the guards to verify your identity and reopen the city, granting access to both Silph Co. and Sabrina’s Gym.
@@ -261,9 +276,16 @@ Sabrina’s Gym specializes in Psychic-type Pokémon and remains one of the most
 - [Fuchsia City](/pokemon-scientist/walkthrough/fuchsia-city/)
 - [Route 19](/pokemon-scientist/walkthrough/route-19/)
 - [Route 20](/pokemon-scientist/walkthrough/route-20/)
-- [Seafoam Islands](/pokemon-scientist/walkthrough/seafoam-islands/)
+- [Seafoam Islands 1F](/pokemon-scientist/walkthrough/seafoam-islands-1f/)
+- [Seafoam Islands B1F](/pokemon-scientist/walkthrough/seafoam-islands-b1f/)
+- [Seafoam Islands B2F](/pokemon-scientist/walkthrough/seafoam-islands-b2f/)
+- [Seafoam Islands B3F](/pokemon-scientist/walkthrough/seafoam-islands-b3f/)
+- [Seafoam Islands B4F](/pokemon-scientist/walkthrough/seafoam-islands-b4f/)
 - [Cinnabar Island](/pokemon-scientist/walkthrough/cinnabar-island/)
-- [Pokémon Mansion](/pokemon-scientist/walkthrough/pokemon-mansion/)
+- [Pokémon Mansion 1F](/pokemon-scientist/walkthrough/pokemon-mansion-1f/)
+- [Pokémon Mansion 2F](/pokemon-scientist/walkthrough/pokemon-mansion-2f/)
+- [Pokémon Mansion 3F](/pokemon-scientist/walkthrough/pokemon-mansion-3f/)
+- [Pokémon Mansion B1F](/pokemon-scientist/walkthrough/pokemon-mansion-b1f/)
 
 {% capture spoilers %}
 Pokémon Mansion is a sprawling dungeon filled with trainers, wild Pokémon, locked passages, and hidden items. Progress depends on activating a series of statues that open and close different doors throughout the building. Be sure to explore thoroughly, as the mansion contains several valuable items in addition to those required for the main story.
@@ -285,7 +307,6 @@ Before leaving Cinnabar Island, take time to read the research journals scattere
 - [Pallet Town](/pokemon-scientist/walkthrough/pallet-town/)
 - [Route 1](/pokemon-scientist/walkthrough/route-1/)
 - [Viridian City](/pokemon-scientist/walkthrough/viridian-city/)
-- [Viridian Gym](/pokemon-scientist/walkthrough/viridian-gym/)
 - [Route 22](/pokemon-scientist/walkthrough/route-22/)
 
 {% capture spoilers %}
@@ -304,7 +325,9 @@ Your rival awaits on Route 22 for the final battle before the Pokémon League. H
 ## Chapter 12 — Indigo Plateau
 
 - [Route 23](/pokemon-scientist/walkthrough/route-23/)
-- [Victory Road](/pokemon-scientist/walkthrough/victory-road/)
+- [Victory Road 1F](/pokemon-scientist/walkthrough/victory-road-1f/)
+- [Victory Road 2F](/pokemon-scientist/walkthrough/victory-road-2f/)
+- [Victory Road 3F](/pokemon-scientist/walkthrough/victory-road-3f/)
 - [Indigo Plateau](/pokemon-scientist/walkthrough/indigo-plateau/)
 
 {% capture spoilers %}
@@ -321,9 +344,15 @@ After defeating the Elite Four, your rival challenges you for the title of Champ
 
 ## Postgame
 
-- [Cerulean Cave](/pokemon-scientist/walkthrough/cerulean-cave/)
+- [Cerulean Cave 1F](/pokemon-scientist/walkthrough/cerulean-cave-1f/)
+- [Cerulean Cave 2F](/pokemon-scientist/walkthrough/cerulean-cave-2f/)
+- [Cerulean Cave B1F](/pokemon-scientist/walkthrough/cerulean-cave-b1f/)
 - [Power Plant](/pokemon-scientist/walkthrough/power-plant/)
-- [Seafoam Islands](/pokemon-scientist/walkthrough/seafoam-islands/)
+- [Seafoam Islands 1F](/pokemon-scientist/walkthrough/seafoam-islands-1f/)
+- [Seafoam Islands B1F](/pokemon-scientist/walkthrough/seafoam-islands-b1f/)
+- [Seafoam Islands B2F](/pokemon-scientist/walkthrough/seafoam-islands-b2f/)
+- [Seafoam Islands B3F](/pokemon-scientist/walkthrough/seafoam-islands-b3f/)
+- [Seafoam Islands B4F](/pokemon-scientist/walkthrough/seafoam-islands-b4f/)
 - [Victory Road](/pokemon-scientist/walkthrough/victory-road/)
 
 {% capture spoilers %}
