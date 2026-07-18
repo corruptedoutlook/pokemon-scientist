@@ -2,7 +2,7 @@
 layout: page
 title: Moves
 order: 7
-icon: fas fa-language
+icon: fas fa-wave-square
 ---
 
 # Bug
