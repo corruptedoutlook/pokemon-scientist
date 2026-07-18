@@ -4,6 +4,12 @@ icon: fas fa-code-branch
 order: 5
 ---
 
+## Version 1.0.1
+
+### Gameplay
+
+- Fixed an oddly specific but pernicious bug where the game would freeze whenever a Gym Trainer would walk one or more tiles to approach the player.
+
 ## Version 1.0
 
 Pokémon Scientist is a comprehensive reimagining of Pokémon Blue from the perspective of one of Professor Oak's research aides. Nearly every aspect of the game has been revisited, from battle mechanics and trainer teams to story progression and quality-of-life improvements.
