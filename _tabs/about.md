@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-flask
-order: 6
+order: 8
 ---
 
 Instead of following the familiar journey of a young Trainer collecting badges, Pokémon Scientist casts you as one of Professor Oak's research assistants. The result is a version of Kanto where scientific research, fieldwork, and Team Rocket's interest in Pokémon biology play a much larger role in the story.

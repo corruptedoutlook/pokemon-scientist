@@ -1,7 +1,7 @@
 ---
 title: Pokédex
 icon: fas fa-dna
-order: 5
+order: 6
 ---
 
 <div
