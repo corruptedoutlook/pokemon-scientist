@@ -5,9 +5,9 @@ order: 7
 icon: fas fa-wave-square
 ---
 
-# Bug
+## Bug
 
-## Cut
+### Cut
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -16,7 +16,7 @@ icon: fas fa-wave-square
 | Accuracy | 95 | 95 |
 | PP | 30 | 20 |
 
-## Leech Life
+### Leech Life
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -26,7 +26,7 @@ icon: fas fa-wave-square
 | PP | 15 | 15 |
 | Effect | Drain HP Effect | Drain HP Effect |
 
-## Pin Missile
+### Pin Missile
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -36,7 +36,7 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Two To Five Attacks | Two To Five Attacks |
 
-## String Shot
+### String Shot
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -46,7 +46,7 @@ icon: fas fa-wave-square
 | PP | 40 | 20 |
 | Effect | Speed Down 1 Stage | Speed Down 1 Stage |
 
-## Twineedle
+### Twineedle
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -56,7 +56,7 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Two Attacks | Two Attacks |
 
-## Vicegrip
+### Vicegrip
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -65,7 +65,7 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 30 | 15 |
 
-## X-Scissor
+### X-Scissor
 
 | Property | Value |
 |----------|-------|
@@ -74,9 +74,9 @@ icon: fas fa-wave-square
 | Accuracy | 100 |
 | PP | 15 |
 
-# Dragon
+## Dragon
 
-## Dracometeor
+### Dracometeor
 
 | Property | Value |
 |----------|-------|
@@ -86,7 +86,7 @@ icon: fas fa-wave-square
 | PP | 5 |
 | Effect | Lower Special Side Effect |
 
-## Dragon Rage
+### Dragon Rage
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -96,7 +96,7 @@ icon: fas fa-wave-square
 | PP | 10 | 15 |
 | Effect | Special Damage Effect (40 HP) | Trapping Effect |
 
-## Sharp Scale
+### Sharp Scale
 
 | Property | Value |
 |----------|-------|
@@ -105,9 +105,9 @@ icon: fas fa-wave-square
 | Accuracy | 100 |
 | PP | 15 |
 
-# Electric
+## Electric
 
-## Sonicboom
+### Sonicboom
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -117,7 +117,7 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Special Damage Effect (20 HP) | Flinch Side Effect |
 
-## Thunder
+### Thunder
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -127,7 +127,7 @@ icon: fas fa-wave-square
 | PP | 10 | 10 |
 | Effect | Paralyze Side Effect | Paralyze Side Effect |
 
-## Thunderbolt
+### Thunderbolt
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -137,7 +137,7 @@ icon: fas fa-wave-square
 | PP | 15 | 15 |
 | Effect | Paralyze Side Effect | Paralyze Side Effect |
 
-## Thundershock
+### Thundershock
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -147,9 +147,9 @@ icon: fas fa-wave-square
 | PP | 30 | 20 |
 | Effect | Paralyze Side Effect | Paralyze Side Effect |
 
-# Fighting
+## Fighting
 
-## Comet Punch
+### Comet Punch
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -159,7 +159,7 @@ icon: fas fa-wave-square
 | PP | 15 | 20 |
 | Effect | Two To Five Attacks | Two To Five Attacks |
 
-## Counter
+### Counter
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -168,7 +168,7 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 20 | 10 |
 
-## Defense Curl
+### Defense Curl
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -178,7 +178,7 @@ icon: fas fa-wave-square
 | PP | 40 | 20 |
 | Effect | Defense Up 1 Stage | Defense Up 1 Stage |
 
-## Double Kick
+### Double Kick
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -188,7 +188,7 @@ icon: fas fa-wave-square
 | PP | 30 | 20 |
 | Effect | Attack Twice | Attack Twice |
 
-## Focus Energy
+### Focus Energy
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -198,7 +198,7 @@ icon: fas fa-wave-square
 | PP | 30 | 10 |
 | Effect | Focus Energy Effect | Focus Energy Effect |
 
-## Hi Jump Kick
+### Hi Jump Kick
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -208,7 +208,7 @@ icon: fas fa-wave-square
 | PP | 20 | 10 |
 | Effect | Jump Kick Effect | Jump Kick Effect |
 
-## Jump Kick
+### Jump Kick
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -218,7 +218,7 @@ icon: fas fa-wave-square
 | PP | 25 | 20 |
 | Effect | Jump Kick Effect | Jump Kick Effect |
 
-## Karate Chop
+### Karate Chop
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -227,7 +227,7 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 25 | 20 |
 
-## Low Kick
+### Low Kick
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -237,7 +237,7 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Increased Flinch Side Effect | Increased Flinch Side Effect |
 
-## Mega Kick
+### Mega Kick
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -246,7 +246,7 @@ icon: fas fa-wave-square
 | Accuracy | 75 | 70 |
 | PP | 5 | 5 |
 
-## Mega Punch
+### Mega Punch
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -255,7 +255,7 @@ icon: fas fa-wave-square
 | Accuracy | 85 | 90 |
 | PP | 20 | 10 |
 
-## Rage
+### Rage
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -265,7 +265,7 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Rage Effect | Rage Effect |
 
-## Rolling Kick
+### Rolling Kick
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -275,7 +275,7 @@ icon: fas fa-wave-square
 | PP | 15 | 15 |
 | Effect | Increased Flinch Side Effect | Increased Flinch Side Effect |
 
-## Skull Bash
+### Skull Bash
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -285,7 +285,7 @@ icon: fas fa-wave-square
 | PP | 15 | 15 |
 | Effect | Charge Effect | Charge Effect |
 
-## Strength
+### Strength
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -294,7 +294,7 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 15 | 15 |
 
-## Submission
+### Submission
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -304,9 +304,9 @@ icon: fas fa-wave-square
 | PP | 25 | 15 |
 | Effect | Recoil Effect | Recoil Effect |
 
-# Fire
+## Fire
 
-## Ember
+### Ember
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -316,7 +316,7 @@ icon: fas fa-wave-square
 | PP | 25 | 20 |
 | Effect | Burn Side Effect | Burn Side Effect |
 
-## Fire Blast
+### Fire Blast
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -326,7 +326,7 @@ icon: fas fa-wave-square
 | PP | 5 | 5 |
 | Effect | Increased Burn Side Effect | Increased Burn Side Effect |
 
-## Fire Spin
+### Fire Spin
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -336,7 +336,7 @@ icon: fas fa-wave-square
 | PP | 15 | 15 |
 | Effect | Trapping Effect | Trapping Effect |
 
-## Flamethrower
+### Flamethrower
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -346,9 +346,9 @@ icon: fas fa-wave-square
 | PP | 15 | 15 |
 | Effect | Burn Side Effect | Burn Side Effect |
 
-# Flying
+## Flying
 
-## Brave Bird
+### Brave Bird
 
 | Property | Value |
 |----------|-------|
@@ -358,7 +358,7 @@ icon: fas fa-wave-square
 | PP | 15 |
 | Effect | Recoil Effect |
 
-## Drill Peck
+### Drill Peck
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -367,7 +367,7 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 20 | 15 |
 
-## Fly
+### Fly
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -377,7 +377,7 @@ icon: fas fa-wave-square
 | PP | 15 | 15 |
 | Effect | Fly Effect | Fly Effect |
 
-## Gust
+### Gust
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -386,7 +386,7 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 35 | 20 |
 
-## Peck
+### Peck
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -395,7 +395,7 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 35 | 20 |
 
-## Razor Wind
+### Razor Wind
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -405,7 +405,7 @@ icon: fas fa-wave-square
 | PP | 10 | 5 |
 | Effect | Charge Effect | Charge Effect |
 
-## Sky Attack
+### Sky Attack
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -415,7 +415,7 @@ icon: fas fa-wave-square
 | PP | 5 | 5 |
 | Effect | Charge Effect | Charge Effect |
 
-## Whirlwind
+### Whirlwind
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -425,7 +425,7 @@ icon: fas fa-wave-square
 | PP | 20 | 10 |
 | Effect | Switch And Teleport Effect | Switch And Teleport Effect |
 
-## Wing Attack
+### Wing Attack
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -434,9 +434,9 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 35 | 20 |
 
-# Ghost
+## Ghost
 
-## Dream Eater
+### Dream Eater
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -446,7 +446,7 @@ icon: fas fa-wave-square
 | PP | 15 | 15 |
 | Effect | Dream Eater Effect | Dream Eater Effect |
 
-## Lick
+### Lick
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -456,7 +456,7 @@ icon: fas fa-wave-square
 | PP | 30 | 20 |
 | Effect | Increased Paralyze Side Effect | Increased Paralyze Side Effect |
 
-## Possession
+### Possession
 
 | Property | Value |
 |----------|-------|
@@ -466,9 +466,9 @@ icon: fas fa-wave-square
 | PP | 15 |
 | Effect | Increased Confusion Side Effect |
 
-# Grass
+## Grass
 
-## Absorb
+### Absorb
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -478,7 +478,7 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Drain HP Effect | Drain HP Effect |
 
-## Constrict
+### Constrict
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -488,7 +488,7 @@ icon: fas fa-wave-square
 | PP | 35 | 20 |
 | Effect | Speed Down Side Effect | Speed Down Side Effect |
 
-## Mega Drain
+### Mega Drain
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -498,7 +498,7 @@ icon: fas fa-wave-square
 | PP | 10 | 10 |
 | Effect | Drain HP Effect | Drain HP Effect |
 
-## Petal Dance
+### Petal Dance
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -508,7 +508,7 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Thrash Petal Dance Effect | Thrash Petal Dance Effect |
 
-## Razor Leaf
+### Razor Leaf
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -517,7 +517,7 @@ icon: fas fa-wave-square
 | Accuracy | 95 | 95 |
 | PP | 25 | 20 |
 
-## Stun Spore
+### Stun Spore
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -527,7 +527,7 @@ icon: fas fa-wave-square
 | PP | 30 | 20 |
 | Effect | Paralyze Effect | Paralyze Effect |
 
-## Vine Whip
+### Vine Whip
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -536,9 +536,9 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 10 | 15 |
 
-# Ground
+## Ground
 
-## Bone Club
+### Bone Club
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -548,7 +548,7 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Flinch Side Effect | Flinch Side Effect |
 
-## Dig
+### Dig
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -558,9 +558,9 @@ icon: fas fa-wave-square
 | PP | 10 | 10 |
 | Effect | Charge Effect | Charge Effect |
 
-# Ice
+## Ice
 
-## Aurora Beam
+### Aurora Beam
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -570,7 +570,7 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Attack Down Side Effect | Attack Down Side Effect |
 
-## Blizzard
+### Blizzard
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -580,7 +580,7 @@ icon: fas fa-wave-square
 | PP | 5 | 5 |
 | Effect | Freeze Side Effect | Freeze Side Effect |
 
-## Haze
+### Haze
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -590,7 +590,7 @@ icon: fas fa-wave-square
 | PP | 30 | 10 |
 | Effect | Haze Effect | Haze Effect* |
 
-## Ice Beam
+### Ice Beam
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -600,7 +600,7 @@ icon: fas fa-wave-square
 | PP | 10 | 10 |
 | Effect | Freeze Side Effect | Freeze Side Effect |
 
-## Mist
+### Mist
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -610,9 +610,9 @@ icon: fas fa-wave-square
 | PP | 30 | 20 |
 | Effect | Mist Effect | Mist Effect |
 
-# Normal
+## Normal
 
-## Barrage
+### Barrage
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -622,7 +622,7 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Two To Five Attacks | Two To Five Attacks |
 
-## Bind
+### Bind
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -632,7 +632,7 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Trapping Effect | Trapping Effect |
 
-## Bite
+### Bite
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -642,7 +642,7 @@ icon: fas fa-wave-square
 | PP | 25 | 15 |
 | Effect | Flinch Side Effect | Flinch Side Effect |
 
-## Conversion
+### Conversion
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -652,7 +652,7 @@ icon: fas fa-wave-square
 | PP | 30 | 5 |
 | Effect | Conversion Effect | Conversion Effect |
 
-## Dizzy Punch
+### Dizzy Punch
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -662,7 +662,7 @@ icon: fas fa-wave-square
 | PP | 10 | 10 |
 | Effect | No Additional Effect | Increased Confusion Side Effect |
 
-## Doubleslap
+### Doubleslap
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -672,7 +672,7 @@ icon: fas fa-wave-square
 | PP | 10 | 20 |
 | Effect | Two To Five Attacks | Two To Five Attacks |
 
-## Flash
+### Flash
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -682,7 +682,7 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Accuracy Down 1 Stage | Accuracy Down 2 Stages |
 
-## Fury Attack
+### Fury Attack
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -692,7 +692,7 @@ icon: fas fa-wave-square
 | PP | 20 | 10 |
 | Effect | Two To Five Attacks | Two To Five Attacks |
 
-## Glare
+### Glare
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -702,7 +702,7 @@ icon: fas fa-wave-square
 | PP | 30 | 10 |
 | Effect | Paralyze Effect | Paralyze Effect |
 
-## Growl
+### Growl
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -712,7 +712,7 @@ icon: fas fa-wave-square
 | PP | 40 | 20 |
 | Effect | Attack Down 1 Stage | Attack Down 1 Stage |
 
-## Growth
+### Growth
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -722,7 +722,7 @@ icon: fas fa-wave-square
 | PP | 40 | 20 |
 | Effect | Special Up 1 Stage | Special Up 1 Stage |
 
-## Harden
+### Harden
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -732,7 +732,7 @@ icon: fas fa-wave-square
 | PP | 30 | 20 |
 | Effect | Defense Up 1 Stage | Defense Up 1 Stage |
 
-## Horn Attack
+### Horn Attack
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -741,7 +741,7 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 25 | 20 |
 
-## Hyper Beam
+### Hyper Beam
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -751,7 +751,7 @@ icon: fas fa-wave-square
 | PP | 5 | 5 |
 | Effect | Hyper Beam Effect | Hyper Beam Effect |
 
-## Leer
+### Leer
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -761,7 +761,7 @@ icon: fas fa-wave-square
 | PP | 30 | 20 |
 | Effect | Defense Down 1 Stage | Defense Down 1 Stage |
 
-## Pound
+### Pound
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -770,7 +770,7 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 35 | 20 |
 
-## Quick Attack
+### Quick Attack
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -779,7 +779,7 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 30 | 20 |
 
-## Roar
+### Roar
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -789,7 +789,7 @@ icon: fas fa-wave-square
 | PP | 20 | 10 |
 | Effect | Switch And Teleport Effect | Switch And Teleport Effect |
 
-## Scratch
+### Scratch
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -798,7 +798,7 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 35 | 20 |
 
-## Screech
+### Screech
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -808,7 +808,7 @@ icon: fas fa-wave-square
 | PP | 40 | 20 |
 | Effect | Defense Down 2 Stages | Defense Down 2 Stages |
 
-## Sharpen
+### Sharpen
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -818,7 +818,7 @@ icon: fas fa-wave-square
 | PP | 30 | 10 |
 | Effect | Attack Up 1 Stage | Attack Up 1 Stage |
 
-## Sing
+### Sing
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -828,7 +828,7 @@ icon: fas fa-wave-square
 | PP | 15 | 15 |
 | Effect | Sleep Effect | Sleep Effect |
 
-## Slam
+### Slam
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -837,7 +837,7 @@ icon: fas fa-wave-square
 | Accuracy | 75 | 85 |
 | PP | 20 | 15 |
 
-## Supersonic
+### Supersonic
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -847,7 +847,7 @@ icon: fas fa-wave-square
 | PP | 20 | 10 |
 | Effect | Confusion Effect | Confusion Effect |
 
-## Swords Dance
+### Swords Dance
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -857,7 +857,7 @@ icon: fas fa-wave-square
 | PP | 30 | 10 |
 | Effect | Attack Up 2 Stages | Attack Up 2 Stages |
 
-## Tackle
+### Tackle
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -866,7 +866,7 @@ icon: fas fa-wave-square
 | Accuracy | 95 | 100 |
 | PP | 35 | 20 |
 
-## Tail Whip
+### Tail Whip
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -876,7 +876,7 @@ icon: fas fa-wave-square
 | PP | 30 | 20 |
 | Effect | Defense Down 1 Stage | Defense Down 1 Stage |
 
-## Thrash
+### Thrash
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -886,7 +886,7 @@ icon: fas fa-wave-square
 | PP | 20 | 10 |
 | Effect | Thrash Petal Dance Effect | Thrash Petal Dance Effect |
 
-## Tri Attack
+### Tri Attack
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -895,7 +895,7 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 10 | 10 |
 
-## Wrap
+### Wrap
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -905,9 +905,9 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Trapping Effect | Trapping Effect |
 
-# Poison
+## Poison
 
-## Acid
+### Acid
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -917,7 +917,7 @@ icon: fas fa-wave-square
 | PP | 30 | 20 |
 | Effect | Defense Down Side Effect | Defense Down Side Effect |
 
-## Acid Armor
+### Acid Armor
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -927,7 +927,7 @@ icon: fas fa-wave-square
 | PP | 40 | 10 |
 | Effect | Defense Up 2 Stages | Defense Up 2 Stages |
 
-## Poisonpowder
+### Poisonpowder
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -937,7 +937,7 @@ icon: fas fa-wave-square
 | PP | 35 | 20 |
 | Effect | Poison Effect | Poison Effect |
 
-## Poison Gas
+### Poison Gas
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -947,7 +947,7 @@ icon: fas fa-wave-square
 | PP | 40 | 20 |
 | Effect | Poison Effect | Poison Effect |
 
-## Poison Sting
+### Poison Sting
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -957,7 +957,7 @@ icon: fas fa-wave-square
 | PP | 35 | 20 |
 | Effect | Poison Side Effect | Poison Side Effect |
 
-## Sludge
+### Sludge
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -967,7 +967,7 @@ icon: fas fa-wave-square
 | PP | 20 | 15 |
 | Effect | Increased Poison Side Effect | Increased Poison Side Effect |
 
-## Smog
+### Smog
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -977,9 +977,9 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Increased Poison Side Effect | Increased Poison Side Effect |
 
-# Psychic
+## Psychic
 
-## Agility
+### Agility
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -989,7 +989,7 @@ icon: fas fa-wave-square
 | PP | 30 | 20 |
 | Effect | Speed Up 2 Stages | Speed Up 2 Stages |
 
-## Barrier
+### Barrier
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -999,7 +999,7 @@ icon: fas fa-wave-square
 | PP | 30 | 10 |
 | Effect | Defense Up 2 Stages | Defense Up 2 Stages |
 
-## Confusion
+### Confusion
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1009,7 +1009,7 @@ icon: fas fa-wave-square
 | PP | 25 | 20 |
 | Effect | Confusion Side Effect | Confusion Side Effect |
 
-## Hypnosis
+### Hypnosis
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1019,7 +1019,7 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Sleep Effect | Sleep Effect |
 
-## Light Screen
+### Light Screen
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1029,7 +1029,7 @@ icon: fas fa-wave-square
 | PP | 30 | 10 |
 | Effect | Light Screen Effect | Light Screen Effect |
 
-## Lovely Kiss
+### Lovely Kiss
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1039,7 +1039,7 @@ icon: fas fa-wave-square
 | PP | 10 | 10 |
 | Effect | Sleep Effect | Sleep Effect |
 
-## Meditate
+### Meditate
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1049,7 +1049,7 @@ icon: fas fa-wave-square
 | PP | 40 | 20 |
 | Effect | Attack Up 1 Stage | Attack Up 1 Stage |
 
-## Psybeam
+### Psybeam
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1059,7 +1059,7 @@ icon: fas fa-wave-square
 | PP | 20 | 15 |
 | Effect | Confusion Side Effect | Confusion Side Effect2 |
 
-## Reflect
+### Reflect
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1069,7 +1069,7 @@ icon: fas fa-wave-square
 | PP | 20 | 10 |
 | Effect | Reflect Effect | Reflect Effect |
 
-## Teleport
+### Teleport
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1079,9 +1079,9 @@ icon: fas fa-wave-square
 | PP | 20 | 5 |
 | Effect | Switch And Teleport Effect | Switch And Teleport Effect |
 
-# Rock
+## Rock
 
-## Rock Slide
+### Rock Slide
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1090,7 +1090,7 @@ icon: fas fa-wave-square
 | Accuracy | 90 | 90 |
 | PP | 10 | 10 |
 
-## Rock Throw
+### Rock Throw
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1099,7 +1099,7 @@ icon: fas fa-wave-square
 | Accuracy | 65 | 95 |
 | PP | 15 | 20 |
 
-## Tombstoner
+### Tombstoner
 
 | Property | Value |
 |----------|-------|
@@ -1109,9 +1109,9 @@ icon: fas fa-wave-square
 | PP | 5 |
 | Effect | Flinch Side Effect |
 
-# Water
+## Water
 
-## Bubble
+### Bubble
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1121,7 +1121,7 @@ icon: fas fa-wave-square
 | PP | 30 | 20 |
 | Effect | Speed Down Side Effect | Speed Down Side Effect |
 
-## Bubblebeam
+### Bubblebeam
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1131,7 +1131,7 @@ icon: fas fa-wave-square
 | PP | 20 | 20 |
 | Effect | Speed Down Side Effect | Speed Down Side Effect |
 
-## Clamp
+### Clamp
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1141,7 +1141,7 @@ icon: fas fa-wave-square
 | PP | 10 | 10 |
 | Effect | Trapping Effect | Trapping Effect |
 
-## Crabhammer
+### Crabhammer
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1150,7 +1150,7 @@ icon: fas fa-wave-square
 | Accuracy | 85 | 90 |
 | PP | 10 | 10 |
 
-## Spike Cannon
+### Spike Cannon
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1160,7 +1160,7 @@ icon: fas fa-wave-square
 | PP | 15 | 15 |
 | Effect | Two To Five Attacks | Two To Five Attacks |
 
-## Splash
+### Splash
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1170,7 +1170,7 @@ icon: fas fa-wave-square
 | PP | 40 | 10 |
 | Effect | Splash Effect | Splash Effect |
 
-## Surf
+### Surf
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1179,7 +1179,7 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 15 | 15 |
 
-## Waterfall
+### Waterfall
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1188,7 +1188,7 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 15 | 15 |
 
-## Water Gun
+### Water Gun
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
@@ -1197,7 +1197,7 @@ icon: fas fa-wave-square
 | Accuracy | 100 | 100 |
 | PP | 25 | 20 |
 
-## Withdraw
+### Withdraw
 
 | Property | Original | Scientist |
 |----------|----------|-----------|
