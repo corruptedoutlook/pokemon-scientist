@@ -178,6 +178,15 @@ collections:
     output: true
     sort_by: order
 
+  pokemon:
+    output: true
+
+  walkthrough:
+    output: true
+
+  moves:
+    output: true
+
 defaults:
   - scope:
       path: "" # An empty string here means all files in the project
@@ -199,6 +208,26 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: ""
+      type: pokemon
+    values:
+      layout: pokemon
+      permalink: /pokemon/:title/
+
+  - scope:
+      path: ""
+      type: walkthrough
+    values:
+      layout: walkthrough
+      permalink: /walkthrough/:title/
+
+  - scope:
+      path: ""
+      type: moves
+    values:
+      layout: move
+      permalink: /moves/:title/
 
 sass:
   style: compressed

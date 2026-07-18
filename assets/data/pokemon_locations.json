@@ -1,0 +1,973 @@
+{
+  "pidgey": [
+    "Route 1",
+    "Route 2",
+    "Route 3",
+    "Route 5",
+    "Route 6",
+    "Route 7",
+    "Route 13",
+    "Route 15",
+    "Route 24",
+    "Route 25",
+    "Viridian Forest"
+  ],
+  "rattata": [
+    "Route 1",
+    "Route 2",
+    "Route 3",
+    "Route 4",
+    "Route 7",
+    "Route 9",
+    "Route 22",
+    "Viridian Forest"
+  ],
+  "bellsprout": [
+    "Route 1",
+    "Route 5",
+    "Route 6",
+    "Route 7",
+    "Route 12",
+    "Route 13",
+    "Route 14",
+    "Route 15",
+    "Route 24",
+    "Route 25",
+    "Mt. Moon 1F",
+    "Mt. Moon B1F",
+    "Mt. Moon B2F"
+  ],
+  "tangela": [
+    "Route 1",
+    "Viridian Forest"
+  ],
+  "ekans": [
+    "Route 1",
+    "Route 3",
+    "Route 4",
+    "Route 9",
+    "Route 10",
+    "Route 11",
+    "Route 23"
+  ],
+  "oddish": [
+    "Route 1",
+    "Route 5",
+    "Route 6",
+    "Route 7",
+    "Route 12",
+    "Route 13",
+    "Route 14",
+    "Route 15",
+    "Route 24",
+    "Route 25",
+    "Mt. Moon 1F",
+    "Mt. Moon B1F",
+    "Mt. Moon B2F"
+  ],
+  "caterpie": [
+    "Route 2",
+    "Route 24",
+    "Route 25",
+    "Viridian Forest"
+  ],
+  "weedle": [
+    "Route 2",
+    "Route 24",
+    "Viridian Forest"
+  ],
+  "kakuna": [
+    "Route 2",
+    "Route 24",
+    "Route 25",
+    "Viridian Forest"
+  ],
+  "metapod": [
+    "Route 2",
+    "Route 24",
+    "Route 25",
+    "Viridian Forest"
+  ],
+  "beedrill": [
+    "Route 2",
+    "Route 5",
+    "Route 25",
+    "Viridian Forest"
+  ],
+  "butterfree": [
+    "Route 2",
+    "Route 5",
+    "Route 25",
+    "Viridian Forest"
+  ],
+  "spearow": [
+    "Route 3",
+    "Route 4",
+    "Route 9",
+    "Route 10",
+    "Route 11",
+    "Route 17",
+    "Route 18",
+    "Route 22",
+    "Route 23"
+  ],
+  "jigglypuff": [
+    "Route 3",
+    "Route 5",
+    "Route 6",
+    "Route 7",
+    "Route 8"
+  ],
+  "geodude": [
+    "Route 3",
+    "Route 6",
+    "Route 25",
+    "Mt. Moon 1F",
+    "Mt. Moon B1F",
+    "Mt. Moon B2F",
+    "Rock Tunnel 1F",
+    "Rock Tunnel B1F",
+    "Victory Road 1F",
+    "Victory Road 2F",
+    "Victory Road 3F"
+  ],
+  "nidoranf": [
+    "Route 3",
+    "Route 22",
+    "Safari Zone West"
+  ],
+  "nidoranm": [
+    "Route 3",
+    "Route 22",
+    "Safari Zone West"
+  ],
+  "clefairy": [
+    "Route 3",
+    "Mt. Moon 1F",
+    "Mt. Moon B1F",
+    "Mt. Moon B2F"
+  ],
+  "pikachu": [
+    "Route 3",
+    "Viridian Forest",
+    "Mt. Moon B2F",
+    "Power Plant"
+  ],
+  "sandshrew": [
+    "Route 4",
+    "Route 8",
+    "Route 9",
+    "Route 10",
+    "Route 11",
+    "Route 23"
+  ],
+  "abra": [
+    "Route 4",
+    "Route 6",
+    "Route 7",
+    "Route 8",
+    "Route 24",
+    "Route 25"
+  ],
+  "exeggcute": [
+    "Route 4",
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone West"
+  ],
+  "goldeen": [
+    "Route 4",
+    "Route 6",
+    "Route 10",
+    "Route 11",
+    "Route 12",
+    "Route 13",
+    "Route 17",
+    "Route 18",
+    "Route 19",
+    "Route 20",
+    "Route 21",
+    "Route 22",
+    "Route 23",
+    "Route 24",
+    "Route 25",
+    "Pallet Town",
+    "Viridian City",
+    "Cerulean City",
+    "Vermilion City",
+    "Celadon City",
+    "Fuchsia City",
+    "Cinnabar Island",
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone North",
+    "Safari Zone West",
+    "Seafoam Islands B2F",
+    "Seafoam Islands B3F",
+    "Seafoam Islands B4F",
+    "Cerulean Cave 1F",
+    "Cerulean Cave 2F",
+    "Cerulean Cave B1F"
+  ],
+  "krabby": [
+    "Route 4",
+    "Route 6",
+    "Route 10",
+    "Route 11",
+    "Route 12",
+    "Route 13",
+    "Route 17",
+    "Route 18",
+    "Route 24",
+    "Route 25",
+    "Cerulean City",
+    "Vermilion City",
+    "Fuchsia City",
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone North",
+    "Safari Zone West",
+    "Seafoam Islands 1F",
+    "Seafoam Islands B1F",
+    "Seafoam Islands B2F",
+    "Seafoam Islands B3F",
+    "Seafoam Islands B4F"
+  ],
+  "psyduck": [
+    "Route 4",
+    "Route 6",
+    "Route 24",
+    "Route 25",
+    "Cerulean City",
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone North",
+    "Safari Zone West",
+    "Seafoam Islands 1F",
+    "Seafoam Islands B1F",
+    "Seafoam Islands B2F",
+    "Seafoam Islands B3F",
+    "Seafoam Islands B4F"
+  ],
+  "magikarp": [
+    "Route 4",
+    "Route 6",
+    "Route 10",
+    "Route 11",
+    "Route 12",
+    "Route 13",
+    "Route 17",
+    "Route 18",
+    "Route 19",
+    "Route 20",
+    "Route 21",
+    "Route 22",
+    "Route 23",
+    "Route 24",
+    "Route 25",
+    "Pallet Town",
+    "Viridian City",
+    "Cerulean City",
+    "Vermilion City",
+    "Celadon City",
+    "Fuchsia City",
+    "Cinnabar Island",
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone North",
+    "Safari Zone West",
+    "Seafoam Islands B3F",
+    "Seafoam Islands B4F",
+    "Cerulean Cave 1F",
+    "Cerulean Cave 2F",
+    "Cerulean Cave B1F"
+  ],
+  "poliwag": [
+    "Route 4",
+    "Route 6",
+    "Route 10",
+    "Route 11",
+    "Route 12",
+    "Route 13",
+    "Route 17",
+    "Route 18",
+    "Route 19",
+    "Route 20",
+    "Route 21",
+    "Route 22",
+    "Route 23",
+    "Route 24",
+    "Route 25",
+    "Pallet Town",
+    "Viridian City",
+    "Cerulean City",
+    "Vermilion City",
+    "Celadon City",
+    "Fuchsia City",
+    "Cinnabar Island",
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone North",
+    "Safari Zone West",
+    "Seafoam Islands B3F",
+    "Seafoam Islands B4F",
+    "Cerulean Cave 1F",
+    "Cerulean Cave 2F",
+    "Cerulean Cave B1F"
+  ],
+  "pidgeotto": [
+    "Route 5",
+    "Route 7",
+    "Route 8",
+    "Route 11",
+    "Route 12",
+    "Route 14",
+    "Viridian Forest"
+  ],
+  "mankey": [
+    "Route 5",
+    "Route 6",
+    "Route 7",
+    "Route 8",
+    "Route 9",
+    "Route 22"
+  ],
+  "meowth": [
+    "Route 5",
+    "Route 6",
+    "Route 7",
+    "Route 8"
+  ],
+  "growlithe": [
+    "Route 5",
+    "Route 8",
+    "Pok\u00e9mon Mansion 1F",
+    "Pok\u00e9mon Mansion 2F",
+    "Pok\u00e9mon Mansion 3F",
+    "Pok\u00e9mon Mansion B1F"
+  ],
+  "vulpix": [
+    "Route 5",
+    "Route 7",
+    "Route 8",
+    "Pok\u00e9mon Mansion 1F",
+    "Pok\u00e9mon Mansion 2F",
+    "Pok\u00e9mon Mansion 3F",
+    "Pok\u00e9mon Mansion B1F"
+  ],
+  "magnemite": [
+    "Route 6",
+    "Route 10",
+    "Route 11",
+    "Power Plant"
+  ],
+  "drowzee": [
+    "Route 6",
+    "Route 11"
+  ],
+  "shellder": [
+    "Route 6",
+    "Route 11",
+    "Route 19",
+    "Route 20",
+    "Route 21",
+    "Vermilion City",
+    "Cinnabar Island",
+    "Seafoam Islands 1F",
+    "Seafoam Islands B1F",
+    "Seafoam Islands B2F",
+    "Seafoam Islands B3F",
+    "Seafoam Islands B4F"
+  ],
+  "kadabra": [
+    "Route 7",
+    "Route 8",
+    "Cerulean Cave 1F",
+    "Cerulean Cave 2F"
+  ],
+  "porygon": [
+    "Route 7"
+  ],
+  "arbok": [
+    "Route 8",
+    "Route 23",
+    "Cerulean Cave 1F",
+    "Cerulean Cave B1F"
+  ],
+  "sandslash": [
+    "Route 8",
+    "Route 11",
+    "Route 23",
+    "Cerulean Cave 1F",
+    "Cerulean Cave B1F"
+  ],
+  "cubone": [
+    "Route 9",
+    "Rock Tunnel 1F",
+    "Pok\u00e9mon Tower 3F",
+    "Pok\u00e9mon Tower 4F",
+    "Pok\u00e9mon Tower 5F",
+    "Pok\u00e9mon Tower 6F",
+    "Pok\u00e9mon Tower 7F"
+  ],
+  "venonat": [
+    "Route 9",
+    "Route 12",
+    "Route 13",
+    "Route 14",
+    "Route 15",
+    "Viridian Forest",
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone West"
+  ],
+  "zubat": [
+    "Route 9",
+    "Mt. Moon 1F",
+    "Mt. Moon B1F",
+    "Mt. Moon B2F",
+    "Rock Tunnel 1F",
+    "Rock Tunnel B1F",
+    "Victory Road 1F",
+    "Victory Road 2F",
+    "Victory Road 3F"
+  ],
+  "nidorina": [
+    "Route 9",
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone North"
+  ],
+  "chansey": [
+    "Route 9",
+    "Route 10",
+    "Route 12",
+    "Route 15",
+    "Route 23",
+    "Safari Zone Center",
+    "Safari Zone North",
+    "Cerulean Cave 2F",
+    "Cerulean Cave B1F"
+  ],
+  "nidorino": [
+    "Route 9",
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone North"
+  ],
+  "voltorb": [
+    "Route 10",
+    "Power Plant"
+  ],
+  "raticate": [
+    "Route 10",
+    "Route 16",
+    "Route 17",
+    "Route 18"
+  ],
+  "fearow": [
+    "Route 10",
+    "Route 16",
+    "Route 17",
+    "Route 18",
+    "Route 23"
+  ],
+  "electabuzz": [
+    "Route 10",
+    "Power Plant"
+  ],
+  "tauros": [
+    "Route 10",
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone North",
+    "Safari Zone West"
+  ],
+  "poliwhirl": [
+    "Route 10",
+    "Celadon City",
+    "Safari Zone West",
+    "Seafoam Islands 1F"
+  ],
+  "slowpoke": [
+    "Route 10",
+    "Route 12",
+    "Celadon City",
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone North",
+    "Safari Zone West",
+    "Seafoam Islands 1F",
+    "Seafoam Islands B1F",
+    "Seafoam Islands B2F",
+    "Seafoam Islands B3F",
+    "Seafoam Islands B4F"
+  ],
+  "hypno": [
+    "Route 11",
+    "Cerulean Cave 1F"
+  ],
+  "squirtle": [
+    "Route 11"
+  ],
+  "mrmime": [
+    "Route 11"
+  ],
+  "gloom": [
+    "Route 12",
+    "Route 13",
+    "Route 14",
+    "Route 15"
+  ],
+  "weepinbell": [
+    "Route 12",
+    "Route 13",
+    "Route 14"
+  ],
+  "farfetchd": [
+    "Route 12",
+    "Route 17",
+    "Route 18"
+  ],
+  "tentacool": [
+    "Route 12",
+    "Route 13",
+    "Route 17",
+    "Route 18",
+    "Route 19",
+    "Route 20",
+    "Route 21",
+    "Pallet Town",
+    "Viridian City"
+  ],
+  "ditto": [
+    "Route 13",
+    "Route 14",
+    "Route 15",
+    "Route 22",
+    "Route 23",
+    "Route 25",
+    "Cerulean Cave 1F",
+    "Cerulean Cave 2F",
+    "Cerulean Cave B1F"
+  ],
+  "venomoth": [
+    "Route 14",
+    "Route 15",
+    "Cerulean Cave 1F",
+    "Cerulean Cave 2F"
+  ],
+  "ivysaur": [
+    "Route 14"
+  ],
+  "dodrio": [
+    "Route 16",
+    "Route 17",
+    "Route 18",
+    "Cerulean Cave 1F",
+    "Cerulean Cave 2F"
+  ],
+  "doduo": [
+    "Route 16",
+    "Route 17",
+    "Route 18"
+  ],
+  "grimer": [
+    "Route 16",
+    "Route 17",
+    "Route 18",
+    "Pok\u00e9mon Mansion 1F",
+    "Pok\u00e9mon Mansion 2F",
+    "Pok\u00e9mon Mansion 3F",
+    "Pok\u00e9mon Mansion B1F",
+    "Power Plant"
+  ],
+  "muk": [
+    "Route 16",
+    "Route 17",
+    "Route 18",
+    "Pok\u00e9mon Mansion 1F",
+    "Pok\u00e9mon Mansion 2F",
+    "Pok\u00e9mon Mansion 3F",
+    "Pok\u00e9mon Mansion B1F",
+    "Power Plant"
+  ],
+  "pinsir": [
+    "Route 16",
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone North",
+    "Safari Zone West"
+  ],
+  "scyther": [
+    "Route 16",
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone North",
+    "Safari Zone West"
+  ],
+  "persian": [
+    "Route 17"
+  ],
+  "koffing": [
+    "Route 17",
+    "Route 18",
+    "Pok\u00e9mon Mansion 1F",
+    "Pok\u00e9mon Mansion 2F",
+    "Pok\u00e9mon Mansion 3F",
+    "Pok\u00e9mon Mansion B1F",
+    "Power Plant"
+  ],
+  "weezing": [
+    "Route 17",
+    "Route 18",
+    "Pok\u00e9mon Mansion 1F",
+    "Pok\u00e9mon Mansion 2F",
+    "Pok\u00e9mon Mansion 3F",
+    "Pok\u00e9mon Mansion B1F",
+    "Power Plant"
+  ],
+  "ponyta": [
+    "Route 17",
+    "Route 18",
+    "Pok\u00e9mon Mansion 1F",
+    "Pok\u00e9mon Mansion 2F",
+    "Pok\u00e9mon Mansion 3F",
+    "Pok\u00e9mon Mansion B1F"
+  ],
+  "wartortle": [
+    "Route 19",
+    "Route 20",
+    "Route 21"
+  ],
+  "cloyster": [
+    "Route 19",
+    "Route 20",
+    "Route 21"
+  ],
+  "dewgong": [
+    "Route 19",
+    "Route 20",
+    "Route 21",
+    "Seafoam Islands B1F",
+    "Seafoam Islands B2F",
+    "Seafoam Islands B3F",
+    "Seafoam Islands B4F"
+  ],
+  "starmie": [
+    "Route 19",
+    "Route 20",
+    "Route 21"
+  ],
+  "staryu": [
+    "Route 19",
+    "Route 20",
+    "Route 21",
+    "Cinnabar Island",
+    "Seafoam Islands 1F",
+    "Seafoam Islands B1F",
+    "Seafoam Islands B2F",
+    "Seafoam Islands B3F",
+    "Seafoam Islands B4F"
+  ],
+  "dratini": [
+    "Route 19",
+    "Route 20",
+    "Route 21",
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone North",
+    "Safari Zone West"
+  ],
+  "lapras": [
+    "Route 19",
+    "Route 20",
+    "Route 21"
+  ],
+  "dragonair": [
+    "Route 19",
+    "Route 20",
+    "Route 21"
+  ],
+  "tentacruel": [
+    "Route 19",
+    "Route 20",
+    "Route 21"
+  ],
+  "blastoise": [
+    "Route 19",
+    "Route 20",
+    "Route 21"
+  ],
+  "dragonite": [
+    "Route 19",
+    "Route 20",
+    "Route 21"
+  ],
+  "horsea": [
+    "Route 19",
+    "Route 20",
+    "Route 21",
+    "Cinnabar Island",
+    "Seafoam Islands 1F",
+    "Seafoam Islands B1F",
+    "Seafoam Islands B2F",
+    "Seafoam Islands B3F",
+    "Seafoam Islands B4F"
+  ],
+  "exeggutor": [
+    "Route 23"
+  ],
+  "primeape": [
+    "Route 23"
+  ],
+  "kingler": [
+    "Route 23",
+    "Seafoam Islands 1F",
+    "Seafoam Islands B1F",
+    "Seafoam Islands B2F",
+    "Seafoam Islands B3F",
+    "Seafoam Islands B4F",
+    "Cerulean Cave 1F",
+    "Cerulean Cave 2F",
+    "Cerulean Cave B1F"
+  ],
+  "seadra": [
+    "Route 23",
+    "Seafoam Islands 1F",
+    "Cerulean Cave 1F",
+    "Cerulean Cave 2F",
+    "Cerulean Cave B1F"
+  ],
+  "seaking": [
+    "Route 23",
+    "Fuchsia City",
+    "Cerulean Cave 1F",
+    "Cerulean Cave 2F",
+    "Cerulean Cave B1F"
+  ],
+  "slowbro": [
+    "Route 23",
+    "Seafoam Islands 1F",
+    "Cerulean Cave 1F",
+    "Cerulean Cave 2F",
+    "Cerulean Cave B1F"
+  ],
+  "lickitung": [
+    "Route 24"
+  ],
+  "charmander": [
+    "Route 24"
+  ],
+  "paras": [
+    "Mt. Moon 1F",
+    "Mt. Moon B1F",
+    "Mt. Moon B2F",
+    "Safari Zone North"
+  ],
+  "bulbasaur": [
+    "Mt. Moon 1F",
+    "Mt. Moon B1F"
+  ],
+  "jynx": [
+    "Mt. Moon 1F",
+    "Mt. Moon B1F",
+    "Mt. Moon B2F",
+    "Victory Road 1F",
+    "Victory Road 2F",
+    "Victory Road 3F",
+    "Seafoam Islands B1F",
+    "Seafoam Islands B2F",
+    "Seafoam Islands B3F",
+    "Seafoam Islands B4F",
+    "Cerulean Cave 2F",
+    "Cerulean Cave B1F"
+  ],
+  "diglett": [
+    "Diglett's Cave"
+  ],
+  "dugtrio": [
+    "Diglett's Cave"
+  ],
+  "machop": [
+    "Rock Tunnel 1F",
+    "Rock Tunnel B1F",
+    "Victory Road 1F",
+    "Victory Road 2F",
+    "Victory Road 3F"
+  ],
+  "onix": [
+    "Rock Tunnel 1F",
+    "Rock Tunnel B1F",
+    "Victory Road 1F",
+    "Victory Road 2F",
+    "Victory Road 3F"
+  ],
+  "graveler": [
+    "Rock Tunnel 1F",
+    "Rock Tunnel B1F",
+    "Victory Road 1F",
+    "Victory Road 2F",
+    "Victory Road 3F"
+  ],
+  "machoke": [
+    "Rock Tunnel 1F",
+    "Rock Tunnel B1F",
+    "Victory Road 1F",
+    "Victory Road 2F",
+    "Victory Road 3F"
+  ],
+  "haunter": [
+    "Rock Tunnel 1F",
+    "Rock Tunnel B1F",
+    "Pok\u00e9mon Tower 3F",
+    "Pok\u00e9mon Tower 4F",
+    "Pok\u00e9mon Tower 5F",
+    "Pok\u00e9mon Tower 6F",
+    "Pok\u00e9mon Tower 7F"
+  ],
+  "golbat": [
+    "Rock Tunnel B1F",
+    "Victory Road 1F",
+    "Victory Road 2F",
+    "Victory Road 3F",
+    "Cerulean Cave 1F"
+  ],
+  "marowak": [
+    "Rock Tunnel B1F",
+    "Victory Road 1F",
+    "Victory Road 2F",
+    "Victory Road 3F",
+    "Cerulean Cave 2F",
+    "Cerulean Cave B1F"
+  ],
+  "kangaskhan": [
+    "Rock Tunnel B1F",
+    "Safari Zone East",
+    "Safari Zone West"
+  ],
+  "gastly": [
+    "Pok\u00e9mon Tower 3F",
+    "Pok\u00e9mon Tower 4F",
+    "Pok\u00e9mon Tower 5F",
+    "Pok\u00e9mon Tower 6F",
+    "Pok\u00e9mon Tower 7F"
+  ],
+  "rhyhorn": [
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone North",
+    "Safari Zone West"
+  ],
+  "parasect": [
+    "Safari Zone Center",
+    "Safari Zone East",
+    "Safari Zone West",
+    "Cerulean Cave 1F",
+    "Cerulean Cave B1F"
+  ],
+  "hitmonchan": [
+    "Safari Zone North"
+  ],
+  "hitmonlee": [
+    "Safari Zone North"
+  ],
+  "poliwrath": [
+    "Safari Zone West"
+  ],
+  "rapidash": [
+    "Pok\u00e9mon Mansion 1F",
+    "Pok\u00e9mon Mansion 2F",
+    "Pok\u00e9mon Mansion 3F",
+    "Pok\u00e9mon Mansion B1F"
+  ],
+  "charmeleon": [
+    "Pok\u00e9mon Mansion 1F",
+    "Pok\u00e9mon Mansion 2F",
+    "Pok\u00e9mon Mansion 3F"
+  ],
+  "ninetales": [
+    "Pok\u00e9mon Mansion 1F",
+    "Pok\u00e9mon Mansion 2F",
+    "Pok\u00e9mon Mansion 3F",
+    "Pok\u00e9mon Mansion B1F"
+  ],
+  "charizard": [
+    "Pok\u00e9mon Mansion 1F",
+    "Pok\u00e9mon Mansion 2F",
+    "Pok\u00e9mon Mansion 3F"
+  ],
+  "magmar": [
+    "Pok\u00e9mon Mansion 1F",
+    "Pok\u00e9mon Mansion 2F",
+    "Pok\u00e9mon Mansion 3F",
+    "Pok\u00e9mon Mansion B1F"
+  ],
+  "arcanine": [
+    "Pok\u00e9mon Mansion B1F"
+  ],
+  "nidoking": [
+    "Victory Road 1F"
+  ],
+  "pidgeot": [
+    "Victory Road 1F",
+    "Victory Road 2F"
+  ],
+  "golem": [
+    "Victory Road 1F"
+  ],
+  "nidoqueen": [
+    "Victory Road 2F"
+  ],
+  "machamp": [
+    "Victory Road 2F",
+    "Victory Road 3F"
+  ],
+  "venusaur": [
+    "Victory Road 3F"
+  ],
+  "seel": [
+    "Seafoam Islands 1F",
+    "Seafoam Islands B1F",
+    "Seafoam Islands B2F",
+    "Seafoam Islands B3F",
+    "Seafoam Islands B4F"
+  ],
+  "golduck": [
+    "Seafoam Islands 1F",
+    "Seafoam Islands B3F"
+  ],
+  "electrode": [
+    "Power Plant",
+    "Cerulean Cave 2F",
+    "Cerulean Cave B1F"
+  ],
+  "magneton": [
+    "Power Plant",
+    "Cerulean Cave 1F"
+  ],
+  "raichu": [
+    "Power Plant",
+    "Cerulean Cave 1F",
+    "Cerulean Cave B1F"
+  ],
+  "aerodactyl": [
+    "Cerulean Cave 1F"
+  ],
+  "rhydon": [
+    "Cerulean Cave 2F",
+    "Cerulean Cave B1F"
+  ],
+  "wigglytuff": [
+    "Cerulean Cave 2F"
+  ],
+  "clefable": [
+    "Cerulean Cave 2F"
+  ],
+  "kabuto": [
+    "Cerulean Cave B1F"
+  ],
+  "omanyte": [
+    "Cerulean Cave B1F"
+  ]
+}
