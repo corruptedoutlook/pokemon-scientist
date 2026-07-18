@@ -67,8 +67,20 @@ Without the work of the pret community, this project would not have been possibl
 ## Screenshots
 
 <div class="gallery">
-  <img src="/assets/img/screenshots/title.png" alt="Title Screen">
-  <img src="/assets/img/screenshots/lab.png" alt="Oak's Lab">
-  <img src="/assets/img/screenshots/battle.png" alt="Battle">
-  <img src="/assets/img/screenshots/koffing.png" alt="Koffing's Nest">
+  <img src="/assets/img/screenshots/1.png" alt="Options Screen (Unchanged)">
+  <img src="/assets/img/screenshots/2.png" alt="Oak's Speech">
+  <img src="/assets/img/screenshots/3.png" alt="A quick look at OAK's PC">
+  <img src="/assets/img/screenshots/4.png" alt="Rival Receives a Porygon">
+  <img src="/assets/img/screenshots/5.png" alt="Oak Encourages You to Get Out There">
+  <img src="/assets/img/screenshots/6.png" alt="Rival Challenge">
+  <img src="/assets/img/screenshots/7.png" alt="Aide Gives Pokéballs">
+  <img src="/assets/img/screenshots/8.png" alt="The Fired Lab Aide">
+  <img src="/assets/img/screenshots/9.png" alt="Oak's Parcel">
+  <img src="/assets/img/screenshots/10.png" alt="Wild Bellsprout Appeared!">
+  <img src="/assets/img/screenshots/11.png" alt="Oak's a Bit Skeptical">
+  <img src="/assets/img/screenshots/12.png" alt="Oak's Aide">
+  <img src="/assets/img/screenshots/13.png" alt="Overworld HM Use">
+  <img src="/assets/img/screenshots/14.png" alt="Viridian School 1">
+  <img src="/assets/img/screenshots/15.png" alt="Viridian School 2">
+
 </div>
