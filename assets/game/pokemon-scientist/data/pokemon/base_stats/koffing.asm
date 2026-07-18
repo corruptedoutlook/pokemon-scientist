@@ -1,0 +1,17 @@
+	db DEX_KOFFING ; pokedex id
+	db  55,  75,  105,  45,  65
+	;   hp  atk  def  spd  spc
+
+	db POISON, POISON ; type
+	db 190 ; catch rate
+	db 114 ; base exp
+	INCBIN "gfx/pokemon/front/koffing.pic", 0, 1 ; sprite dimensions
+	dw KoffingPicFront, KoffingPicBack
+	db TACKLE, SMOG, POISON_GAS, SMOKESCREEN ; level 1 learnset
+	db GROWTH_MEDIUM_FAST ; growth rate
+	; tm/hm learnset
+	tmhm TOXIC,        RAGE,         THUNDERBOLT,  THUNDER,      MIMIC,        \
+	DOUBLE_TEAM,  BIDE,         SELFDESTRUCT, FIRE_BLAST,   REST,         \
+	EXPLOSION,    SUBSTITUTE,	 FLASH
+	; end
+	db BANK(KoffingPicFront)

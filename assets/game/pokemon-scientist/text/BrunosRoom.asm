@@ -1,0 +1,47 @@
+_BrunoBeforeBattleText::
+	text "I am BRUNO of"
+	line "the ELITE FOUR!"
+	para "Most challengers"
+	line "seek glory."
+	para "You seek"
+	line "understanding."
+	para "That is a harder"
+	line "path."
+	para "PROF.OAK has"
+	line "placed great"
+	cont "faith in you."
+	para "I wonder..."
+	line "Does he tell you"
+	cont "everything?"
+	para "Strength comes"
+	line "from discipline."
+	para "Knowledge without"
+	line "discipline can"
+	cont "be dangerous."
+	para "Show me your"
+	line "conviction,"
+	cont "<PLAYER>!"
+	para "My #MON and"
+	line "I will grind you"
+	cont "down with our"
+	cont "superior power!"
+	done
+_BrunoEndBattleText::
+	text "Excellent."
+	prompt
+_BrunoAfterBattleText::
+	text "Your strength is"
+	line "honest."
+	para "Keep it that way."
+	para "The next member"
+	line "of the ELITE FOUR"
+	cont "has known OAK"
+	cont "far longer than"
+	cont "either of us."
+	para "Listen carefully"
+	line "to what she says."
+	done
+_BrunosRoomBrunoDontRunAwayText::
+	text "Someone's voice:"
+	line "Don't run away!"
+	done

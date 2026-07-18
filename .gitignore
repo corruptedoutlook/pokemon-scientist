@@ -32,14 +32,6 @@ _site/
 *.swp
 *.bak
 
-# Build products
-*.gb
-*.gbc
-*.sav
-*.rtc
-*.sym
-*.map
-
 # Personal use
 notes/
 scratch/

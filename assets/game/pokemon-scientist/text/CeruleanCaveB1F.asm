@@ -1,0 +1,16 @@
+_MewtwoBattleText::
+	text "So..."
+	para "Another human."
+	para "But you..."
+	line "I can see you"
+	cont "are different."
+	para "You seek"
+	line "understanding."
+	para "So did those who"
+	line "created me."
+	para "Come."
+	para "Let us discover"
+	line "which of us was"
+	cont "their greatest"
+	cont "experiment."
+	text_end

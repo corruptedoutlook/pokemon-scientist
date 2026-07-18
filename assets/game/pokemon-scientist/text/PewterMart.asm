@@ -1,0 +1,25 @@
+_PewterMartYoungsterText::
+	text "Have you seen the"
+	line "price of FRESH"
+	cont "WATER lately?"
+	para "¥1300 for a"
+	line "single bottle!"
+	cont "Even # BALLs"
+	cont "are cheaper!"
+	para "I guess staying"
+	line "hydrated isn't"
+	cont "for common folk"
+	cont "anymore."
+	done
+_PewterMartSuperNerdText::
+	text "Clean drinking"
+	line "water has become"
+	cont "valuable, due to"
+	cont "reports of toxic"
+	cont "waste caused by"
+	cont "GRIMER in fresh"
+	cont "water sources."
+	para "Don't waste it"
+	line "unless someone"
+	cont "really needs it!"
+	done
