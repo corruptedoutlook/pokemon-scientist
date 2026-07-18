@@ -1,0 +1,25 @@
+---
+layout: compress
+swcache: true
+---
+
+[
+{% assign first = true %}
+
+{% assign docs = site.tabs | concat: site.pokemon | concat: site.walkthrough | concat: site.moves %}
+
+{% for doc in docs %}
+  {% if doc.title %}
+    {% unless first %},{% endunless %}
+    {
+      "title": {{ doc.title | jsonify }},
+      "url": {{ doc.url | relative_url | jsonify }},
+      "categories": "",
+      "tags": "",
+      "date": {{ doc.date | jsonify }},
+      "content": {{ doc.content | strip_html | normalize_whitespace | jsonify }}
+    }
+    {% assign first = false %}
+  {% endif %}
+{% endfor %}
+]

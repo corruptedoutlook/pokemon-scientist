@@ -231,3 +231,17 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+  pokemon:
+    output: true
+
+  walkthrough:
+    output: true
+
+  moves:
+    output: true
