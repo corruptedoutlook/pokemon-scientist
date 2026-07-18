@@ -15,7 +15,6 @@ icon: fas fa-language
 | Power | 50 | 70 |
 | Accuracy | 95 | 95 |
 | PP | 30 | 20 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Leech Life
 
@@ -25,7 +24,7 @@ icon: fas fa-language
 | Power | 20 | 50 |
 | Accuracy | 100 | 100 |
 | PP | 15 | 15 |
-| Effect | Drain Hp Effect | Drain Hp Effect |
+| Effect | Drain HP Effect | Drain HP Effect |
 
 ## Pin Missile
 
@@ -35,7 +34,7 @@ icon: fas fa-language
 | Power | 14 | 25 |
 | Accuracy | 85 | 90 |
 | PP | 20 | 20 |
-| Effect | Two To Five Attacks Effect | Two To Five Attacks Effect |
+| Effect | Two To Five Attacks | Two To Five Attacks |
 
 ## String Shot
 
@@ -45,7 +44,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 95 | 95 |
 | PP | 40 | 20 |
-| Effect | Speed Down1 Effect | Speed Down1 Effect |
+| Effect | Speed Down 1 Stage | Speed Down 1 Stage |
 
 ## Twineedle
 
@@ -55,7 +54,7 @@ icon: fas fa-language
 | Power | 25 | 35 |
 | Accuracy | 100 | 100 |
 | PP | 20 | 20 |
-| Effect | Twineedle Effect | Twineedle Effect |
+| Effect | Two Attacks | Two Attacks |
 
 ## Vicegrip
 
@@ -65,9 +64,8 @@ icon: fas fa-language
 | Power | 55 | 80 |
 | Accuracy | 100 | 100 |
 | PP | 30 | 15 |
-| Effect | No Additional Effect | No Additional Effect |
 
-## Xscissor
+## X-Scissor
 
 | Property | Value |
 |----------|-------|
@@ -75,7 +73,6 @@ icon: fas fa-language
 | Power | 85 |
 | Accuracy | 100 |
 | PP | 15 |
-| Effect | No Additional Effect |
 
 # Dragon
 
@@ -87,7 +84,7 @@ icon: fas fa-language
 | Power | 130 |
 | Accuracy | 90 |
 | PP | 5 |
-| Effect | Special Down Side Effect |
+| Effect | Lower Special Side Effect |
 
 ## Dragon Rage
 
@@ -97,7 +94,7 @@ icon: fas fa-language
 | Power | 1 | 35 |
 | Accuracy | 100 | 100 |
 | PP | 10 | 15 |
-| Effect | Special Damage Effect | Trapping Effect |
+| Effect | Special Damage Effect (40 HP) | Trapping Effect |
 
 ## Sharp Scale
 
@@ -107,7 +104,6 @@ icon: fas fa-language
 | Power | 85 |
 | Accuracy | 100 |
 | PP | 15 |
-| Effect | No Additional Effect |
 
 # Electric
 
@@ -119,7 +115,7 @@ icon: fas fa-language
 | Power | 1 | 40 |
 | Accuracy | 90 | 100 |
 | PP | 20 | 20 |
-| Effect | Special Damage Effect | Flinch Side Effect1 |
+| Effect | Special Damage Effect (20 HP) | Flinch Side Effect |
 
 ## Thunder
 
@@ -129,7 +125,7 @@ icon: fas fa-language
 | Power | 120 | 120 |
 | Accuracy | 70 | 75 |
 | PP | 10 | 10 |
-| Effect | Paralyze Side Effect1 | Paralyze Side Effect1 |
+| Effect | Paralyze Side Effect | Paralyze Side Effect |
 
 ## Thunderbolt
 
@@ -139,7 +135,7 @@ icon: fas fa-language
 | Power | 95 | 90 |
 | Accuracy | 100 | 100 |
 | PP | 15 | 15 |
-| Effect | Paralyze Side Effect1 | Paralyze Side Effect1 |
+| Effect | Paralyze Side Effect | Paralyze Side Effect |
 
 ## Thundershock
 
@@ -149,7 +145,7 @@ icon: fas fa-language
 | Power | 40 | 45 |
 | Accuracy | 100 | 100 |
 | PP | 30 | 20 |
-| Effect | Paralyze Side Effect1 | Paralyze Side Effect1 |
+| Effect | Paralyze Side Effect | Paralyze Side Effect |
 
 # Fighting
 
@@ -161,7 +157,7 @@ icon: fas fa-language
 | Power | 18 | 20 |
 | Accuracy | 85 | 90 |
 | PP | 15 | 20 |
-| Effect | Two To Five Attacks Effect | Two To Five Attacks Effect |
+| Effect | Two To Five Attacks | Two To Five Attacks |
 
 ## Counter
 
@@ -171,7 +167,6 @@ icon: fas fa-language
 | Power | 1 | 1 |
 | Accuracy | 100 | 100 |
 | PP | 20 | 10 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Defense Curl
 
@@ -181,7 +176,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 100 | 100 |
 | PP | 40 | 20 |
-| Effect | Defense Up1 Effect | Defense Up1 Effect |
+| Effect | Defense Up 1 Stage | Defense Up 1 Stage |
 
 ## Double Kick
 
@@ -191,7 +186,7 @@ icon: fas fa-language
 | Power | 30 | 35 |
 | Accuracy | 100 | 100 |
 | PP | 30 | 20 |
-| Effect | Attack Twice Effect | Attack Twice Effect |
+| Effect | Attack Twice | Attack Twice |
 
 ## Focus Energy
 
@@ -231,7 +226,6 @@ icon: fas fa-language
 | Power | 50 | 60 |
 | Accuracy | 100 | 100 |
 | PP | 25 | 20 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Low Kick
 
@@ -241,7 +235,7 @@ icon: fas fa-language
 | Power | 50 | 60 |
 | Accuracy | 90 | 100 |
 | PP | 20 | 20 |
-| Effect | Flinch Side Effect2 | Flinch Side Effect2 |
+| Effect | Increased Flinch Side Effect | Increased Flinch Side Effect |
 
 ## Mega Kick
 
@@ -251,7 +245,6 @@ icon: fas fa-language
 | Power | 120 | 130 |
 | Accuracy | 75 | 70 |
 | PP | 5 | 5 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Mega Punch
 
@@ -261,7 +254,6 @@ icon: fas fa-language
 | Power | 80 | 85 |
 | Accuracy | 85 | 90 |
 | PP | 20 | 10 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Rage
 
@@ -281,7 +273,7 @@ icon: fas fa-language
 | Power | 60 | 70 |
 | Accuracy | 85 | 90 |
 | PP | 15 | 15 |
-| Effect | Flinch Side Effect2 | Flinch Side Effect2 |
+| Effect | Increased Flinch Side Effect | Increased Flinch Side Effect |
 
 ## Skull Bash
 
@@ -301,7 +293,6 @@ icon: fas fa-language
 | Power | 80 | 85 |
 | Accuracy | 100 | 100 |
 | PP | 15 | 15 |
-| Effect | No Additional Effect | Paralyze Side Effect2 |
 
 ## Submission
 
@@ -323,7 +314,7 @@ icon: fas fa-language
 | Power | 40 | 45 |
 | Accuracy | 100 | 100 |
 | PP | 25 | 20 |
-| Effect | Burn Side Effect1 | Burn Side Effect1 |
+| Effect | Burn Side Effect | Burn Side Effect |
 
 ## Fire Blast
 
@@ -333,7 +324,7 @@ icon: fas fa-language
 | Power | 120 | 110 |
 | Accuracy | 85 | 85 |
 | PP | 5 | 5 |
-| Effect | Burn Side Effect2 | Burn Side Effect2 |
+| Effect | Increased Burn Side Effect | Increased Burn Side Effect |
 
 ## Fire Spin
 
@@ -353,7 +344,7 @@ icon: fas fa-language
 | Power | 95 | 90 |
 | Accuracy | 100 | 100 |
 | PP | 15 | 15 |
-| Effect | Burn Side Effect1 | Burn Side Effect1 |
+| Effect | Burn Side Effect | Burn Side Effect |
 
 # Flying
 
@@ -375,7 +366,6 @@ icon: fas fa-language
 | Power | 80 | 85 |
 | Accuracy | 100 | 100 |
 | PP | 20 | 15 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Fly
 
@@ -395,7 +385,6 @@ icon: fas fa-language
 | Power | 40 | 40 |
 | Accuracy | 100 | 100 |
 | PP | 35 | 20 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Peck
 
@@ -405,7 +394,6 @@ icon: fas fa-language
 | Power | 35 | 35 |
 | Accuracy | 100 | 100 |
 | PP | 35 | 20 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Razor Wind
 
@@ -445,7 +433,6 @@ icon: fas fa-language
 | Power | 35 | 60 |
 | Accuracy | 100 | 100 |
 | PP | 35 | 20 |
-| Effect | No Additional Effect | No Additional Effect |
 
 # Ghost
 
@@ -467,7 +454,7 @@ icon: fas fa-language
 | Power | 20 | 50 |
 | Accuracy | 100 | 100 |
 | PP | 30 | 20 |
-| Effect | Paralyze Side Effect2 | Paralyze Side Effect2 |
+| Effect | Increased Paralyze Side Effect | Increased Paralyze Side Effect |
 
 ## Possession
 
@@ -477,7 +464,7 @@ icon: fas fa-language
 | Power | 120 |
 | Accuracy | 80 |
 | PP | 15 |
-| Effect | Confusion Side Effect2 |
+| Effect | Increased Confusion Side Effect |
 
 # Grass
 
@@ -489,7 +476,7 @@ icon: fas fa-language
 | Power | 20 | 30 |
 | Accuracy | 100 | 100 |
 | PP | 20 | 20 |
-| Effect | Drain Hp Effect | Drain Hp Effect |
+| Effect | Drain HP Effect | Drain HP Effect |
 
 ## Constrict
 
@@ -509,7 +496,7 @@ icon: fas fa-language
 | Power | 40 | 55 |
 | Accuracy | 100 | 100 |
 | PP | 10 | 10 |
-| Effect | Drain Hp Effect | Drain Hp Effect |
+| Effect | Drain HP Effect | Drain HP Effect |
 
 ## Petal Dance
 
@@ -529,7 +516,6 @@ icon: fas fa-language
 | Power | 55 | 70 |
 | Accuracy | 95 | 95 |
 | PP | 25 | 20 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Stun Spore
 
@@ -549,7 +535,6 @@ icon: fas fa-language
 | Power | 35 | 50 |
 | Accuracy | 100 | 100 |
 | PP | 10 | 15 |
-| Effect | No Additional Effect | No Additional Effect |
 
 # Ground
 
@@ -561,7 +546,7 @@ icon: fas fa-language
 | Power | 65 | 70 |
 | Accuracy | 85 | 90 |
 | PP | 20 | 20 |
-| Effect | Flinch Side Effect1 | Flinch Side Effect1 |
+| Effect | Flinch Side Effect | Flinch Side Effect |
 
 ## Dig
 
@@ -593,7 +578,7 @@ icon: fas fa-language
 | Power | 120 | 110 |
 | Accuracy | 90 | 75 |
 | PP | 5 | 5 |
-| Effect | Freeze Side Effect1 | Freeze Side Effect1 |
+| Effect | Freeze Side Effect | Freeze Side Effect |
 
 ## Haze
 
@@ -603,7 +588,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 100 | 100 |
 | PP | 30 | 10 |
-| Effect | Haze Effect | Haze Effect |
+| Effect | Haze Effect | Haze Effect* |
 
 ## Ice Beam
 
@@ -613,7 +598,7 @@ icon: fas fa-language
 | Power | 95 | 90 |
 | Accuracy | 100 | 100 |
 | PP | 10 | 10 |
-| Effect | Freeze Side Effect1 | Freeze Side Effect1 |
+| Effect | Freeze Side Effect | Freeze Side Effect |
 
 ## Mist
 
@@ -635,7 +620,7 @@ icon: fas fa-language
 | Power | 15 | 25 |
 | Accuracy | 85 | 85 |
 | PP | 20 | 20 |
-| Effect | Two To Five Attacks Effect | Two To Five Attacks Effect |
+| Effect | Two To Five Attacks | Two To Five Attacks |
 
 ## Bind
 
@@ -655,7 +640,7 @@ icon: fas fa-language
 | Power | 60 | 60 |
 | Accuracy | 100 | 100 |
 | PP | 25 | 15 |
-| Effect | Flinch Side Effect1 | Flinch Side Effect1 |
+| Effect | Flinch Side Effect | Flinch Side Effect |
 
 ## Conversion
 
@@ -675,7 +660,7 @@ icon: fas fa-language
 | Power | 70 | 70 |
 | Accuracy | 100 | 100 |
 | PP | 10 | 10 |
-| Effect | No Additional Effect | Confusion Side Effect2 |
+| Effect | No Additional Effect | Increased Confusion Side Effect |
 
 ## Doubleslap
 
@@ -685,7 +670,7 @@ icon: fas fa-language
 | Power | 15 | 15 |
 | Accuracy | 85 | 85 |
 | PP | 10 | 20 |
-| Effect | Two To Five Attacks Effect | Two To Five Attacks Effect |
+| Effect | Two To Five Attacks | Two To Five Attacks |
 
 ## Flash
 
@@ -695,7 +680,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 70 | 70 |
 | PP | 20 | 20 |
-| Effect | Accuracy Down1 Effect | Accuracy Down2 Effect |
+| Effect | Accuracy Down 1 Stage | Accuracy Down 2 Stages |
 
 ## Fury Attack
 
@@ -705,7 +690,7 @@ icon: fas fa-language
 | Power | 15 | 20 |
 | Accuracy | 85 | 90 |
 | PP | 20 | 10 |
-| Effect | Two To Five Attacks Effect | Two To Five Attacks Effect |
+| Effect | Two To Five Attacks | Two To Five Attacks |
 
 ## Glare
 
@@ -725,7 +710,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 100 | 100 |
 | PP | 40 | 20 |
-| Effect | Attack Down1 Effect | Attack Down1 Effect |
+| Effect | Attack Down 1 Stage | Attack Down 1 Stage |
 
 ## Growth
 
@@ -735,7 +720,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 100 | 100 |
 | PP | 40 | 20 |
-| Effect | Special Up1 Effect | Special Up1 Effect |
+| Effect | Special Up 1 Stage | Special Up 1 Stage |
 
 ## Harden
 
@@ -745,7 +730,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 100 | 100 |
 | PP | 30 | 20 |
-| Effect | Defense Up1 Effect | Defense Up1 Effect |
+| Effect | Defense Up 1 Stage | Defense Up 1 Stage |
 
 ## Horn Attack
 
@@ -755,7 +740,6 @@ icon: fas fa-language
 | Power | 65 | 70 |
 | Accuracy | 100 | 100 |
 | PP | 25 | 20 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Hyper Beam
 
@@ -775,7 +759,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 100 | 100 |
 | PP | 30 | 20 |
-| Effect | Defense Down1 Effect | Defense Down1 Effect |
+| Effect | Defense Down 1 Stage | Defense Down 1 Stage |
 
 ## Pound
 
@@ -785,7 +769,6 @@ icon: fas fa-language
 | Power | 40 | 40 |
 | Accuracy | 100 | 100 |
 | PP | 35 | 20 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Quick Attack
 
@@ -795,7 +778,6 @@ icon: fas fa-language
 | Power | 40 | 40 |
 | Accuracy | 100 | 100 |
 | PP | 30 | 20 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Roar
 
@@ -815,7 +797,6 @@ icon: fas fa-language
 | Power | 40 | 40 |
 | Accuracy | 100 | 100 |
 | PP | 35 | 20 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Screech
 
@@ -825,7 +806,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 85 | 85 |
 | PP | 40 | 20 |
-| Effect | Defense Down2 Effect | Defense Down2 Effect |
+| Effect | Defense Down 2 Stages | Defense Down 2 Stages |
 
 ## Sharpen
 
@@ -835,7 +816,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 100 | 100 |
 | PP | 30 | 10 |
-| Effect | Attack Up1 Effect | Attack Up1 Effect |
+| Effect | Attack Up 1 Stage | Attack Up 1 Stage |
 
 ## Sing
 
@@ -855,7 +836,6 @@ icon: fas fa-language
 | Power | 80 | 85 |
 | Accuracy | 75 | 85 |
 | PP | 20 | 15 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Supersonic
 
@@ -875,7 +855,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 100 | 100 |
 | PP | 30 | 10 |
-| Effect | Attack Up2 Effect | Attack Up2 Effect |
+| Effect | Attack Up 2 Stages | Attack Up 2 Stages |
 
 ## Tackle
 
@@ -885,7 +865,6 @@ icon: fas fa-language
 | Power | 35 | 40 |
 | Accuracy | 95 | 100 |
 | PP | 35 | 20 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Tail Whip
 
@@ -895,7 +874,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 100 | 100 |
 | PP | 30 | 20 |
-| Effect | Defense Down1 Effect | Defense Down1 Effect |
+| Effect | Defense Down 1 Stage | Defense Down 1 Stage |
 
 ## Thrash
 
@@ -915,7 +894,6 @@ icon: fas fa-language
 | Power | 80 | 90 |
 | Accuracy | 100 | 100 |
 | PP | 10 | 10 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Wrap
 
@@ -947,7 +925,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 100 | 100 |
 | PP | 40 | 10 |
-| Effect | Defense Up2 Effect | Defense Up2 Effect |
+| Effect | Defense Up 2 Stages | Defense Up 2 Stages |
 
 ## Poisonpowder
 
@@ -977,7 +955,7 @@ icon: fas fa-language
 | Power | 15 | 30 |
 | Accuracy | 100 | 100 |
 | PP | 35 | 20 |
-| Effect | Poison Side Effect1 | Poison Side Effect1 |
+| Effect | Poison Side Effect | Poison Side Effect |
 
 ## Sludge
 
@@ -987,7 +965,7 @@ icon: fas fa-language
 | Power | 65 | 85 |
 | Accuracy | 100 | 100 |
 | PP | 20 | 15 |
-| Effect | Poison Side Effect2 | Poison Side Effect2 |
+| Effect | Increased Poison Side Effect | Increased Poison Side Effect |
 
 ## Smog
 
@@ -997,7 +975,7 @@ icon: fas fa-language
 | Power | 20 | 50 |
 | Accuracy | 70 | 85 |
 | PP | 20 | 20 |
-| Effect | Poison Side Effect2 | Poison Side Effect2 |
+| Effect | Increased Poison Side Effect | Increased Poison Side Effect |
 
 # Psychic
 
@@ -1009,7 +987,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 100 | 100 |
 | PP | 30 | 20 |
-| Effect | Speed Up2 Effect | Speed Up2 Effect |
+| Effect | Speed Up 2 Stages | Speed Up 2 Stages |
 
 ## Barrier
 
@@ -1019,7 +997,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 100 | 100 |
 | PP | 30 | 10 |
-| Effect | Defense Up2 Effect | Defense Up2 Effect |
+| Effect | Defense Up 2 Stages | Defense Up 2 Stages |
 
 ## Confusion
 
@@ -1069,7 +1047,7 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 100 | 100 |
 | PP | 40 | 20 |
-| Effect | Attack Up1 Effect | Attack Up1 Effect |
+| Effect | Attack Up 1 Stage | Attack Up 1 Stage |
 
 ## Psybeam
 
@@ -1111,7 +1089,6 @@ icon: fas fa-language
 | Power | 75 | 90 |
 | Accuracy | 90 | 90 |
 | PP | 10 | 10 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Rock Throw
 
@@ -1121,7 +1098,6 @@ icon: fas fa-language
 | Power | 50 | 60 |
 | Accuracy | 65 | 95 |
 | PP | 15 | 20 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Tombstoner
 
@@ -1131,7 +1107,7 @@ icon: fas fa-language
 | Power | 120 |
 | Accuracy | 75 |
 | PP | 5 |
-| Effect | Flinch Side Effect1 |
+| Effect | Flinch Side Effect |
 
 # Water
 
@@ -1173,7 +1149,6 @@ icon: fas fa-language
 | Power | 90 | 90 |
 | Accuracy | 85 | 90 |
 | PP | 10 | 10 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Spike Cannon
 
@@ -1183,7 +1158,7 @@ icon: fas fa-language
 | Power | 20 | 25 |
 | Accuracy | 100 | 100 |
 | PP | 15 | 15 |
-| Effect | Two To Five Attacks Effect | Two To Five Attacks Effect |
+| Effect | Two To Five Attacks | Two To Five Attacks |
 
 ## Splash
 
@@ -1203,7 +1178,6 @@ icon: fas fa-language
 | Power | 95 | 90 |
 | Accuracy | 100 | 100 |
 | PP | 15 | 15 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Waterfall
 
@@ -1213,7 +1187,6 @@ icon: fas fa-language
 | Power | 80 | 85 |
 | Accuracy | 100 | 100 |
 | PP | 15 | 15 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Water Gun
 
@@ -1223,7 +1196,6 @@ icon: fas fa-language
 | Power | 40 | 45 |
 | Accuracy | 100 | 100 |
 | PP | 25 | 20 |
-| Effect | No Additional Effect | No Additional Effect |
 
 ## Withdraw
 
@@ -1233,4 +1205,4 @@ icon: fas fa-language
 | Power | 0 | 0 |
 | Accuracy | 100 | 100 |
 | PP | 40 | 20 |
-| Effect | Defense Up1 Effect | Defense Up1 Effect |
+| Effect | Defense Up 1 Stage | Defense Up 1 Stage |
