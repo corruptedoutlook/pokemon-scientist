@@ -4,11 +4,13 @@ icon: fas fa-code-branch
 order: 5
 ---
 
-## Version 1.0.1
+## Version 1.1
 
 ### Gameplay
 
 - Fixed an oddly specific but pernicious bug where the game would freeze whenever a Gym Trainer would walk one or more tiles to approach the player.
+- Revised several dialogue segments.
+- Accounted for a BST increase on Tangela, so now it is only Alakazam, Mew, and Mewtwo who do not feature a BST increase in this ROMhack.
 
 ## Version 1.0
 

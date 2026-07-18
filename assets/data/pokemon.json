@@ -1193,8 +1193,8 @@
     "sprite": "/assets/img/pokemon/tangela.png",
     "type1": "GRASS",
     "type2": "GRASS",
-    "bst": 395,
-    "bst_delta": 0
+    "bst": 480,
+    "bst_delta": 85
   },
   "tauros": {
     "id": "tauros",

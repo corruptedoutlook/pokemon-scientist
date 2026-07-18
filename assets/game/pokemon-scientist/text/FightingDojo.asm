@@ -3,9 +3,6 @@ _FightingDojoKarateMasterText::
 	para "This DOJO values"
 	line "discipline above"
 	cont "victory."
-	para "Power without"
-	line "control is"
-	cont "worthless."
 	para "If you challenge"
 	line "us, show respect."
 	para "Then fight!"
@@ -29,7 +26,7 @@ _FightingDojoKarateMasterIWillGiveYouAPokemonText::
 	done
 _FightingDojoKarateMasterStayAndTrainWithUsText::
 	text "Return whenever"
-	line "your spirit needs"
+	line "you need more"
 	cont "training."
 	done
 _FightingDojoBlackbelt1BattleText::
@@ -45,16 +42,16 @@ _FightingDojoBlackbelt1AfterBattleText::
 	line "with humility."
 	done
 _FightingDojoBlackbelt2BattleText::
-	text "Your stance tells"
-	line "me everything!"
+	text "Cocky fighters"
+	line "don't last long."
 	done
 _FightingDojoBlackbelt2EndBattleText::
 	text "Judge!"
 	line "1 point!"
 	prompt
 _FightingDojoBlackbelt2AfterBattleText::
-	text "The body speaks"
-	line "before the fists."
+	text "The floor teaches"
+	line "humility fast."
 	done
 _FightingDojoBlackbelt3BattleText::
 	text "A wall doesn't"

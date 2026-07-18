@@ -10,7 +10,7 @@ permalink: /download/
 
 Download the latest release of **Pokémon Scientist**:
 
-[Download Pokémon Scientist v1.0.1 Patch (.bps)](https://github.com/corruptedoutlook/pokemon-scientist/releases/download/v1.0.1/Pokemon_Scientist_v1_0_1_patch.bps)
+[Download Pokémon Scientist v1.1 Patch (.bps)](https://github.com/corruptedoutlook/pokemon-scientist/releases/download/v1.1/Pokemon_Scientist_v1_1_patch.bps)
 
 Pokémon Scientist is distributed as a **BPS patch**, not as a ROM. You must supply your own legally obtained copy of **Pokémon Blue (USA, Europe) (SGB Enhanced).rom**.
 
@@ -22,7 +22,7 @@ The recommended patching utility is **Floating IPS (Flips)** (Windows, Linux) or
 
 1. Download and open your desired patching utility.
 2. Choose **Apply Patch**.
-3. Select `Pokemon Scientist_v1_0_1_patch.bps`.
+3. Select `Pokemon Scientist_v1_1_patch.bps`.
 4. Select a clean Pokémon Blue (USA/Europe) ROM.
 5. Save the patched ROM.
 6. Open the patched ROM in your preferred Game Boy emulator or flash cartridge.
@@ -62,7 +62,7 @@ This project **does not include** copyrighted Nintendo game data. Please use a R
 
 ## Issues
 
-If you encounter a bug, please include:
+If you encounter a bug, please e-mail **corruptedoutlook@gmail.com** and include:
 
 - Pokémon Scientist version
 - Emulator or hardware used

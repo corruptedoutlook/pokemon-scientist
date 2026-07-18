@@ -10,8 +10,7 @@ _ViridianGymGiovanniPreBattleText::
 	para "One final battle,"
 	line "<PLAYER>."
 	para "Let's see whose"
-	line "vision of the"
-	cont "future prevails."
+	line "was right."
 	done
 _ViridianGymGiovanniReceivedEarthBadgeText::
 	text "..."
@@ -92,9 +91,8 @@ _ViridianGymHiker1AfterBattleText::
 	cont "your challenge."
 	done
 _ViridianGymRocker1BattleText::
-	text "Strength without"
-	line "discipline is"
-	cont "just noise."
+	text "Swing wild and"
+	line "you'll lose."
 	done
 _ViridianGymRocker1EndBattleText::
 	text "Looks"
@@ -154,9 +152,8 @@ _ViridianGymRocker2EndBattleText::
 	line "Good one."
 	prompt
 _ViridianGymRocker2AfterBattleText::
-	text "The next battle"
-	line "will define your"
-	cont "journey."
+	text "You've come this"
+	line "far. Finish it."
 	done
 _ViridianGymCooltrainerM3BattleText::
 	text "The GYM reopened"
@@ -198,37 +195,33 @@ _ViridianGymGuidePostBattleText::
 	line "one last mystery"
 	cont "before the LEAGUE!"
 	done
-	_ViridianGymRematchPreBattleText::
+_ViridianGymRematchPreBattleText::
 	text "So."
 	line "You returned."
 	para "The title of"
 	line "CHAMPION means"
 	cont "nothing here."
-	para "Only strength"
-	line "decides who"
-	cont "stands above."
-	para "Show me yours."
+	para "Beat me again."
+	line "Then you'll earn"
+	cont "your title."
 	done
-	_ViridianGymRematchAcceptedText::
+_ViridianGymRematchAcceptedText::
 	text "Excellent."
 	line "Begin."
 	done
-	_ViridianGymRematchRefusedText::
-	text "A wise ruler"
-	line "chooses when."
+_ViridianGymRematchRefusedText::
+	text "Another time,"
+	line "then."
 	done
-	_ViridianGymRematchDefeatedText::
+_ViridianGymRematchDefeatedText::
 	text "Heh..."
 	line "Still superior."
 	prompt
-	_ViridianGymRematchPostBattleText::
+_ViridianGymRematchPostBattleText::
 	text "Interesting."
 	line "You've changed."
 	para "Not merely"
 	line "become stronger."
-	para "You've begun"
-	line "to understand"
-	cont "power."
 	para "There are"
 	line "rumors..."
 	para "A creature"
@@ -242,8 +235,7 @@ _ViridianGymGuidePostBattleText::
 	cont "those who did."
 	para "Remember."
 	para "The greatest"
-	line "victories"
-	cont "carry the"
-	cont "heaviest"
+	line "victories carry"
+	cont "the heaviest"
 	cont "price."
 	done

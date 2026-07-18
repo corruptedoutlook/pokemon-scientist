@@ -7,10 +7,8 @@ _SaffronGymSabrinaText::
 	line "defeat me."
 	para "In many, you"
 	line "never reach me."
-	para "There is only one"
-	line "way to discover"
-	cont "which future this"
-	cont "is."
+	para "Let's see what"
+	line "future survives."
 	done
 _SaffronGymSabrinaReceivedMarshBadgeText::
 	text "..."
@@ -20,11 +18,11 @@ _SaffronGymSabrinaReceivedMarshBadgeText::
 	line "is yours.@"
 	text_end
 _SaffronGymSabrinaPostBattleAdviceText::
-	text "The future isn't"
-	line "written."
-	para "It changes each"
-	line "time someone"
-	cont "chooses."
+	text "A single decision"
+	line "can erase the"
+	cont "future."
+	para "Visions aren't"
+	line "certainties."
 	done
 _SaffronGymSabrinaMarshBadgeInfoText::
 	text "The MARSHBADGE"
@@ -44,9 +42,9 @@ _TM46ExplanationText::
 	text_start
 	para "TM29 contains"
 	line "PSYCHIC."
-	para "Its strength"
-	line "depends on the"
-	cont "mind behind it."
+	para "A focused mind"
+	line "makes it"
+	cont "devastating."
 	done
 _SaffronGymSabrinaTM46NoRoomText::
 	text "Your pack is full"
@@ -72,7 +70,7 @@ _SaffronGymGuideBeatSabrinaText::
 	done
 _SaffronGymChanneler1BattleText::
 	text "A calm mind is"
-	line "harder to break."
+	line "hard to break."
 	done
 _SaffronGymChanneler1EndBattleText::
 	text "My"
@@ -80,9 +78,8 @@ _SaffronGymChanneler1EndBattleText::
 	cont "wavered!"
 	prompt
 _SaffronGymChanneler1AfterBattleText::
-	text "Resolve is"
-	line "stronger than"
-	cont "vision."
+	text "Even visions"
+	line "can deceive!"
 	done
 _SaffronGymYoungster1BattleText::
 	text "Can you fight"
@@ -114,8 +111,9 @@ _SaffronGymChanneler2AfterBattleText::
 	line "through a team."
 	done
 _SaffronGymYoungster2BattleText::
-	text "Strength begins"
-	line "in the mind."
+	text "Your #MON"
+	line "fought without"
+	cont "hesitation."
 	done
 _SaffronGymYoungster2EndBattleText::
 	text "My"
@@ -128,17 +126,16 @@ _SaffronGymYoungster2AfterBattleText::
 	line "mind."
 	done
 _SaffronGymChanneler3BattleText::
-	text "Every meeting"
-	line "has a purpose."
+	text "I wondered who"
+	line "would reach me."
 	done
 _SaffronGymChanneler3EndBattleText::
 	text "It"
 	line "all ends here..."
 	prompt
 _SaffronGymChanneler3AfterBattleText::
-	text "Perhaps this was"
-	line "always meant to"
-	cont "happen."
+	text "So that's the"
+	line "path you chose."
 	done
 _SaffronGymYoungster3BattleText::
 	text "Many seek"
