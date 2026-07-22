@@ -4,11 +4,19 @@ icon: fas fa-code-branch
 order: 5
 ---
 
+## Version 1.2
+
+### Gameplay
+
+- Fixed the crash when Prof. Oak is beaten
+- Fixed a bug where Mew becomes Ditto when caught after using Transform on a party Pokémon (Thanks to Reddit user MG2123 for pointing out these two bugs!)
+- Remaining issues: I could not fix three additional glitches. The first two I could not replicate despite using the same emulator as Reddit user MG2123. First, a bug where apparently using the Phone in the Start Menu after talking to the Celadon Dep't. Store Tradeback NPC causes surrounding NPCs to behave as Nurse Joy in the Pokémon Center. The second is a bug where having Mew in your party and visiting the Safari Zone will cause trainers' Pokémon to flee, resulting in an instant win. The third I was able to replicate, but could not seem to fix. It is a bug where Kabuto appears as "AREA UNKNOWN" in the Pokédex, despite Kabuto appearing in Cerulean Cave B1F. A future update might fix these bugs if I can manage to solve them.
+
 ## Version 1.1
 
 ### Gameplay
 
-- Fixed an oddly specific but pernicious bug where the game would freeze whenever a Gym Trainer would walk one or more tiles to approach the player.
+- Fixed an oddly specific but pernicious bug where the game would freeze whenever a Gym Trainer would walk one or more tiles to approach the player. Thanks to Caboll on ROMhacking.net for pointing this out!
 - Revised several dialogue segments.
 - Accounted for a BST increase on Tangela, so now it is only Alakazam, Mew, and Mewtwo who do not feature a BST increase in this ROMhack.
 
